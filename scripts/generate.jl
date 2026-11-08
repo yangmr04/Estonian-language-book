@@ -125,7 +125,11 @@ function write_home()
 
     The lessons follow the topic order of Juhan Tuldava's *Estonian Textbook: Grammar, Exercises, Conversation* (Indiana University, 1994), and `§` numbers point to the matching sections of that book. The explanations, examples and exercises here are independently written, and this site isn't affiliated with the book or its publisher.
 
-    Use the search box to find a topic, an Estonian word or a section such as `§ 66`, or browse the [section index](/sections/). There is also a reference page of [cardinal and ordinal numbers](/numbers/) with their case forms. Exercise answers stay folded until you open them, and they aren't included in search.
+    Use the search box to find a topic, an Estonian word or a section such as `§ 66`, or browse the [section index](/sections/). Exercise answers stay folded until you open them, and they aren't included in search.
+
+    ## Reference
+
+    - [Numbers: cardinal and ordinal](/numbers/), with nominative, genitive and partitive forms
 
     ## Lessons
     """
