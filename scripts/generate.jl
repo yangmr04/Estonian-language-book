@@ -16,7 +16,8 @@ fix_blanks(s) = replace(s, r"_{2,}" => m -> "&#95;"^length(m))
 # Franklin can't nest italics inside a bold line, so a bold label drops its inner italics.
 function fix_bold_label(s)
     m = match(r"^\*\*(.*)\*\*$", s)
-    return m === nothing ? s : "**" * replace(m[1], "*" => "") * "**"
+    m === nothing || return "**" * replace(m[1], "*" => "") * "**"
+    return replace(s, r"\*\*([^*]*)\*([^*]+)\*\*\*" => s"**\1\2**")
 end
 
 function section_numbers(heading)
