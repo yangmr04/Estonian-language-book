@@ -24,10 +24,10 @@ Word order can shift without changing these links: *Me peame aidata proovima.*
 
 | *-ma* | *-da* | Present |
 |---|---|---|
-| ära minema | ära minna | lähen ära |
-| üles tõusma | üles tõusta | tõusen üles |
-| kaasa võtma | kaasa võtta | võtan kaasa |
-| tagasi andma | tagasi anda | annan tagasi |
+| *ära minema* | *ära minna* | *lähen ära* |
+| *üles tõusma* | *üles tõusta* | *tõusen üles* |
+| *kaasa võtma* | *kaasa võtta* | *võtan kaasa* |
+| *tagasi andma* | *tagasi anda* | *annan tagasi* |
 
 *Lähen kohe ära. Pean kohe ära minema. Tahan kohe ära minna.* "I'm leaving at once. I must leave at once. I want to leave at once."
 
@@ -37,11 +37,11 @@ The *-ma* form began as a kind of verbal noun, which explains why it can be decl
 
 | Form | Case | Meaning | Example |
 |---|---|---|---|
-| ujuma | short illative | going off to do it | *Lähme ujuma!* "Let's go swimming!" |
-| ujumas | inessive | in the middle of doing it | *Lapsed on ujumas.* "The children are out swimming." |
-| ujumast | elative | coming from doing it | *Tuleme ujumast.* "We're coming back from swimming." |
-| ujumata | abessive | without doing it | *Ta lahkus ujumata.* "She left without swimming." |
-| ujumaks | translative | for the purpose of doing it | *Tulin ujumaks.* "I came in order to swim." |
+| *ujuma* | short illative | going off to do it | *Lähme ujuma!* "Let's go swimming!" |
+| *ujumas* | inessive | in the middle of doing it | *Lapsed on ujumas.* "The children are out swimming." |
+| *ujumast* | elative | coming from doing it | *Tuleme ujumast.* "We're coming back from swimming." |
+| *ujumata* | abessive | without doing it | *Ta lahkus ujumata.* "She left without swimming." |
+| *ujumaks* | translative | for the purpose of doing it | *Tulin ujumaks.* "I came in order to swim." |
 
 **-mas** also shows that something is about to happen: *Rong on saabumas.* "The train is arriving." *Käima* + *-mas* means going somewhere regularly and coming back: *Talvel käime suusatamas.* "In winter we go skiing." *Olemas* means "existing, available": *Kas võti on olemas?* "Do you have the key?"
 
@@ -57,9 +57,9 @@ Replace the *-da* infinitive's ending as follows. The forms do not change for pe
 
 | Infinitive ending | Gerund ending | Examples |
 |---|---|---|
-| -da | -des | ujuda → ujudes, naerda → naerdes |
-| -ta | -tes | pesta → pestes, vaadata → vaadates |
-| -a | -es | panna → pannes, käia → käies |
+| *-da* | *-des* | *ujuda → ujudes, naerda → naerdes* |
+| *-ta* | *-tes* | *pesta → pestes, vaadata → vaadates* |
+| *-a* | *-es* | *panna → pannes, käia → käies* |
 
 *Ta tuli naerdes tuppa.* "She came into the room laughing." *Koju minnes ostan piima.* "On the way home I'll buy milk."
 
@@ -69,31 +69,31 @@ The gerund comes from an old inessive of the *-da* infinitive. No other case of 
 
 | Estonian | English |
 |---|---|
-| Lähme sööma! | Let's go eat! |
-| Lähen magama. | I'm going to bed. |
-| Kas kõik on olemas? | Do we have everything? |
-| Aitäh helistamast! | Thanks for calling! |
-| Ma tulen kohe tagasi. | I'll be right back. |
-| Kodutöö on veel tegemata. | The homework isn't done yet. |
+| *Lähme sööma!* | Let's go eat! |
+| *Lähen magama.* | I'm going to bed. |
+| *Kas kõik on olemas?* | Do we have everything? |
+| *Aitäh helistamast!* | Thanks for calling! |
+| *Ma tulen kohe tagasi.* | I'll be right back. |
+| *Kodutöö on veel tegemata.* | The homework isn't done yet. |
 
 ## Exercises
 
 **A. Put the verb in the right *-ma* case form.**
 
-1. Lapsed on õues ___ (mängima).
-2. Ta tuli ___ (ujuma) ja on nüüd väsinud.
-3. Lähen koju ___ (magama).
-4. Ta lahkus ___ (maksma).
-5. Kodutöö on ___ (tegema).
-6. Kolisin linna, ___ (leidma) paremat tööd.
+1. *Lapsed on õues ___ (mängima).*
+2. *Ta tuli ___ (ujuma) ja on nüüd väsinud.*
+3. *Lähen koju ___ (magama).*
+4. *Ta lahkus ___ (maksma).*
+5. *Kodutöö on ___ (tegema).*
+6. *Kolisin linna, ___ (leidma) paremat tööd.*
 
 **B. Form the gerund.**
 
-1. kuulata
-2. naerda
-3. vaadata
-4. minna
-5. ujuda
+1. *kuulata*
+2. *naerda*
+3. *vaadata*
+4. *minna*
+5. *ujuda*
 
 **C. Translate into Estonian.**
 
@@ -111,9 +111,9 @@ The gerund comes from an old inessive of the *-da* infinitive. No other case of 
 
 **C.**
 
-1. Me tahame õppida ujuma.
-2. Sa pead oskama autot juhtida.
-3. Ma tahan võtme kaasa võtta.
-4. Jalutades kuulan muusikat.
+1. *Me tahame õppida ujuma.*
+2. *Sa pead oskama autot juhtida.*
+3. *Ma tahan võtme kaasa võtta.*
+4. *Jalutades kuulan muusikat.*
 
 </details>

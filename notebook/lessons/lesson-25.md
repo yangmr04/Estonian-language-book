@@ -13,11 +13,11 @@
 
 | Nominative | Genitive | Translative | English |
 |---|---|---|---|
-| arst | arsti | arstiks | doctor |
-| laulja | laulja | lauljaks | singer |
-| tark | targa | targaks | wise |
-| soe | sooja | soojaks | warm |
-| haige | haige | haigeks | sick |
+| *arst* | *arsti* | *arstiks* | doctor |
+| *laulja* | *laulja* | *lauljaks* | singer |
+| *tark* | *targa* | *targaks* | wise |
+| *soe* | *sooja* | *soojaks* | warm |
+| *haige* | *haige* | *haigeks* | sick |
 
 *Ta tahab saada arstiks.* "She wants to become a doctor." *Ilm läheb soojaks.* "The weather is getting warm."
 
@@ -26,14 +26,14 @@
 | Use | Example | English |
 |---|---|---|
 | Making or judging | *See muusika teeb mind rõõmsaks.* | This music makes me cheerful. |
-| | *Pean seda heaks mõtteks.* | I consider that a good idea. |
+|  | *Pean seda heaks mõtteks.* | I consider that a good idea. |
 | Serving as something | *Ta on mulle toeks.* | She is a support to me. |
 | Purpose | *Mida sa tahad hommikusöögiks?* | What do you want for breakfast? |
-| | *Ostan selle sünnipäevaks.* | I'm buying this for a birthday. |
+|  | *Ostan selle sünnipäevaks.* | I'm buying this for a birthday. |
 | Length of a planned stay | *Sõidan kolmeks päevaks Riiga.* | I'm going to Riga for three days. |
 | Deadline | *Tee see reedeks valmis.* | Have it ready by Friday. |
 | Rank or order | *Ta tuli võistlusel kolmandaks.* | She came third in the competition. |
-| | *Esiteks on mul kiire, teiseks olen väsinud.* | First, I'm busy; second, I'm tired. |
+|  | *Esiteks on mul kiire, teiseks olen väsinud.* | First, I'm busy; second, I'm tired. |
 
 ## Set verb phrases (§ 179)
 
@@ -41,10 +41,10 @@ The translative often joins a verb to name the result of an action.
 
 | Phrase | English |
 |---|---|
-| selgeks õppima | to learn thoroughly |
-| pooleks lõikama | to cut in half |
-| kuivaks pühkima | to wipe dry |
-| punaseks värvima | to paint red |
+| *selgeks õppima* | to learn thoroughly |
+| *pooleks lõikama* | to cut in half |
+| *kuivaks pühkima* | to wipe dry |
+| *punaseks värvima* | to paint red |
 
 ## Agreement and pronouns (§ 180–182)
 
@@ -64,8 +64,8 @@ The last sound of the word chooses the form.
 
 | Last sound | Particle | Examples |
 |---|---|---|
-| *b, d, f, g, h, k, p, s, š, t* | -ki | leibki, vendki, kasski, raamatki |
-| *l, m, n, r, v, z, ž*, any vowel | -gi | laulgi, koergi, tubagi |
+| *b, d, f, g, h, k, p, s, š, t* | *-ki* | *leibki, vendki, kasski, raamatki* |
+| *l, m, n, r, v, z, ž*, any vowel | *-gi* | *laulgi, koergi, tubagi* |
 
 It attaches to nearly any word. Translation depends on context:
 
@@ -81,8 +81,8 @@ Some words contain it permanently, such as *keegi, miski, kunagi, isegi, ükski,
 
 | Base | Case form |
 |---|---|
-| keegi | kellelegi, kellegagi |
-| miski | millestki |
+| *keegi* | kellelegi, kellegagi |
+| *miski* | millestki |
 
 *Ma ei rääkinud kellelegi.* "I didn't tell anyone." *Ta pole kunagi Riias käinud.* "She has never been to Riga."
 
@@ -90,31 +90,31 @@ Some words contain it permanently, such as *keegi, miski, kunagi, isegi, ükski,
 
 | Estonian | English |
 |---|---|
-| Saa terveks! | Get well! |
-| Jää terveks! | Take care! |
-| näiteks | for example |
-| Ma ei teagi. | I don't really know. |
-| Kelleks sa tahad saada? | What do you want to be? |
-| Mis hommikusöögiks on? | What's for breakfast? |
+| *Saa terveks!* | Get well! |
+| *Jää terveks!* | Take care! |
+| *näiteks* | for example |
+| *Ma ei teagi.* | I don't really know. |
+| *Kelleks sa tahad saada?* | What do you want to be? |
+| *Mis hommikusöögiks on?* | What's for breakfast? |
 
 ## Exercises
 
 **A. Give the translative.**
 
-1. tark
-2. õpetaja
+1. *tark*
+2. *õpetaja*
 3. soe
 4. suur (+ *linn*, as a phrase)
-5. nädal
+5. *nädal*
 
 **B. Add *-ki* or *-gi*.**
 
 1. laud
-2. raamat
-3. koer
+2. *raamat*
+3. *koer*
 4. kala
-5. kass
-6. sõber
+5. *kass*
+6. *sõber*
 
 **C. Translate into Estonian.**
 
@@ -132,9 +132,9 @@ Some words contain it permanently, such as *keegi, miski, kunagi, isegi, ükski,
 
 **C.**
 
-1. Mu tädi sai arstiks.
-2. Ma jään kaheks päevaks.
-3. Päevad lähevad soojaks.
-4. Ma ei rääkinud kellelegi.
+1. *Mu tädi sai arstiks.*
+2. *Ma jään kaheks päevaks.*
+3. *Päevad lähevad soojaks.*
+4. *Ma ei rääkinud kellelegi.*
 
 </details>

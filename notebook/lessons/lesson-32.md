@@ -13,14 +13,14 @@
 
 | Case | mina | sina | tema | meie | teie | nemad |
 |---|---|---|---|---|---|---|
-| Gen. | minu, mu | sinu, su | tema, ta | meie | teie | nende |
-| Part. | mind | sind | teda | meid | teid | neid |
-| Ill. | minusse, musse | sinusse, susse | temasse, tasse | meisse | teisse | nendesse, neisse |
-| Iness. | minus, mus | sinus, sus | temas, tas | meis | teis | nendes, neis |
-| Elat. | minust, must | sinust, sust | temast, tast | meist | teist | nendest, neist |
-| All. | minule, mulle | sinule, sulle | temale, talle | meile | teile | nendele, neile |
-| Adess. | minul, mul | sinul, sul | temal, tal | meil | teil | nendel, neil |
-| Abl. | minult, mult | sinult, sult | temalt, talt | meilt | teilt | nendelt, neilt |
+| Gen. | *minu, mu* | *sinu, su* | *tema, ta* | *meie* | *teie* | *nende* |
+| Part. | *mind* | *sind* | *teda* | *meid* | *teid* | *neid* |
+| Ill. | *minusse, musse* | *sinusse, susse* | *temasse, tasse* | *meisse* | *teisse* | *nendesse, neisse* |
+| Iness. | *minus, mus* | *sinus, sus* | *temas, tas* | *meis* | *teis* | *nendes, neis* |
+| Elat. | *minust, must* | *sinust, sust* | *temast, tast* | *meist* | *teist* | *nendest, neist* |
+| All. | *minule, mulle* | *sinule, sulle* | *temale, talle* | *meile* | *teile* | *nendele, neile* |
+| Adess. | *minul, mul* | *sinul, sul* | *temal, tal* | *meil* | *teil* | *nendel, neil* |
+| Abl. | *minult, mult* | *sinult, sult* | *temalt, talt* | *meilt* | *teilt* | *nendelt, neilt* |
 
 The other four endings, *-ni*, *-na*, *-ga* and *-ta*, plus translative *-ks*, attach to the long genitive: *minuga*, *sinuta*, *temani*, *meieks*, *nendena*.
 
@@ -28,13 +28,13 @@ The other four endings, *-ni*, *-na*, *-ga* and *-ta*, plus translative *-ks*, a
 
 | Case | see | need | ise (sg.) | ise (pl.) |
 |---|---|---|---|---|
-| Gen. | selle | nende | enese, enda | eneste, endi |
-| Part. | seda | neid | ennast, end | endid |
-| Ill. | sellesse, sesse | nendesse, neisse | enesesse, endasse | enestesse, endisse |
-| Iness. | selles, ses | nendes, neis | eneses, endas | enestes, endis |
-| Elat. | sellest, sest | nendest, neist | enesest, endast | enestest, endist |
-| All. | sellele | nendele, neile | enesele, endale | enestele, endile |
-| Adess. | sellel, sel | nendel, neil | enesel, endal | enestel, endil |
+| Gen. | *selle* | *nende* | *enese, enda* | *eneste, endi* |
+| Part. | *seda* | *neid* | *ennast, end* | *endid* |
+| Ill. | *sellesse, sesse* | *nendesse, neisse* | *enesesse, endasse* | *enestesse, endisse* |
+| Iness. | *selles, ses* | *nendes, neis* | *eneses, endas* | *enestes, endis* |
+| Elat. | *sellest, sest* | *nendest, neist* | *enesest, endast* | *enestest, endist* |
+| All. | *sellele* | *nendele, neile* | *enesele, endale* | *enestele, endile* |
+| Adess. | *sellel, sel* | *nendel, neil* | *enesel, endal* | *enestel, endil* |
 
 - *Too, tolle, toda* means "that one over there". In the plural, *need* normally replaces *nood*.
 - *Iseenese*, *iseennast* and similar forms add emphasis.
@@ -58,10 +58,10 @@ Add *-gi* or *-ki* to the case form of the base word.
 
 | Word | Meaning | Forms |
 |---|---|---|
-| keegi | someone | kellegi, kedagi, kellelgi, kellestki |
-| miski | something | millegi, midagi, millelgi, millestki |
-| ükski | any, a single | ühegi, ühtegi, ühelgi |
-| kumbki | either of two | kummagi, kumbagi, kummalgi |
+| *keegi* | someone | *kellegi, kedagi, kellelgi, kellestki* |
+| *miski* | something | *millegi, midagi, millelgi, millestki* |
+| *ükski* | any, a single | *ühegi, ühtegi, ühelgi* |
+| *kumbki* | either of two | *kummagi, kumbagi, kummalgi* |
 
 With a negative verb, these words take on the meaning "no one", "nothing", "none":
 
@@ -75,11 +75,11 @@ With a negative verb, these words take on the meaning "no one", "nothing", "none
 
 | Word | Behavior | Example |
 |---|---|---|
-| iga, igaüks, kumb, kumbki, ükski | singular only | *iga päev* |
-| teineteise, üksteise | "each other", no nominative | *Me aitame üksteist.* |
-| kõik | same nominative for sg. and pl.; sg. *kõige, kõike*; pl. *kõigi* or *kõikide, kõiki* | *Kõigil on kiire.* |
-| mõlemad | plural nominative, but usually singular with a noun in other cases | *mõlemad õed*, *mõlemale õele* |
-| kogu | never changes | *kogu perega* |
+| *iga, igaüks, kumb, kumbki, ükski* | singular only | *iga päev* |
+| *teineteise, üksteise* | "each other", no nominative | *Me aitame üksteist.* |
+| *kõik* | same nominative for sg. and pl.; sg. *kõige, kõike*; pl. *kõigi* or *kõikide, kõiki* | *Kõigil on kiire.* |
+| *mõlemad* | plural nominative, but usually singular with a noun in other cases | *mõlemad õed*, *mõlemale õele* |
+| *kogu* | never changes | *kogu perega* |
 
 *Mõlemaid* appears when no noun follows: *Ma tean mõlemaid.* "I know both."
 
@@ -87,10 +87,10 @@ Other pronouns decline regularly from the genitive:
 
 | Nominative | Genitive | Part. sg. | Part. pl. |
 |---|---|---|---|
-| milline | millise | millist | milliseid |
-| mingi | mingi | mingit | mingeid |
-| sama | sama | sama | samu, samasid |
-| mitmes | mitmenda | mitmendat | mitmendaid |
+| *milline* | *millise* | *millist* | *milliseid* |
+| *mingi* | *mingi* | *mingit* | *mingeid* |
+| *sama* | *sama* | *sama* | *samu, samasid* |
+| *mitmes* | *mitmenda* | *mitmendat* | *mitmendaid* |
 
 ## *Oma* (§ 278–280)
 
@@ -124,12 +124,12 @@ Nominative *ise* adds a different meaning, "personally": *Ma tegin selle ise.* "
 
 | Estonian | English |
 |---|---|
-| Kes seal on? | Who's there? |
-| Mis see on? | What is this? |
-| Kumb on parem? | Which one is better? |
-| Pole midagi! | Never mind! |
-| Kõik on korras. | Everything is fine. |
-| Tunne end nagu kodus! | Make yourself at home! |
+| *Kes seal on?* | Who's there? |
+| *Mis see on?* | What is this? |
+| *Kumb on parem?* | Which one is better? |
+| *Pole midagi!* | Never mind! |
+| *Kõik on korras.* | Everything is fine. |
+| *Tunne end nagu kodus!* | Make yourself at home! |
 
 ## Exercises
 
@@ -137,18 +137,18 @@ Nominative *ise* adds a different meaning, "personally": *Ma tegin selle ise.* "
 
 1. Ma annan raamatu ___ (sina, allative).
 2. Kas sa tuled ___ (mina, comitative)?
-3. ___ (tema, adessive) on koer.
+3. *___ (tema, adessive) on koer.*
 4. Me räägime ___ (nemad, elative).
 5. Ma ei näe ___ (see, partitive) lindu.
 6. ___ (kes, genitive) kott see on?
 
 **B. Choose *oma*, *omad* or *tema*.**
 
-1. Ma pesen ___ autot. (my own)
+1. *Ma pesen ___ autot. (my own)*
 2. Ta helistas ___ sõbrale. (his own)
-3. Anu tuli. Ma võtsin ___ koti. (Anu's)
+3. *Anu tuli. Ma võtsin ___ koti. (Anu's)*
 4. See auto on minu ___.
-5. Need raamatud on õpetaja ___.
+5. *Need raamatud on õpetaja ___.*
 
 **C. Translate into Estonian.**
 
@@ -167,10 +167,10 @@ Nominative *ise* adds a different meaning, "personally": *Ma tegin selle ise.* "
 
 **C.**
 
-1. Ma ei tunne siin kedagi.
+1. *Ma ei tunne siin kedagi.*
 2. Kumba sa tahad?
-3. Ta vaatas end peeglist.
-4. Mõlemad vennad elavad Pärnus.
-5. Naine, keda ma aitasin, on minu naaber.
+3. *Ta vaatas end peeglist.*
+4. *Mõlemad vennad elavad Pärnus.*
+5. *Naine, keda ma aitasin, on minu naaber.*
 
 </details>

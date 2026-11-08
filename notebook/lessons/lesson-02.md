@@ -62,28 +62,28 @@ Repeat the verb in the form that fits the person answering. *Küll* adds "indeed
 
 | Estonian | English |
 |---|---|
-| Mis su nimi on? | What is your name? |
-| Kust sa pärit oled? | Where are you from? |
-| Kas sa räägid inglise keelt? | Do you speak English? |
-| Mida see tähendab? | What does this mean? |
-| Kus on tualett? | Where is the toilet? |
-| Vabandust! | Excuse me! / Sorry! |
+| *Mis su nimi on?* | What is your name? |
+| *Kust sa pärit oled?* | Where are you from? |
+| *Kas sa räägid inglise keelt?* | Do you speak English? |
+| *Mida see tähendab?* | What does this mean? |
+| *Kus on tualett?* | Where is the toilet? |
+| *Vabandust!* | Excuse me! / Sorry! |
 
 ## Exercises
 
 **A. Make each statement a question with *kas*.**
 
-1. Koer magab.
-2. Sa töötad täna.
-3. Nad elavad Pärnus.
-4. Õpetaja sööb.
+1. *Koer magab.*
+2. *Sa töötad täna.*
+3. *Nad elavad Pärnus.*
+4. *Õpetaja sööb.*
 
 **B. Fill in *kes*, *mis*, *kus* or *millal*.**
 
-1. ___ sa elad? — Tartus.
-2. ___ sa jood? — Kohvi.
-3. ___ laulab? — Õde laulab.
-4. ___ rong tuleb? — Täna õhtul.
+1. *___ sa elad? — Tartus.*
+2. *___ sa jood? — Kohvi.*
+3. *___ laulab? — Õde laulab.*
+4. *___ rong tuleb? — Täna õhtul.*
 
 **C. Translate into Estonian.**
 
@@ -101,9 +101,9 @@ Repeat the verb in the form that fits the person answering. *Küll* adds "indeed
 
 **C.**
 
-1. Täna on koer kodus.
-2. Ema sõidab homme Tartusse.
+1. *Täna on koer kodus.*
+2. *Ema sõidab homme Tartusse.*
 3. Kas sa tuled? / Tuled sa?
-4. Tulen küll.
+4. *Tulen küll.*
 
 </details>

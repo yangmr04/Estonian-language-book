@@ -15,11 +15,11 @@ Answers *kelleni?*, *milleni?*, *mis ajani?*
 
 | Nominative | Genitive | Terminative | English |
 |---|---|---|---|
-| jõgi | jõe | jõeni | as far as the river |
-| sild | silla | sillani | as far as the bridge |
-| hommik | hommiku | hommikuni | until morning |
-| reede | reede | reedeni | until Friday |
-| põlv | põlve | põlveni | up to the knee |
+| *jõgi* | *jõe* | *jõeni* | as far as the river |
+| *sild* | *silla* | *sillani* | as far as the bridge |
+| *hommik* | *hommiku* | *hommikuni* | until morning |
+| *reede* | *reede* | *reedeni* | until Friday |
+| *põlv* | *põlve* | *põlveni* | up to the knee |
 
 *Jõeni on kaks kilomeetrit.* "It's two kilometers to the river." *Vesi ulatub põlveni.* "The water reaches the knee."
 
@@ -39,10 +39,10 @@ Answers *kellena?*, *millena?*
 
 | Nominative | Genitive | Essive | English |
 |---|---|---|---|
-| autojuht | autojuhi | autojuhina | as a driver |
-| sõber | sõbra | sõbrana | as a friend |
-| noor | noore | noorena | when young |
-| igav | igava | igavana | as boring |
+| *autojuht* | *autojuhi* | *autojuhina* | as a driver |
+| *sõber* | *sõbra* | *sõbrana* | as a friend |
+| *noor* | *noore* | *noorena* | when young |
+| *igav* | *igava* | *igavana* | as boring |
 
 *Ta töötab autojuhina.* "He works as a driver." *Noorena elasin maal.* "When I was young I lived in the country." *Film tundus igavana.* "The film seemed boring." *Tunnen end väsinuna.* "I feel tired."
 
@@ -52,19 +52,19 @@ As with *-ga* and *-ta* (Lesson 20), only the noun takes the ending. The adjecti
 
 | Phrase | English |
 |---|---|
-| selle aasta lõpuni | until the end of this year |
-| noore arstina | as a young doctor |
+| *selle aasta lõpuni* | until the end of this year |
+| *noore arstina* | as a young doctor |
 
 Pronouns use the long genitive:
 
 | Long genitive | Terminative | Essive |
 |---|---|---|
-| minu | minuni | minuna |
-| sinu | sinuni | sinuna |
-| tema | temani | temana |
-| meie | meieni | meiena |
-| teie | teieni | teiena |
-| nende | nendeni | nendena |
+| *minu* | *minuni* | *minuna* |
+| *sinu* | *sinuni* | *sinuna* |
+| *tema* | *temani* | *temana* |
+| *meie* | *meieni* | *meiena* |
+| *teie* | *teieni* | *teiena* |
+| *nende* | *nendeni* | *nendena* |
 
 ## Cases built on the genitive (§ 192–193)
 
@@ -72,7 +72,7 @@ The genitive singular is the base for all singular cases except the nominative a
 
 | Case | *kass* "cat" | Meaning |
 |---|---|---|
-| Genitive | kassi | of the cat |
+| Genitive | *kassi* | of the cat |
 | Illative | kassi**sse** | into the cat |
 | Inessive | kassi**s** | in the cat |
 | Elative | kassi**st** | out of, about the cat |
@@ -92,33 +92,33 @@ The genitive singular is the base for all singular cases except the nominative a
 
 | Estonian | English |
 |---|---|
-| Kohtumiseni! | See you! |
-| Õhtuni! | Until this evening! |
-| Esmaspäevani! | Until Monday! |
-| Mis kellani te lahti olete? | How late are you open? |
-| Töötan õpetajana. | I work as a teacher. |
+| *Kohtumiseni!* | See you! |
+| *Õhtuni!* | Until this evening! |
+| *Esmaspäevani!* | Until Monday! |
+| *Mis kellani te lahti olete?* | How late are you open? |
+| *Töötan õpetajana.* | I work as a teacher. |
 
 ## Exercises
 
 **A. Add *-ni* or *-na*.**
 
-1. Ma töötan ___ (reede) ja puhkan siis.
-2. Ta töötab ___ (autojuht).
-3. Me sõidame ___ (Narva).
-4. ___ (noor) elas ta Tartus.
-5. Ootan sind ___ (õhtu).
+1. *Ma töötan ___ (reede) ja puhkan siis.*
+2. *Ta töötab ___ (autojuht).*
+3. *Me sõidame ___ (Narva).*
+4. *___ (noor) elas ta Tartus.*
+5. *Ootan sind ___ (õhtu).*
 
 **B. Give the requested form of *sõber* (genitive *sõbra*).**
 
 1. allative
 2. comitative
 3. terminative
-4. essive
+4. *essive*
 5. translative
 
 **C. Translate into Estonian.**
 
-1. From Tallinn to Tartu.
+1. *From Tallinn to Tartu.*
 2. I study from morning until noon.
 3. Until the end of this week.
 4. She became famous as a young singer.
@@ -132,9 +132,9 @@ The genitive singular is the base for all singular cases except the nominative a
 
 **C.**
 
-1. Tallinnast Tartuni.
-2. Ma õpin hommikust lõunani.
-3. Selle nädala lõpuni.
-4. Ta sai noore lauljana kuulsaks.
+1. *Tallinnast Tartuni.*
+2. *Ma õpin hommikust lõunani.*
+3. *Selle nädala lõpuni.*
+4. *Ta sai noore lauljana kuulsaks.*
 
 </details>

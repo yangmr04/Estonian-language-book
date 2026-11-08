@@ -36,12 +36,12 @@ Most longer words with a partitive singular in *-t* add *-id* to the genitive st
 
 | Nominative | Genitive | Part. sg. | Part. pl. | English |
 |---|---|---|---|---|
-| töö | töö | tööd | **töid** | work |
-| tee | tee | teed | **teid** | road |
-| kohvik | kohviku | kohvikut | **kohvikuid** | café |
-| mantel | mantli | mantlit | **mantleid** | coat |
-| võõras | võõra | võõrast | **võõraid** | strange, foreign |
-| kollane | kollase | kollast | **kollaseid** | yellow |
+| *töö* | *töö* | *tööd* | **töid** | work |
+| *tee* | *tee* | *teed* | **teid** | road |
+| *kohvik* | *kohviku* | *kohvikut* | **kohvikuid** | café |
+| *mantel* | *mantli* | *mantlit* | **mantleid** | coat |
+| *võõras* | *võõra* | *võõrast* | **võõraid** | strange, foreign |
+| *kollane* | *kollase* | *kollast* | **kollaseid** | yellow |
 
 ### Group 2: *-sid* (§ 257)
 
@@ -49,11 +49,11 @@ This group is mainly two-syllable words with a short first syllable, plus femini
 
 | Nominative | Genitive | Part. sg. | Part. pl. | English |
 |---|---|---|---|---|
-| nina | nina | nina | **ninasid** | nose |
-| tädi | tädi | tädi | **tädisid** | aunt |
-| suvi | suve | suve | **suvesid** | summer |
-| meri | mere | merd | **meresid** | sea |
-| sõbranna | sõbranna | sõbrannat | **sõbrannasid** | female friend |
+| *nina* | *nina* | *nina* | **ninasid** | nose |
+| *tädi* | *tädi* | *tädi* | **tädisid** | aunt |
+| *suvi* | *suve* | *suve* | **suvesid** | summer |
+| *meri* | *mere* | *merd* | **meresid** | sea |
+| *sõbranna* | *sõbranna* | *sõbrannat* | **sõbrannasid** | female friend |
 
 ### Group 3: a final vowel (§ 258–262)
 
@@ -72,21 +72,21 @@ If the genitive ends in *-e* but the partitive singular ends in a consonant, use
 
 | Nominative | Genitive | Part. sg. | Part. pl. |
 |---|---|---|---|
-| uus | uue | uut | **uusi** |
-| noor | noore | noort | **noori** |
-| uks | ukse | ust | **uksi** |
-| naine | naise | naist | **naisi** |
-| tavaline | tavalise | tavalist | **tavalisi** |
-| vesi | vee | vett | **vesi** |
+| *uus* | *uue* | *uut* | **uusi** |
+| *noor* | *noore* | *noort* | **noori** |
+| *uks* | *ukse* | *ust* | **uksi** |
+| *naine* | *naise* | *naist* | **naisi** |
+| *tavaline* | *tavalise* | *tavalist* | **tavalisi** |
+| *vesi* | *vee* | *vett* | **vesi** |
 
 ### Exceptions (§ 263)
 
 | Pattern | Words |
 |---|---|
-| *-e*, because the stem ends in *j* | tühi → tühje, kuri → kurje |
-| *-e*, with short *u* before final *-a* | tuba → tube, luba → lube, nuga → nuge, muna → mune |
-| *-u* instead of *-i* | neli → nelju, väli → välju |
-| *-i* instead of *-u* | pikk → pikki, silm → silmi, king → kingi |
+| *-e*, because the stem ends in *j* | *tühi → tühje, kuri → kurje* |
+| *-e*, with short *u* before final *-a* | *tuba → tube, luba → lube, nuga → nuge, muna → mune* |
+| *-u* instead of *-i* | *neli → nelju, väli → välju* |
+| *-i* instead of *-u* | *pikk → pikki, silm → silmi, king → kingi* |
 
 ## Two possible forms (§ 264–265)
 
@@ -94,29 +94,29 @@ Some words accept both a vowel form and a *-sid* form:
 
 | Word | Vowel form | *-sid* form |
 |---|---|---|
-| kala "fish" | kalu | kalasid |
-| sõna "word" | sõnu | sõnasid |
-| rida "row" | ridu | ridasid |
-| lipp "flag" | lippe | lippusid |
+| kala "fish" | *kalu* | *kalasid* |
+| sõna "word" | *sõnu* | *sõnasid* |
+| rida "row" | *ridu* | *ridasid* |
+| lipp "flag" | *lippe* | *lippusid* |
 
 ## All the cases at a glance (§ 266)
 
 | Case | Estonian name | Question | *õpik* sg. | *õpik* pl. |
 |---|---|---|---|---|
-| Nominative | nimetav | kes? mis? | õpik | õpikud |
-| Genitive | omastav | kelle? mille? | õpiku | õpikute |
-| Partitive | osastav | keda? mida? | õpikut | õpikuid |
-| Illative | sisseütlev | kellesse? millesse? | õpikusse | õpikutesse |
-| Inessive | seesütlev | kelles? milles? | õpikus | õpikutes |
-| Elative | seestütlev | kellest? millest? | õpikust | õpikutest |
-| Allative | alaleütlev | kellele? millele? | õpikule | õpikutele |
-| Adessive | alalütlev | kellel? millel? | õpikul | õpikutel |
-| Ablative | alaltütlev | kellelt? millelt? | õpikult | õpikutelt |
-| Translative | saav | kelleks? milleks? | õpikuks | õpikuteks |
-| Terminative | rajav | kelleni? milleni? | õpikuni | õpikuteni |
-| Essive | olev | kellena? millena? | õpikuna | õpikutena |
-| Comitative | kaasaütlev | kellega? millega? | õpikuga | õpikutega |
-| Abessive | ilmaütlev | kelleta? milleta? | õpikuta | õpikuteta |
+| Nominative | *nimetav* | *kes? mis?* | *õpik* | *õpikud* |
+| Genitive | *omastav* | *kelle? mille?* | *õpiku* | *õpikute* |
+| Partitive | *osastav* | *keda? mida?* | *õpikut* | *õpikuid* |
+| Illative | *sisseütlev* | *kellesse? millesse?* | *õpikusse* | *õpikutesse* |
+| Inessive | *seesütlev* | *kelles? milles?* | *õpikus* | *õpikutes* |
+| Elative | *seestütlev* | *kellest? millest?* | *õpikust* | *õpikutest* |
+| Allative | *alaleütlev* | *kellele? millele?* | *õpikule* | *õpikutele* |
+| Adessive | *alalütlev* | *kellel? millel?* | *õpikul* | *õpikutel* |
+| Ablative | *alaltütlev* | *kellelt? millelt?* | *õpikult* | *õpikutelt* |
+| Translative | *saav* | *kelleks? milleks?* | *õpikuks* | *õpikuteks* |
+| Terminative | *rajav* | *kelleni? milleni?* | *õpikuni* | *õpikuteni* |
+| Essive | *olev* | *kellena? millena?* | *õpikuna* | *õpikutena* |
+| Comitative | *kaasaütlev* | *kellega? millega?* | *õpikuga* | *õpikutega* |
+| Abessive | *ilmaütlev* | *kelleta? milleta?* | *õpikuta* | *õpikuteta* |
 
 A partitive singular can look exactly like a short illative, so use the sentence to tell them apart: *Ma näen seda kooli* (partitive) and *Ma lähen kooli* (short illative).
 
@@ -124,32 +124,32 @@ A partitive singular can look exactly like a short illative, so use the sentence
 
 | Estonian | English |
 |---|---|
-| Häid pühi! | Happy holidays! |
-| Häid jõule! | Merry Christmas! |
-| Parimaid soove! | Best wishes! |
-| Tervisi kodustele! | Say hello to your family! |
-| Ilusaid unenägusid! | Sweet dreams! |
+| *Häid pühi!* | Happy holidays! |
+| *Häid jõule!* | Merry Christmas! |
+| *Parimaid soove!* | Best wishes! |
+| *Tervisi kodustele!* | Say hello to your family! |
+| *Ilusaid unenägusid!* | Sweet dreams! |
 
 ## Exercises
 
 **A. Give the partitive plural.**
 
-1. laud (laua, lauda)
-2. pood (poe, poodi)
-3. kuusk (kuuse, kuuske)
-4. vana (vana, vana)
-5. hobune (hobuse, hobust)
-6. sõnaraamat (sõnaraamatu, sõnaraamatut)
-7. kurk (kurgi, kurki)
-8. must (musta, musta)
+1. *laud (laua, lauda)*
+2. *pood (poe, poodi)*
+3. *kuusk (kuuse, kuuske)*
+4. *vana (vana, vana)*
+5. *hobune (hobuse, hobust)*
+6. *sõnaraamat (sõnaraamatu, sõnaraamatut)*
+7. *kurk (kurgi, kurki)*
+8. *must (musta, musta)*
 
 **B. Put the word in brackets into the correct form.**
 
-1. Poes on palju ___ (klient).
-2. Mul on kaks ___ (õde).
-3. Pargis on vähe ___ (pink).
-4. Ostsin kolm ___ (pirn).
-5. Aias kasvab palju ___ (roos).
+1. *Poes on palju ___ (klient).*
+2. *Mul on kaks ___ (õde).*
+3. *Pargis on vähe ___ (pink).*
+4. *Ostsin kolm ___ (pirn).*
+5. *Aias kasvab palju ___ (roos).*
 6. Ta on meie linna ___ (tuntum arst). ("one of the best-known doctors")
 
 **C. Translate into Estonian.**
@@ -168,9 +168,9 @@ A partitive singular can look exactly like a short illative, so use the sentence
 
 **C.**
 
-1. Meil on palju sõpru.
-2. Ma ostan lilli.
-3. Hoovis on autosid.
-4. See on linna parimaid restorane.
+1. *Meil on palju sõpru.*
+2. *Ma ostan lilli.*
+3. *Hoovis on autosid.*
+4. *See on linna parimaid restorane.*
 
 </details>

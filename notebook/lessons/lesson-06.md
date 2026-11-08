@@ -15,12 +15,12 @@ Add *-ksi-* and the personal ending to the present stem. The third-person singul
 
 | Person | Ending | *ostma* "to buy" (stem *osta-*) | *sõitma* "to travel" (stem *sõida-*) |
 |---|---|---|---|
-| ma | -ksin | ostaksin | sõidaksin |
-| sa | -ksid | ostaksid | sõidaksid |
-| ta | -ks | ostaks | sõidaks |
-| me | -ksime | ostaksime | sõidaksime |
-| te | -ksite | ostaksite | sõidaksite |
-| nad | -ksid | ostaksid | sõidaksid |
+| *ma* | *-ksin* | *ostaksin* | *sõidaksin* |
+| *sa* | *-ksid* | *ostaksid* | *sõidaksid* |
+| *ta* | *-ks* | *ostaks* | *sõidaks* |
+| *me* | *-ksime* | *ostaksime* | *sõidaksime* |
+| *te* | *-ksite* | *ostaksite* | *sõidaksite* |
+| *nad* | *-ksid* | *ostaksid* | *sõidaksid* |
 
 The *sa* and *nad* forms are identical. The pronoun or context tells them apart.
 
@@ -36,9 +36,9 @@ Every person uses *ei* plus the *-ks* form:
 
 | | |
 |---|---|
-| ma ei ostaks | me ei ostaks |
-| sa ei ostaks | te ei ostaks |
-| ta ei ostaks | nad ei ostaks |
+| *ma ei ostaks* | *me ei ostaks* |
+| *sa ei ostaks* | *te ei ostaks* |
+| *ta ei ostaks* | *nad ei ostaks* |
 
 Everyday speech often uses the short *-ks* form in the affirmative too: *Ma ostaks kohvi.* for *Ma ostaksin kohvi.*
 
@@ -48,9 +48,9 @@ Here is what the present stem *sõida-* builds:
 
 | Form | Affirmative | Negative |
 |---|---|---|
-| Present | sõidan | ei sõida |
-| Singular command | sõida! | ära sõida! |
-| Conditional | sõidaksin | ei sõidaks |
+| Present | *sõidan* | *ei sõida* |
+| Singular command | *sõida!* | *ära sõida!* |
+| Conditional | *sõidaksin* | *ei sõidaks* |
 
 ## The dictionary entry (§ 30)
 
@@ -58,12 +58,12 @@ Dictionaries list a verb under its *-ma* infinitive. That stem can differ from t
 
 | *-ma* infinitive | "I" form | Present stem | Meaning |
 |---|---|---|---|
-| elama | elan | ela- | to live |
-| tegema | teen | tee- | to do, make |
-| nägema | näen | näe- | to see |
-| kandma | kannan | kanna- | to carry |
-| saatma | saadan | saada- | to send |
-| minema | lähen | lähe- | to go |
+| *elama* | *elan* | *ela-* | to live |
+| *tegema* | *teen* | *tee-* | to do, make |
+| *nägema* | *näen* | *näe-* | to see |
+| *kandma* | *kannan* | *kanna-* | to carry |
+| *saatma* | *saadan* | *saada-* | to send |
+| *minema* | *lähen* | *lähe-* | to go |
 
 The stem can look very different, so memorise each new verb as a pair.
 
@@ -71,12 +71,12 @@ The stem can look very different, so memorise each new verb as a pair.
 
 | Estonian | English |
 |---|---|
-| Ma tahaksin kohvi. | I would like some coffee. |
-| Kas te saaksite aidata? | Could you help? |
-| Kas ma võiksin küsida? | May I ask? |
-| Ma ei tahaks segada. | I wouldn't want to disturb you. |
-| Kas sa tuleksid kaasa? | Would you come along? |
-| Palun arve! | The bill, please! |
+| *Ma tahaksin kohvi.* | I would like some coffee. |
+| *Kas te saaksite aidata?* | Could you help? |
+| *Kas ma võiksin küsida?* | May I ask? |
+| *Ma ei tahaks segada.* | I wouldn't want to disturb you. |
+| *Kas sa tuleksid kaasa?* | Would you come along? |
+| *Palun arve!* | The bill, please! |
 
 ## Exercises
 
@@ -91,9 +91,9 @@ The stem can look very different, so memorise each new verb as a pair.
 
 **B. Make these negative.**
 
-1. Ma ostaksin.
+1. *Ma ostaksin.*
 2. Nad tuleksid.
-3. Me sõidaksime.
+3. *Me sõidaksime.*
 
 **C. For each dictionary entry, give the present stem, the singular command and the *ma* conditional.**
 
@@ -110,8 +110,8 @@ The stem can look very different, so memorise each new verb as a pair.
 
 **C.**
 
-1. hoia-, hoia!, hoiaksin
-2. õpi-, õpi!, õpiksin
+1. *hoia-, hoia!, hoiaksin*
+2. *õpi-, õpi!, õpiksin*
 3. anna-, anna!, annaksin
 
 </details>

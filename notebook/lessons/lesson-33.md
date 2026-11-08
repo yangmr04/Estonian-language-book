@@ -18,20 +18,20 @@
 
 | Case | Singular | Plural |
 |---|---|---|
-| Nom. | vana sild | vanad sillad |
-| Gen. | vana silla | vanade sildade |
-| Part. | vana silda | vanu sildu |
-| Ill. | vanasse sillasse | vanadesse sildadesse |
-| Iness. | vanas sillas | vanades sildades |
-| Elat. | vanast sillast | vanadest sildadest |
-| All. | vanale sillale | vanadele sildadele |
-| Adess. | vanal sillal | vanadel sildadel |
-| Abl. | vanalt sillalt | vanadelt sildadelt |
-| Transl. | vanaks sillaks | vanadeks sildadeks |
-| Term. | vana sillani | vanade sildadeni |
-| Ess. | vana sillana | vanade sildadena |
-| Com. | vana sillaga | vanade sildadega |
-| Abess. | vana sillata | vanade sildadeta |
+| Nom. | *vana sild* | *vanad sillad* |
+| Gen. | *vana silla* | *vanade sildade* |
+| Part. | *vana silda* | *vanu sildu* |
+| Ill. | *vanasse sillasse* | *vanadesse sildadesse* |
+| Iness. | *vanas sillas* | *vanades sildades* |
+| Elat. | *vanast sillast* | *vanadest sildadest* |
+| All. | *vanale sillale* | *vanadele sildadele* |
+| Adess. | *vanal sillal* | *vanadel sildadel* |
+| Abl. | *vanalt sillalt* | *vanadelt sildadelt* |
+| Transl. | *vanaks sillaks* | *vanadeks sildadeks* |
+| Term. | *vana sillani* | *vanade sildadeni* |
+| Ess. | *vana sillana* | *vanade sildadena* |
+| Com. | *vana sillaga* | *vanade sildadega* |
+| Abess. | *vana sillata* | *vanade sildadeta* |
 
 Pronouns and numbers follow the same rule:
 
@@ -75,10 +75,10 @@ In the nominative and genitive, every part takes the case. The partitive also ch
 
 | Case | 4 532 |
 |---|---|
-| Nom. | neli tuhat viissada kolmkümmend kaks |
-| Gen. | nelja tuhande viiesaja kolmekümne kahe |
-| Ill. | nelja tuhande viiesaja kolmekümne kahesse |
-| Iness. | nelja tuhande viiesaja kolmekümne kahes |
+| Nom. | *neli tuhat viissada kolmkümmend kaks* |
+| Gen. | *nelja tuhande viiesaja kolmekümne kahe* |
+| Ill. | *nelja tuhande viiesaja kolmekümne kahesse* |
+| Iness. | *nelja tuhande viiesaja kolmekümne kahes* |
 
 ## Verb agreement (§ 299)
 
@@ -92,47 +92,47 @@ The phrase stays singular throughout.
 
 | Case | *kolm kotti* "three bags" |
 |---|---|
-| Nom. | kolm kotti |
-| Gen. | kolme koti |
-| Part. | kolme kotti |
-| Ill. | kolmesse kotti |
-| Iness. | kolmes kotis |
-| Elat. | kolmest kotist |
-| All. | kolmele kotile |
-| Adess. | kolmel kotil |
-| Abl. | kolmelt kotilt |
-| Transl. | kolmeks kotiks |
-| Term. | kolme kotini |
-| Ess. | kolme kotina |
-| Com. | kolme kotiga |
-| Abess. | kolme kotita |
+| Nom. | *kolm kotti* |
+| Gen. | *kolme koti* |
+| Part. | *kolme kotti* |
+| Ill. | *kolmesse kotti* |
+| Iness. | *kolmes kotis* |
+| Elat. | *kolmest kotist* |
+| All. | *kolmele kotile* |
+| Adess. | *kolmel kotil* |
+| Abl. | *kolmelt kotilt* |
+| Transl. | *kolmeks kotiks* |
+| Term. | *kolme kotini* |
+| Ess. | *kolme kotina* |
+| Com. | *kolme kotiga* |
+| Abess. | *kolme kotita* |
 
 ## Useful phrases
 
 | Estonian | English |
 |---|---|
-| Head reisi! | Have a good trip! |
-| Üks pilet Tartusse, palun. | One ticket to Tartu, please. |
-| Laud kahele, palun. | A table for two, please. |
-| Mul on kaks kotti. | I have two bags. |
-| Kui palju see maksab? | How much does this cost? |
+| *Head reisi!* | Have a good trip! |
+| *Üks pilet Tartusse, palun.* | One ticket to Tartu, please. |
+| *Laud kahele, palun.* | A table for two, please. |
+| *Mul on kaks kotti.* | I have two bags. |
+| *Kui palju see maksab?* | How much does this cost? |
 
 ## Exercises
 
 **A. Put the phrase into the case given.**
 
-1. väike linn (inessive)
+1. *väike linn (inessive)*
 2. uus maja (comitative)
 3. must koer (allative plural)
 4. hea sõber (comitative plural)
 5. see laps (abessive)
-6. noor naine (terminative)
+6. *noor naine (terminative)*
 
 **B. Put the words in brackets into the correct form.**
 
-1. Ostsin ___ (kolm, pilet).
-2. Ostsin ___ (üks, pilet).
-3. Ta otsib ___ (kaks, võti).
+1. *Ostsin ___ (kolm, pilet).*
+2. *Ostsin ___ (üks, pilet).*
+3. *Ta otsib ___ (kaks, võti).*
 4. Me elame ___ (kaks, tuba). ("in")
 5. Tulin ___ (kolm, sõber). ("with")
 6. Väljakul oli ___ (tuhat, inimene). ("thousands of")
@@ -152,8 +152,8 @@ The phrase stays singular throughout.
 
 **C.**
 
-1. Ma rääkisin proua Kasega.
-2. Ta seisab suletud ukse juures.
-3. Me läksime soome keele tundi.
+1. *Ma rääkisin proua Kasega.*
+2. *Ta seisab suletud ukse juures.*
+3. *Me läksime soome keele tundi.*
 
 </details>

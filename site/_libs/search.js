@@ -1,4 +1,38 @@
 (function () {
+  var fontSelect = document.getElementById("font-select");
+  fontSelect.value = document.documentElement.dataset.font;
+  fontSelect.addEventListener("change", function () {
+    document.documentElement.dataset.font = fontSelect.value;
+    try { localStorage.setItem("reading-font", fontSelect.value); } catch (e) {}
+  });
+
+  function caseClass(text) {
+    var label = text.trim().toLowerCase();
+    if (/^nom(inative|\.|\b)/.test(label)) return "case-nom";
+    if (/^gen(itive|\.|\b)/.test(label)) return "case-gen";
+    if (/^part(itive|\.|\b)/.test(label)) return "case-par";
+    return "";
+  }
+
+  document.querySelectorAll("main table").forEach(function (table) {
+    var rows = Array.prototype.slice.call(table.rows);
+    if (!rows.length) return;
+    var columns = Array.prototype.map.call(rows[0].cells, function (cell) {
+      var name = caseClass(cell.textContent);
+      if (name) cell.classList.add(name);
+      return name;
+    });
+    rows.slice(1).forEach(function (row) {
+      var first = row.cells[0];
+      var rowCase = first && first.textContent.length < 25 ? caseClass(first.textContent) : "";
+      if (rowCase) first.classList.add(rowCase);
+      Array.prototype.forEach.call(row.cells, function (cell, index) {
+        var name = columns[index] || rowCase;
+        if (name) cell.classList.add(name);
+      });
+    });
+  });
+
   var scriptUrl = document.currentScript.src;
   var base = scriptUrl.slice(0, scriptUrl.indexOf("/libs/search.js"));
   var input = document.getElementById("search-input");

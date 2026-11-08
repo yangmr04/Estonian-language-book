@@ -25,7 +25,7 @@ It answers *kelle?* "whose?" for people and *mille?* "of what?" for things. The 
 | Use | Example | English |
 |---|---|---|
 | In place of English "of" | *linna keskus* | the centre of the town |
-| | *päeva lõpp* | the end of the day |
+|  | *päeva lõpp* | the end of the day |
 | A chain of genitives | *arsti koera nimi* | the name of the doctor's dog |
 | Adjective + genitive noun: the adjective is genitive too | *punase auto juht* | the driver of the red car |
 
@@ -35,10 +35,10 @@ A vocabulary entry gives both nominative and genitive, because the genitive is t
 
 | Ending | Meaning | From *buss*, gen. *bussi* | From *pudel*, gen. *pudeli* |
 |---|---|---|---|
-| -s | in | bussis | pudelis |
-| -ga | with | bussiga | pudeliga |
-| -ta | without | bussita | pudelita |
-| -d | nominative plural | bussid | pudelid |
+| *-s* | in | *bussis* | *pudelis* |
+| *-ga* | with | *bussiga* | *pudeliga* |
+| *-ta* | without | *bussita* | *pudelita* |
+| *-d* | nominative plural | *bussid* | *pudelid* |
 
 These endings always attach to a word and never stand alone.
 
@@ -48,10 +48,10 @@ The genitive adds one of four vowels.
 
 | Added vowel | Examples |
 |---|---|
-| -a | *õun, õuna* "apple"; *koer, koera* "dog"; *mets, metsa* "forest" |
-| -e | *järv, järve* "lake"; *lill, lille* "flower"; *keel, keele* "language" |
-| -i | *kass, kassi* "cat"; *arst, arsti* "doctor"; *paber, paberi* "paper" |
-| -u | *hommik, hommiku* "morning"; *sõnastik, sõnastiku* "dictionary" |
+| *-a* | *õun, õuna* "apple"; *koer, koera* "dog"; *mets, metsa* "forest" |
+| *-e* | *järv, järve* "lake"; *lill, lille* "flower"; *keel, keele* "language" |
+| *-i* | *kass, kassi* "cat"; *arst, arsti* "doctor"; *paber, paberi* "paper" |
+| *-u* | *hommik, hommiku* "morning"; *sõnastik, sõnastiku* "dictionary" |
 
 ## Foreign names (§ 39)
 
@@ -74,11 +74,11 @@ Most of these swap *-ne* for *-se*.
 
 | Nominative | Genitive | English |
 |---|---|---|
-| punane | punase | red |
-| sinine | sinise | blue |
-| õpilane | õpilase | pupil |
-| soomlane | soomlase | Finn |
-| hobune | hobuse | horse |
+| *punane* | *punase* | red |
+| *sinine* | *sinise* | blue |
+| *õpilane* | *õpilase* | pupil |
+| *soomlane* | *soomlase* | Finn |
+| *hobune* | *hobuse* | horse |
 
 A few two-syllable words in *-ne* stay unchanged: *aine* "substance", *kaine* "sober".
 
@@ -86,23 +86,23 @@ A few two-syllable words in *-ne* stay unchanged: *aine* "substance", *kaine* "s
 
 | Estonian | English |
 |---|---|
-| Kelle oma see on? | Whose is this? |
-| See on minu oma. | It's mine. |
-| Minu sõbra nimi on Mari. | My friend's name is Mari. |
-| Kus on bussipeatus? | Where is the bus stop? |
-| Mis kell on? | What time is it? |
-| Eesti keel on ilus. | Estonian is beautiful. |
+| *Kelle oma see on?* | Whose is this? |
+| *See on minu oma.* | It's mine. |
+| *Minu sõbra nimi on Mari.* | My friend's name is Mari. |
+| *Kus on bussipeatus?* | Where is the bus stop? |
+| *Mis kell on?* | What time is it? |
+| *Eesti keel on ilus.* | Estonian is beautiful. |
 
 ## Exercises
 
 **A. Give the genitive singular.**
 
 1. kino
-2. punane
-3. õhtu
-4. soomlane
-5. sinine
-6. järv
+2. *punane*
+3. *õhtu*
+4. *soomlane*
+5. *sinine*
+6. *järv*
 
 **B. Translate into Estonian.** (*nimi* "name", *uks* "door", *tänav* "street", *härra* "Mr", *vana* "old")
 
@@ -130,13 +130,13 @@ A few two-syllable words in *-ne* stay unchanged: *aine* "substance", *kaine* "s
 
 **B.**
 
-1. kassi nimi
+1. *kassi nimi*
 2. õpetaja auto
-3. vana arsti koer
-4. punase auto uks
-5. härra Browni auto
-6. Pariisi tänav
-7. õpilase õpetaja auto
+3. *vana arsti koer*
+4. *punase auto uks*
+5. *härra Browni auto*
+6. *Pariisi tänav*
+7. *õpilase õpetaja auto*
 
 **C.** 1. bussis · 2. bussiga · 3. pudelita · 4. pudelid · 5. järves · 6. arstiga
 

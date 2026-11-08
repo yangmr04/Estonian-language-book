@@ -13,17 +13,17 @@
 
 | Case | Word | Example | English |
 |---|---|---|---|
-| Genitive | üle | *üle jõe* | across the river |
-| | ümber | *ümber järve* | around the lake |
-| | läbi | *läbi metsa* | through the forest |
-| Partitive | enne | *enne õhtusööki* | before dinner |
-| | pärast | *pärast tööd* | after work |
-| | keset | *keset väljakut* | in the middle of the square |
-| | mööda | *mööda randa* | along the beach |
-| | vastu | *vastu tuult* | against the wind |
-| Abessive | ilma | *ilma suhkruta* | without sugar |
-| Terminative | kuni | *kuni esmaspäevani* | until Monday |
-| Comitative | koos | *koos naabriga* | together with a neighbor |
+| Genitive | *üle* | *üle jõe* | across the river |
+|  | *ümber* | *ümber järve* | around the lake |
+|  | *läbi* | *läbi metsa* | through the forest |
+| Partitive | *enne* | *enne õhtusööki* | before dinner |
+|  | *pärast* | *pärast tööd* | after work |
+|  | *keset* | *keset väljakut* | in the middle of the square |
+|  | *mööda* | *mööda randa* | along the beach |
+|  | *vastu* | *vastu tuult* | against the wind |
+| Abessive | *ilma* | *ilma suhkruta* | without sugar |
+| Terminative | *kuni* | *kuni esmaspäevani* | until Monday |
+| Comitative | *koos* | *koos naabriga* | together with a neighbor |
 
 ## Postpositions (§ 401–402)
 
@@ -31,32 +31,32 @@
 
 | To | At | From | Meaning |
 |---|---|---|---|
-| alla | all | alt | under |
-| peale | peal | pealt | on top of |
-| sisse | sees | seest | inside |
-| ette | ees | eest | in front of |
-| taha | taga | tagant | behind |
-| juurde | juures | juurest | at, by, at someone's place |
-| kõrvale | kõrval | kõrvalt | next to |
-| vahele | vahel | vahelt | between |
-| keskele | keskel | keskelt | in the middle of |
-| äärde | ääres | äärest | at the edge of |
-| kätte | käes | käest | in the hands of, from someone |
+| *alla* | *all* | *alt* | under |
+| *peale* | *peal* | *pealt* | on top of |
+| *sisse* | *sees* | *seest* | inside |
+| *ette* | *ees* | *eest* | in front of |
+| *taha* | *taga* | *tagant* | behind |
+| *juurde* | *juures* | *juurest* | at, by, at someone's place |
+| *kõrvale* | *kõrval* | *kõrvalt* | next to |
+| *vahele* | *vahel* | *vahelt* | between |
+| *keskele* | *keskel* | *keskelt* | in the middle of |
+| *äärde* | *ääres* | *äärest* | at the edge of |
+| *kätte* | *käes* | *käest* | in the hands of, from someone |
 
 ### Single forms with the genitive
 
 | Word | Meaning | Example |
 |---|---|---|
-| jaoks | for | *lapse jaoks* |
-| järgi | according to | *ilmateate järgi* |
-| kaudu | via | *interneti kaudu* |
-| kohta | about, per | *selle filmi kohta* |
-| eest | in return for | *kümne euro eest* |
-| pärast | after, because of | *kolme päeva pärast*, *vihma pärast* |
-| vastu | toward, in | *huvi muusika vastu* |
-| asemel | instead of | *sinu asemel* |
-| abil | with the aid of | *selle abil* |
-| ajal | during | *sõja ajal* |
+| *jaoks* | for | *lapse jaoks* |
+| *järgi* | according to | *ilmateate järgi* |
+| *kaudu* | via | *interneti kaudu* |
+| *kohta* | about, per | *selle filmi kohta* |
+| *eest* | in return for | *kümne euro eest* |
+| *pärast* | after, because of | *kolme päeva pärast*, *vihma pärast* |
+| *vastu* | toward, in | *huvi muusika vastu* |
+| *asemel* | instead of | *sinu asemel* |
+| *abil* | with the aid of | *selle abil* |
+| *ajal* | during | *sõja ajal* |
 
 ### With the elative
 
@@ -68,16 +68,16 @@
 
 | Case or phrase | Verbs | Example |
 |---|---|---|
-| Partitive | aitama, armastama, kartma, vajama, paluma, tänama, kadestama, segama | *Ta kardab koera.* |
-| Elative | aru saama, sõltuma, unistama, loobuma, hoolima, osa võtma | *Ma saan sellest aru.* |
-| Illative | armuma, suhtuma, puutuma | *Ma armusin sellesse linna.* |
-| Allative | helistama, meeldima, vastama, andestama, järgnema, sobima | *Helista emale!* |
-| Ablative | küsima, laenama | *Ma küsin õpetajalt.* |
-| Comitative | harjuma, tegelema, abielluma, kohtuma, nõustuma | *Ma olen külmaga harjunud.* |
-| Translative | pidama, muutuma, saama, nimetama | *Ta sai arstiks.* |
-| *kelle eest?* | hoolitsema | *Ta hoolitseb oma ema eest.* |
-| *mille üle?* | imestama, naerma | *Mille üle sa naerad?* |
-| *mille vastu?* | huvi tundma | *Ma tunnen huvi ajaloo vastu.* |
+| Partitive | *aitama, armastama, kartma, vajama, paluma, tänama, kadestama, segama* | *Ta kardab koera.* |
+| Elative | *aru saama, sõltuma, unistama, loobuma, hoolima, osa võtma* | *Ma saan sellest aru.* |
+| Illative | *armuma, suhtuma, puutuma* | *Ma armusin sellesse linna.* |
+| Allative | *helistama, meeldima, vastama, andestama, järgnema, sobima* | *Helista emale!* |
+| Ablative | *küsima, laenama* | *Ma küsin õpetajalt.* |
+| Comitative | *harjuma, tegelema, abielluma, kohtuma, nõustuma* | *Ma olen külmaga harjunud.* |
+| Translative | *pidama, muutuma, saama, nimetama* | *Ta sai arstiks.* |
+| *kelle eest?* | *hoolitsema* | *Ta hoolitseb oma ema eest.* |
+| *mille üle?* | *imestama, naerma* | *Mille üle sa naerad?* |
+| *mille vastu?* | *huvi tundma* | *Ma tunnen huvi ajaloo vastu.* |
 
 ### Adjectives
 
@@ -96,17 +96,17 @@
 
 | Word | Meaning |
 |---|---|
-| ja, ning | and |
-| aga, kuid | but |
-| või | or |
-| et | that |
-| sest | because |
-| kuigi, ehkki | although |
-| enne kui | before |
-| niipea kui | as soon as |
-| nii ... kui ka | both ... and |
-| ei ... ega | neither ... nor |
-| mitte ainult ... vaid ka | not only ... but also |
+| *ja, ning* | and |
+| *aga, kuid* | but |
+| *või* | or |
+| *et* | that |
+| *sest* | because |
+| *kuigi, ehkki* | although |
+| *enne kui* | before |
+| *niipea kui* | as soon as |
+| *nii ... kui ka* | both ... and |
+| *ei ... ega* | neither ... nor |
+| *mitte ainult ... vaid ka* | not only ... but also |
 
 Some need extra care:
 
@@ -124,26 +124,26 @@ Current practice writes most of these without periods.
 
 | Abbreviation | Full form | Meaning |
 |---|---|---|
-| jne | ja nii edasi | and so on |
-| jt | ja teised | and others |
-| jms | ja muud seesugust | and the like |
-| nt | näiteks | for example |
-| st | see tähendab | that means |
-| nn | niinimetatud | so-called |
-| hr | härra | Mr. |
-| pr | proua | Mrs. |
-| prl | preili | Miss |
-| dr | doktor | Dr. |
-| nr | number | number |
-| lk | lehekülg | page |
-| vt | vaata | see |
-| vrd | võrdle | compare |
-| tel | telefon | telephone |
-| tn | tänav | street |
-| kl | kell | o'clock |
-| a | aastal | in the year |
-| e.Kr. | enne Kristust | BC |
-| p.Kr. | pärast Kristust | AD |
+| jne | *ja nii edasi* | and so on |
+| jt | *ja teised* | and others |
+| jms | *ja muud seesugust* | and the like |
+| nt | *näiteks* | for example |
+| st | *see tähendab* | that means |
+| nn | *niinimetatud* | so-called |
+| hr | *härra* | Mr. |
+| pr | *proua* | Mrs. |
+| prl | *preili* | Miss |
+| dr | *doktor* | Dr. |
+| nr | *number* | number |
+| lk | *lehekülg* | page |
+| vt | *vaata* | see |
+| vrd | *võrdle* | compare |
+| tel | *telefon* | telephone |
+| tn | *tänav* | street |
+| kl | *kell* | o'clock |
+| a | *aastal* | in the year |
+| e.Kr. | *enne Kristust* | BC |
+| p.Kr. | *pärast Kristust* | AD |
 
 Measurement symbols such as *m*, *kg* and *l* never take periods.
 
@@ -151,43 +151,43 @@ Measurement symbols such as *m*, *kg* and *l* never take periods.
 
 | Estonian | English |
 |---|---|
-| Muide, ... | By the way, ... |
-| Igatahes ... | Anyway ... |
-| Näiteks ... | For example ... |
-| Ühesõnaga ... | In a word ... |
-| Seega ... | So, therefore ... |
-| Lõpuks ... | Finally ... |
-| Aitäh kõige eest! | Thanks for everything! |
-| Kuni järgmise korrani! | Until next time! |
+| *Muide, ...* | By the way, ... |
+| *Igatahes ...* | Anyway ... |
+| *Näiteks ...* | For example ... |
+| *Ühesõnaga ...* | In a word ... |
+| *Seega ...* | So, therefore ... |
+| *Lõpuks ...* | Finally ... |
+| *Aitäh kõige eest!* | Thanks for everything! |
+| *Kuni järgmise korrani!* | Until next time! |
 
 ## Exercises
 
 **A. Put the noun into the correct case.**
 
-1. enne ___ (kontsert)
-2. ilma ___ (piim)
-3. kuni ___ (reede)
+1. *enne ___ (kontsert)*
+2. *ilma ___ (piim)*
+3. *kuni ___ (reede)*
 4. ___ jaoks (laps)
-5. üle ___ (tänav)
+5. *üle ___ (tänav)*
 6. mööda ___ (tee)
 7. ___ alla (laud)
 
 **B. Put the words in brackets into the correct form.**
 
 1. Ma armusin ___ (see linn).
-2. Ta sõltub ___ (vanemad).
-3. Helista ___ (ema)!
-4. Olen harjunud ___ (külm).
-5. Ta kardab ___ (koer).
+2. *Ta sõltub ___ (vanemad).*
+3. *Helista ___ (ema)!*
+4. *Olen harjunud ___ (külm).*
+5. *Ta kardab ___ (koer).*
 6. Ta sai ___ (arst).
 
 **C. Fill in *et*, *kas*, *kui*, *kuigi* or *sest*.**
 
 1. Ma ei tea, ___ ta tuleb. (whether)
 2. Ta on noorem ___ mina.
-3. Jäin koju, ___ olin haige.
-4. ___ sadas, läksime välja.
-5. Ta ütles, ___ on väsinud.
+3. *Jäin koju, ___ olin haige.*
+4. *___ sadas, läksime välja.*
+5. *Ta ütles, ___ on väsinud.*
 
 <details>
 <summary>Show answers</summary>

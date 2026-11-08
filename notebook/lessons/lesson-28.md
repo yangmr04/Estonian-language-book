@@ -47,9 +47,9 @@ Particles such as *ära, läbi, üles, maha, valmis* usually bring a total objec
 
 | Group | Sample verbs | Example |
 |---|---|---|
-| Feelings | armastama, kartma, vihkama, imetlema | *Ma vihkan talve.* "I hate winter." |
-| Senses | kuulama, nägema, vaatama, tundma | *Ta kuulab raadiot.* "She is listening to the radio." |
-| Open-ended actions | ootama, otsima, aitama, segama, õppima, õpetama, tänama, vajama | *Ta otsib võtit.* "He is looking for the key." |
+| Feelings | *armastama, kartma, vihkama, imetlema* | *Ma vihkan talve.* "I hate winter." |
+| Senses | *kuulama, nägema, vaatama, tundma* | *Ta kuulab raadiot.* "She is listening to the radio." |
+| Open-ended actions | *ootama, otsima, aitama, segama, õppima, õpetama, tänama, vajama* | *Ta otsib võtit.* "He is looking for the key." |
 
 Some of these take a total object when a particle shows a result:
 
@@ -64,10 +64,10 @@ Some verb + noun phrases keep the partitive even when the action is complete.
 
 | Phrase | English |
 |---|---|
-| aega veetma | to spend time |
-| kätt andma | to shake hands |
-| pead noogutama | to nod |
-| vihma sadama | to rain |
+| *aega veetma* | to spend time |
+| *kätt andma* | to shake hands |
+| *pead noogutama* | to nod |
+| *vihma sadama* | to rain |
 
 *Mängima* takes the partitive for instruments and games: *Ta mängib kitarri.* "She plays guitar." *Mängisime pool tundi lauatennist.* "We played table tennis for half an hour."
 
@@ -88,33 +88,33 @@ In statements, *mina* and *sina* can also be genitive (*minu/mu*, *sinu/su*). *M
 
 | Estonian | English |
 |---|---|
-| Ma armastan sind. | I love you. |
-| Ma ootan sind. | I'm waiting for you. |
-| Kas sa mäletad mind? | Do you remember me? |
-| Aita mind, palun! | Please help me! |
-| Pane uks kinni, palun. | Please close the door. |
-| Tänan sind! | Thank you! |
+| *Ma armastan sind.* | I love you. |
+| *Ma ootan sind.* | I'm waiting for you. |
+| *Kas sa mäletad mind?* | Do you remember me? |
+| *Aita mind, palun!* | Please help me! |
+| *Pane uks kinni, palun.* | Please close the door. |
+| *Tänan sind!* | Thank you! |
 
 ## Exercises
 
 **A. Put the word in the correct case.**
 
-1. Ma ostsin ___ (pilet).
-2. Ma ei ostnud ___ (pilet).
-3. Osta ___ (ajaleht)!
-4. Ära osta ___ (ajaleht)!
-5. Ta otsib ___ (võti).
-6. Ta leidis ___ (võti).
-7. Ma lugesin ___ (artikkel) läbi.
+1. *Ma ostsin ___ (pilet).*
+2. *Ma ei ostnud ___ (pilet).*
+3. *Osta ___ (ajaleht)!*
+4. *Ära osta ___ (ajaleht)!*
+5. *Ta otsib ___ (võti).*
+6. *Ta leidis ___ (võti).*
+7. *Ma lugesin ___ (artikkel) läbi.*
 8. Me ootame ___ (buss).
 
 **B. Use the pronoun as an object.**
 
-1. Kutsu ___ (tema) sisse!
+1. *Kutsu ___ (tema) sisse!*
 2. Ma ei näinud ___ (tema).
-3. Ta kutsus ___ (meie) külla.
-4. Ma kutsusin ___ (nemad) külla.
-5. Ära sega ___ (mina)!
+3. *Ta kutsus ___ (meie) külla.*
+4. *Ma kutsusin ___ (nemad) külla.*
+5. *Ära sega ___ (mina)!*
 
 **C. Translate into Estonian.**
 
@@ -133,10 +133,10 @@ In statements, *mina* and *sina* can also be genitive (*minu/mu*, *sinu/su*). *M
 
 **C.**
 
-1. Ma parandan ratta.
-2. Ma parandan ratast.
-3. Me ei näinud filmi.
-4. Söö kook ära!
-5. Ta mängib kitarri.
+1. *Ma parandan ratta.*
+2. *Ma parandan ratast.*
+3. *Me ei näinud filmi.*
+4. *Söö kook ära!*
+5. *Ta mängib kitarri.*
 
 </details>

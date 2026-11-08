@@ -52,12 +52,12 @@ In short comments, *on* can disappear as well:
 
 | | | | |
 |---|---|---|---|
-| 0 | null | 6 | kuus |
-| 1 | üks | 7 | seitse |
-| 2 | kaks | 8 | kaheksa |
-| 3 | kolm | 9 | üheksa |
-| 4 | neli | 10 | kümme |
-| 5 | viis | | |
+| 0 | *null* | 6 | *kuus* |
+| 1 | *üks* | 7 | *seitse* |
+| 2 | *kaks* | 8 | *kaheksa* |
+| 3 | *kolm* | 9 | *üheksa* |
+| 4 | *neli* | 10 | *kümme* |
+| 5 | *viis* |  |  |
 
 Watch out for the look-alikes *kaks* "2" and *kaheksa* "8", and *üks* "1" and *üheksa* "9".
 
@@ -65,12 +65,12 @@ Watch out for the look-alikes *kaks* "2" and *kaheksa* "8", and *üks* "1" and *
 
 | Estonian | English |
 |---|---|
-| Mis ilm täna on? | What's the weather like today? |
-| Üks hetk, palun. | One moment, please. |
-| Palun üks kohv. | One coffee, please. |
-| Kui palju see maksab? | How much does this cost? |
-| Mis su telefoninumber on? | What's your phone number? |
-| Aita mind! | Help me! |
+| *Mis ilm täna on?* | What's the weather like today? |
+| *Üks hetk, palun.* | One moment, please. |
+| *Palun üks kohv.* | One coffee, please. |
+| *Kui palju see maksab?* | How much does this cost? |
+| *Mis su telefoninumber on?* | What's your phone number? |
+| *Aita mind!* | Help me! |
 
 ## Exercises
 
@@ -86,9 +86,9 @@ Watch out for the look-alikes *kaks* "2" and *kaheksa* "8", and *üks* "1" and *
 1. 3
 2. 7
 3. 9
-4. kaks pluss kolm on ___
-5. kuus pluss neli on ___
-6. viis pluss kolm on ___
+4. *kaks pluss kolm on ___*
+5. *kuus pluss neli on ___*
+6. *viis pluss kolm on ___*
 
 **C. Translate into Estonian.**
 
@@ -106,9 +106,9 @@ Watch out for the look-alikes *kaks* "2" and *kaheksa* "8", and *üks* "1" and *
 
 **C.**
 
-1. Täna on külm.
-2. Sajab lund.
+1. *Täna on külm.*
+2. *Sajab lund.*
 3. Kahju, et sa ei tule.
-4. Väljas on pime.
+4. *Väljas on pime.*
 
 </details>

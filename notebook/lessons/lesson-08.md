@@ -32,12 +32,12 @@ The rules explain the changes after the fact, but cannot always predict them. Tr
 
 | Personal pronoun | Possessive | Short form | English |
 |---|---|---|---|
-| mina (ma) | minu | mu | my |
-| sina (sa) | sinu | su | your (sg.) |
-| tema (ta) | tema | ta | his, her |
-| meie (me) | meie | me | our |
-| teie (te) | teie | te | your (pl., polite) |
-| nemad (nad) | nende | none | their |
+| mina (ma) | *minu* | mu | my |
+| sina (sa) | *sinu* | su | your (sg.) |
+| tema (ta) | *tema* | *ta* | his, her |
+| meie (me) | *meie* | *me* | our |
+| teie (te) | *teie* | *te* | your (pl., polite) |
+| nemad (nad) | *nende* | none | their |
 
 The possessive stays the same whatever follows:
 
@@ -54,35 +54,35 @@ The last word carries the case endings, and the first word is fixed.
 
 | First word | Compound | Parts | English |
 |---|---|---|---|
-| Nominative | *raudtee* | raud + tee | railway |
-| Nominative | *väikelinn* | väike + linn | small town |
-| Nominative | *jalgratas* | jalg + ratas | bicycle |
-| Nominative | *noormees* | noor + mees | young man |
-| Genitive | *raamatupood* | raamatu + pood | bookshop |
-| Genitive | *kohvitass* | kohvi + tass | coffee cup |
-| Genitive | *hommikusöök* | hommiku + söök | breakfast |
-| Genitive | *nädalavahetus* | nädala + vahetus | weekend |
+| Nominative | *raudtee* | *raud + tee* | railway |
+| Nominative | *väikelinn* | *väike + linn* | small town |
+| Nominative | *jalgratas* | *jalg + ratas* | bicycle |
+| Nominative | *noormees* | *noor + mees* | young man |
+| Genitive | *raamatupood* | *raamatu + pood* | bookshop |
+| Genitive | *kohvitass* | *kohvi + tass* | coffee cup |
+| Genitive | *hommikusöök* | *hommiku + söök* | breakfast |
+| Genitive | *nädalavahetus* | *nädala + vahetus* | weekend |
 
 ## Useful phrases
 
 | Estonian | English |
 |---|---|
-| See on minu pere. | This is my family. |
-| Mul on õde. | I have a sister. |
-| Minu vanemad elavad Tartus. | My parents live in Tartu. |
-| Kas sa oled abielus? | Are you married? |
-| Kui vana sa oled? | How old are you? |
-| Minu naaber on arst. | My neighbour is a doctor. |
+| *See on minu pere.* | This is my family. |
+| *Mul on õde.* | I have a sister. |
+| *Minu vanemad elavad Tartus.* | My parents live in Tartu. |
+| *Kas sa oled abielus?* | Are you married? |
+| *Kui vana sa oled?* | How old are you? |
+| *Minu naaber on arst.* | My neighbour is a doctor. |
 
 ## Exercises
 
 **A. Give the genitive, using the vowel given.**
 
-1. kott (-i)
-2. pakk (-i)
+1. *kott (-i)*
+2. *pakk (-i)*
 3. part (-i)
 4. kurk "cucumber" (-i)
-5. kuld (-a)
+5. *kuld (-a)*
 6. tund (-i)
 
 **B. Translate into Estonian.**
@@ -94,12 +94,12 @@ The last word carries the case endings, and the first word is fixed.
 
 **C. Split each compound. Is the first word nominative or genitive?**
 
-1. raudtee
-2. raamatupood
-3. kohvitass
-4. väikelinn
-5. hommikusöök
-6. jalgratas
+1. *raudtee*
+2. *raamatupood*
+3. *kohvitass*
+4. *väikelinn*
+5. *hommikusöök*
+6. *jalgratas*
 
 <details>
 <summary>Show answers</summary>
@@ -108,18 +108,18 @@ The last word carries the case endings, and the first word is fixed.
 
 **B.**
 
-1. minu (mu) kassi nimi
+1. *minu (mu) kassi nimi*
 2. nende maja
-3. meie naabri nuga
-4. sinu (su) aken
+3. *meie naabri nuga*
+4. *sinu (su) aken*
 
 **C.**
 
 1. raud + tee, nominative
-2. raamatu + pood, genitive
+2. *raamatu + pood, genitive*
 3. kohvi + tass, genitive
 4. väike + linn, nominative
-5. hommiku + söök, genitive
+5. *hommiku + söök, genitive*
 6. jalg + ratas, nominative
 
 </details>

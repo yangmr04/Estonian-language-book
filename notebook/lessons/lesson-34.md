@@ -15,10 +15,10 @@ A command to one familiar person is the bare present stem: *Tule!* A command to 
 
 | The *-da* infinitive | Ending | Examples |
 |---|---|---|
-| ends in *-da* | **-ge** | kirjutada → kirjutage, õppida → õppige, jääda → jääge |
-| ends in *-ta* | **-ke** | kuulata → kuulake, aidata → aidake, osta → ostke |
-| ends in *-a*, after a vowel, *l*, *n* or *r* | **-ge** | olla → olge, tulla → tulge, panna → pange, minna → minge |
-| ends in *-a*, after *d*, *h* or *t* | **-ke** | anda → andke, hoida → hoidke, näha → nähke, võtta → võtke |
+| ends in *-da* | **-ge** | *kirjutada → kirjutage, õppida → õppige, jääda → jääge* |
+| ends in *-ta* | **-ke** | *kuulata → kuulake, aidata → aidake, osta → ostke* |
+| ends in *-a*, after a vowel, *l*, *n* or *r* | **-ge** | *olla → olge, tulla → tulge, panna → pange, minna → minge* |
+| ends in *-a*, after *d*, *h* or *t* | **-ke** | *anda → andke, hoida → hoidke, näha → nähke, võtta → võtke* |
 
 Double consonants shorten before the ending: *tulla* → *tulge*, *võtta* → *võtke*.
 
@@ -58,56 +58,56 @@ For the negative, put *ärgu* before the verb: *Ärgu ta helistagu!* "He'd bette
 
 | Person | Affirmative | Negative |
 |---|---|---|
-| sina | võta! | ära võta! |
-| tema | võtku! / las võtab! | ärgu võtku! |
-| meie (formal) | võtkem! | ärgem võtkem! |
-| meie (everyday) | võtame! | ärme võtame! |
-| teie | võtke! | ärge võtke! |
-| nemad | võtku! / las võtavad! | ärgu võtku! |
+| *sina* | *võta!* | *ära võta!* |
+| *tema* | *võtku! / las võtab!* | *ärgu võtku!* |
+| meie (formal) | *võtkem!* | *ärgem võtkem!* |
+| meie (everyday) | *võtame!* | *ärme võtame!* |
+| *teie* | *võtke!* | *ärge võtke!* |
+| *nemad* | *võtku! / las võtavad!* | *ärgu võtku!* |
 
 ## Forms built on the *-da* infinitive (§ 317)
 
 | Form | *kirjutada* |
 |---|---|
-| Gerund | kirjutades |
-| *-nud* participle | kirjutanud |
-| Negative past | ma ei kirjutanud |
-| Perfect and pluperfect | olen kirjutanud, olin kirjutanud |
-| Past conditional | oleksin kirjutanud |
-| Commands | kirjutagem, kirjutage, kirjutagu |
+| Gerund | *kirjutades* |
+| *-nud* participle | *kirjutanud* |
+| Negative past | *ma ei kirjutanud* |
+| Perfect and pluperfect | *olen kirjutanud, olin kirjutanud* |
+| Past conditional | *oleksin kirjutanud* |
+| Commands | *kirjutagem, kirjutage, kirjutagu* |
 
 ## Useful phrases
 
 | Estonian | English |
 |---|---|
-| Tulge sisse! | Come in! |
-| Võtke istet! | Have a seat! |
-| Olge hea! | Here you are! / Please do! |
-| Vabandage! | Excuse me! |
-| Ära muretse! | Don't worry! |
-| Lähme! | Let's go! |
-| Olgu! | Okay! |
+| *Tulge sisse!* | Come in! |
+| *Võtke istet!* | Have a seat! |
+| *Olge hea!* | Here you are! / Please do! |
+| *Vabandage!* | Excuse me! |
+| *Ära muretse!* | Don't worry! |
+| *Lähme!* | Let's go! |
+| *Olgu!* | Okay! |
 
 ## Exercises
 
 **A. Give the *teie* command.**
 
-1. osta
-2. kuulata
-3. lugeda
-4. minna
-5. hoida
-6. juua
-7. pesta
-8. võtta
+1. *osta*
+2. *kuulata*
+3. *lugeda*
+4. *minna*
+5. *hoida*
+6. *juua*
+7. *pesta*
+8. *võtta*
 
 **B. Make these commands negative.**
 
-1. Tulge!
-2. Laulgem!
-3. Tehku!
-4. Ostame!
-5. Oota!
+1. *Tulge!*
+2. *Laulgem!*
+3. *Tehku!*
+4. *Ostame!*
+5. *Oota!*
 
 **C. Translate into Estonian.**
 
@@ -126,10 +126,10 @@ For the negative, put *ärgu* before the verb: *Ärgu ta helistagu!* "He'd bette
 
 **C.**
 
-1. Lähme koju!
-2. Las ta ootab. (or: Oodaku!)
-3. Rääkige palun aeglaselt.
-4. Ärge sulgege akent!
-5. Ärme vaidleme!
+1. *Lähme koju!*
+2. *Las ta ootab. (or: Oodaku!)*
+3. *Rääkige palun aeglaselt.*
+4. *Ärge sulgege akent!*
+5. *Ärme vaidleme!*
 
 </details>

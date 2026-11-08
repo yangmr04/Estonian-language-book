@@ -15,14 +15,14 @@ Diminutives are typical of children's language, folk song and poetry. Start from
 
 | Nominative | Genitive | Diminutive | English |
 |---|---|---|---|
-| kass | kassi | kassike(ne) | kitty |
-| koer | koera | koerake(ne) | doggie |
-| kala | kala | kalake(ne) | little fish |
-| lill | lille | lilleke(ne) | little flower |
-| lind | linnu | linnuke(ne) | birdie |
-| maja | maja | majake(ne) | little house |
-| tuba | toa | toake(ne) | little room |
-| õde | õe | õeke(ne) | little sister |
+| *kass* | *kassi* | *kassike(ne)* | kitty |
+| *koer* | *koera* | *koerake(ne)* | doggie |
+| *kala* | *kala* | *kalake(ne)* | little fish |
+| *lill* | *lille* | *lilleke(ne)* | little flower |
+| *lind* | *linnu* | *linnuke(ne)* | birdie |
+| *maja* | *maja* | *majake(ne)* | little house |
+| *tuba* | *toa* | *toake(ne)* | little room |
+| *õde* | *õe* | *õeke(ne)* | little sister |
 
 Since the genitive is the base, any stem change from Lesson 8 appears in the diminutive as well.
 
@@ -42,11 +42,11 @@ Many everyday words end in *-ke* without any sense of smallness or affection tod
 
 | Word | English |
 |---|---|
-| väike | small |
-| pisike | tiny |
-| tilluke | teeny |
-| lühike | short |
-| päike | sun |
+| *väike* | small |
+| *pisike* | tiny |
+| *tilluke* | teeny |
+| *lühike* | short |
+| *päike* | sun |
 
 ## The genitive (§ 57)
 
@@ -54,10 +54,10 @@ Both *-ke* and *-kene* become *-kese*, on true diminutives and frozen words alik
 
 | Nominative | Genitive |
 |---|---|
-| kassike(ne) | kassikese |
-| linnuke(ne) | linnukese |
-| väike | väikese |
-| päike | päikese |
+| *kassike(ne)* | *kassikese* |
+| *linnuke(ne)* | *linnukese* |
+| *väike* | *väikese* |
+| *päike* | *päikese* |
 
 Example: *kassikese kauss* "the kitty's bowl".
 
@@ -65,18 +65,18 @@ Example: *kassikese kauss* "the kitty's bowl".
 
 | Estonian | English |
 |---|---|
-| Kallike! | Darling! |
-| Kullake! | Sweetheart! |
-| Head ööd! | Good night! |
-| Maga hästi! | Sleep well! |
-| Ma armastan sind. | I love you. |
-| Oled tubli! | Well done! |
+| *Kallike!* | Darling! |
+| *Kullake!* | Sweetheart! |
+| *Head ööd!* | Good night! |
+| *Maga hästi!* | Sleep well! |
+| *Ma armastan sind.* | I love you. |
+| *Oled tubli!* | Well done! |
 
 ## Exercises
 
 **A. Form the diminutive in *-ke*.**
 
-1. koer (gen. koera)
+1. *koer (gen. koera)*
 2. kala (gen. kala)
 3. lind (gen. linnu)
 4. tuba (gen. toa)
@@ -84,11 +84,11 @@ Example: *kassikese kauss* "the kitty's bowl".
 
 **B. Give the genitive.**
 
-1. kassike
-2. väike
-3. päike
-4. linnuke
-5. kalakene
+1. *kassike*
+2. *väike*
+3. *päike*
+4. *linnuke*
+5. *kalakene*
 
 **C. Translate into Estonian.**
 
@@ -107,10 +107,10 @@ Example: *kassikese kauss* "the kitty's bowl".
 
 **C.**
 
-1. mu kallis kassike
+1. *mu kallis kassike*
 2. Maga, linnuke!
-3. kassikese kauss
-4. väikese maja kõrval
-5. Kallike, tule koju!
+3. *kassikese kauss*
+4. *väikese maja kõrval*
+5. *Kallike, tule koju!*
 
 </details>

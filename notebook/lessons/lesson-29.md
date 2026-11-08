@@ -12,17 +12,17 @@
 
 | Partitive singular ends in | Rule | Nominative | Partitive sg. | Genitive pl. |
 |---|---|---|---|---|
-| A vowel | add *-de* | hind | hinda | hindade |
-| | | kask | kaske | kaskede |
-| | | rong | rongi | rongide |
-| | | kurk | kurku | kurkude |
-| *-d* | change *-d* to *-de* | puu | puud | puude |
-| | | kuu | kuud | kuude |
-| *-t* | change *-t* to *-te* | õpik | õpikut | õpikute |
-| | | hobune | hobust | hobuste |
-| | | hammas | hammast | hammaste |
-| | | tuul | tuult | tuulte |
-| | | vesi | vett | vete |
+| A vowel | add *-de* | *hind* | *hinda* | *hindade* |
+|  |  | *kask* | *kaske* | *kaskede* |
+|  |  | *rong* | *rongi* | *rongide* |
+|  |  | *kurk* | *kurku* | *kurkude* |
+| *-d* | change *-d* to *-de* | *puu* | *puud* | *puude* |
+|  |  | *kuu* | *kuud* | *kuude* |
+| *-t* | change *-t* to *-te* | *õpik* | *õpikut* | *õpikute* |
+|  |  | *hobune* | *hobust* | *hobuste* |
+|  |  | *hammas* | *hammast* | *hammaste* |
+|  |  | *tuul* | *tuult* | *tuulte* |
+|  |  | *vesi* | *vett* | *vete* |
 
 *laste mänguasjad* "the children's toys", *puude lehed* "the leaves of the trees".
 
@@ -30,11 +30,11 @@
 
 | Pattern | Examples (nominative → genitive plural) |
 |---|---|
-| One-syllable words with a diphthong before *l, n, r, s*: *-te* on the nominative | kael → kaelte, hein → heinte, õun → õunte, poiss → poiste |
-| Partitive in *-t*, but genitive plural in *-de* | auto → autode, foto → fotode, mure → murede |
-| Feminine *-nna* words: *-de* | sõbranna → sõbrannade, näitlejanna → näitlejannade |
-| Six words add *-e-* before *-de* | meri → merede, veri → verede, tuli → tulede, uni → unede, lumi → lumede, mõni → mõnede |
-| Genitive singular in *-me*: plural in *-mete* | võti → võtmete, liige → liikmete, süda → südamete |
+| One-syllable words with a diphthong before *l, n, r, s*: *-te* on the nominative | *kael → kaelte, hein → heinte, õun → õunte, poiss → poiste* |
+| Partitive in *-t*, but genitive plural in *-de* | *auto → autode, foto → fotode, mure → murede* |
+| Feminine *-nna* words: *-de* | *sõbranna → sõbrannade, näitlejanna → näitlejannade* |
+| Six words add *-e-* before *-de* | *meri → merede, veri → verede, tuli → tulede, uni → unede, lumi → lumede, mõni → mõnede* |
+| Genitive singular in *-me*: plural in *-mete* | *võti → võtmete, liige → liikmete, süda → südamete* |
 
 ## Short forms (§ 236)
 
@@ -42,10 +42,10 @@ Some words also have a short form in *-e*. It is mostly found in set phrases and
 
 | Regular | Short |
 |---|---|
-| jalgade | jalge (*jalge vahel* "between the legs") |
-| silmade | silme |
-| õnnelikkude | õnnelike |
-| aednikkude | aednike |
+| *jalgade* | jalge (*jalge vahel* "between the legs") |
+| *silmade* | *silme* |
+| *õnnelikkude* | *õnnelike* |
+| *aednikkude* | *aednike* |
 
 ## *eks* and *ega* (§ 237–239)
 
@@ -53,8 +53,8 @@ Both open a question that expects a particular answer.
 
 | Word | Expected answer | Example | English |
 |---|---|---|---|
-| eks | yes | *Eks sa helista?* | You'll call, won't you? |
-| ega | no | *Ega sul kiire ole?* | You're not in a hurry, are you? |
+| *eks* | yes | *Eks sa helista?* | You'll call, won't you? |
+| *ega* | no | *Ega sul kiire ole?* | You're not in a hurry, are you? |
 
 The verb normally takes the same form as after *ei*, with no personal ending. In current speech, *eks* often has a personal ending and *ega* can have an extra *ei*: *Eks sa helistad? Ega sul kiire ei ole?*
 
@@ -76,24 +76,24 @@ Both also add emphasis or certainty to statements.
 
 | Estonian | English |
 |---|---|
-| Eks näis. | We'll see. |
-| Eks ole? | Right? |
-| Eks ma proovin. | I'll give it a try. |
-| Ega midagi. | Oh well. |
-| Ega sul kiire ei ole? | You're not in a hurry, are you? |
+| *Eks näis.* | We'll see. |
+| *Eks ole?* | Right? |
+| *Eks ma proovin.* | I'll give it a try. |
+| *Ega midagi.* | Oh well. |
+| *Ega sul kiire ei ole?* | You're not in a hurry, are you? |
 
 ## Exercises
 
 **A. Give the genitive plural.**
 
 1. rong
-2. puu
-3. õpik
-4. naine
-5. kael
+2. *puu*
+3. *õpik*
+4. *naine*
+5. *kael*
 6. auto
-7. meri
-8. võti
+7. *meri*
+8. *võti*
 9. hind
 
 **B. Use *eks* or *ega*.**
@@ -119,9 +119,9 @@ Both also add emphasis or certainty to statements.
 
 **C.**
 
-1. laste mänguasjad
+1. *laste mänguasjad*
 2. õpilaste nimed
-3. Mul ei ole aega ega raha.
-4. Ega sul kiire ole? (or: Ega sul kiire ei ole?)
+3. *Mul ei ole aega ega raha.*
+4. *Ega sul kiire ole? (or: Ega sul kiire ei ole?)*
 
 </details>

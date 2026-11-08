@@ -12,11 +12,11 @@
 
 | Affirmative | Negative |
 |---|---|
-| ma ujusin | ma ei ujunud |
-| sa kirjutasid | sa ei kirjutanud |
-| ta ostis | ta ei ostnud |
-| me olime | me ei olnud |
-| nad tulid | nad ei tulnud |
+| *ma ujusin* | *ma ei ujunud* |
+| *sa kirjutasid* | *sa ei kirjutanud* |
+| *ta ostis* | *ta ei ostnud* |
+| *me olime* | *me ei olnud* |
+| *nad tulid* | *nad ei tulnud* |
 
 There is no personal ending on the negative form.
 
@@ -26,15 +26,15 @@ Replace the *-da*, *-ta* or *-a* ending of the *-da* infinitive with *-nud*.
 
 | *-da* form | *-nud* | English |
 |---|---|---|
-| ujuda | ujunud | swum |
-| magada | maganud | slept |
-| kuulata | kuulanud | listened |
-| pesta | pesnud | washed |
-| kanda | kandnud | carried |
-| saada | saanud | got |
-| olla | olnud | been |
-| surra | surnud | died |
-| jätta | jätnud | left |
+| *ujuda* | *ujunud* | swum |
+| *magada* | *maganud* | slept |
+| *kuulata* | *kuulanud* | listened |
+| *pesta* | *pesnud* | washed |
+| *kanda* | *kandnud* | carried |
+| *saada* | *saanud* | got |
+| *olla* | *olnud* | been |
+| *surra* | *surnud* | died |
+| *jätta* | *jätnud* | left |
 
 Double *l*, *r* and *tt* become single before *-nud*. The double *n* in *panna* stays: *pannud*.
 
@@ -42,10 +42,10 @@ Some participles must be learned individually:
 
 | *-da* form | *-nud* | | *-da* form | *-nud* |
 |---|---|---|---|---|
-| näha | näinud | | süüa | söönud |
-| teha | teinud | | juua | joonud |
-| minna | läinud | | tuua | toonud |
-| joosta | jooksnud | | lüüa | löönud |
+| *näha* | *näinud* |  | *süüa* | *söönud* |
+| *teha* | *teinud* |  | *juua* | *joonud* |
+| *minna* | *läinud* |  | *tuua* | *toonud* |
+| *joosta* | *jooksnud* |  | *lüüa* | *löönud* |
 
 *-nud* can also act as an adjective: *kadunud võti* "a lost key", *külmunud järv* "a frozen lake".
 
@@ -57,12 +57,12 @@ Present of *olema* + *-nud*. In set sayings and poetry, *olema* can be left out.
 
 | Person | Affirmative | Negative |
 |---|---|---|
-| ma | olen kirjutanud | ei ole / pole kirjutanud |
-| sa | oled kirjutanud | ei ole / pole kirjutanud |
-| ta | on kirjutanud | ei ole / pole kirjutanud |
-| me | oleme kirjutanud | ei ole / pole kirjutanud |
-| te | olete kirjutanud | ei ole / pole kirjutanud |
-| nad | on kirjutanud | ei ole / pole kirjutanud |
+| *ma* | *olen kirjutanud* | ei ole / pole kirjutanud |
+| *sa* | *oled kirjutanud* | ei ole / pole kirjutanud |
+| *ta* | *on kirjutanud* | ei ole / pole kirjutanud |
+| *me* | *oleme kirjutanud* | ei ole / pole kirjutanud |
+| *te* | *olete kirjutanud* | ei ole / pole kirjutanud |
+| *nad* | *on kirjutanud* | ei ole / pole kirjutanud |
 
 *Kas sa oled Riias käinud?* "Have you been to Riga?"
 
@@ -72,9 +72,9 @@ Past of *olema* + *-nud*. It marks an action finished before another past point.
 
 | Person | Affirmative | Negative |
 |---|---|---|
-| ma | olin kirjutanud | ei olnud / polnud kirjutanud |
-| sa | olid kirjutanud | ei olnud / polnud kirjutanud |
-| ta | oli kirjutanud | ei olnud / polnud kirjutanud |
+| *ma* | *olin kirjutanud* | *ei olnud / polnud kirjutanud* |
+| *sa* | *olid kirjutanud* | *ei olnud / polnud kirjutanud* |
+| *ta* | *oli kirjutanud* | *ei olnud / polnud kirjutanud* |
 
 The plural works the same way (*olime*, *olite*, *olid*).
 
@@ -92,29 +92,29 @@ The *kui* can be dropped by putting the verb first: *Oleksin ma sellest kuulnud,
 
 | Estonian | English |
 |---|---|
-| Ma ei teadnud. | I didn't know. |
-| Mis on juhtunud? | What has happened? |
-| Ma olen väsinud. | I'm tired. |
-| Ma pole veel söönud. | I haven't eaten yet. |
-| Kas sa oled Eestis käinud? | Have you been to Estonia? |
+| *Ma ei teadnud.* | I didn't know. |
+| *Mis on juhtunud?* | What has happened? |
+| *Ma olen väsinud.* | I'm tired. |
+| *Ma pole veel söönud.* | I haven't eaten yet. |
+| *Kas sa oled Eestis käinud?* | Have you been to Estonia? |
 
 ## Exercises
 
 **A. Make these sentences negative.**
 
-1. Ma ujusin.
-2. Ta ostis leiba.
-3. Nad läksid koju.
-4. Me nägime filmi.
-5. Sa sõid.
+1. *Ma ujusin.*
+2. *Ta ostis leiba.*
+3. *Nad läksid koju.*
+4. *Me nägime filmi.*
+5. *Sa sõid.*
 
 **B. Give the *-nud* participle.**
 
-1. kuulata
-2. tulla
-3. teha
-4. juua
-5. leida
+1. *kuulata*
+2. *tulla*
+3. *teha*
+4. *juua*
+5. *leida*
 6. panna
 
 **C. Translate into Estonian.**
@@ -134,8 +134,8 @@ The *kui* can be dropped by putting the verb first: *Oleksin ma sellest kuulnud,
 **C.**
 
 1. Me ei ole maganud. (or: Me pole maganud.)
-2. Ta oli juba läinud.
-3. Ma oleksin tulnud.
-4. Kas sa oled seda kirja lugenud?
+2. *Ta oli juba läinud.*
+3. *Ma oleksin tulnud.*
+4. *Kas sa oled seda kirja lugenud?*
 
 </details>

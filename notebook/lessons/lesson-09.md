@@ -15,21 +15,21 @@ Put the noun in the genitive and follow it with the postposition.
 
 | Postposition | Meaning | Example | English |
 |---|---|---|---|
-| peal | on | *katuse peal* | on the roof |
-| all | under | *puu all* | under the tree |
-| ees | in front of | *kino ees* | in front of the cinema |
-| taga | behind | *poe taga* | behind the shop |
-| kõrval | beside | *apteegi kõrval* | next to the pharmacy |
-| juures | at, near; at someone's place | *arsti juures* | at the doctor's |
-| ääres | by the edge of | *järve ääres* | by the lake |
-| sees | inside | *koti sees* | inside the bag |
-| keskel | in the middle of | *linna keskel* | in the middle of the town |
-| kohal | above | *järve kohal* | above the lake |
-| vahel | between | *Tartu ja Pärnu vahel* | between Tartu and Pärnu |
-| ümber | around | *maja ümber* | around the house |
-| pärast | because of; after (time) | *töö pärast* / *tunni pärast* | because of work / in an hour |
-| eest | for | *kingituse eest* | for the gift |
-| poolt / vastu | for / against | *plaani poolt* / *plaani vastu* | for / against the plan |
+| *peal* | on | *katuse peal* | on the roof |
+| *all* | under | *puu all* | under the tree |
+| *ees* | in front of | *kino ees* | in front of the cinema |
+| *taga* | behind | *poe taga* | behind the shop |
+| *kõrval* | beside | *apteegi kõrval* | next to the pharmacy |
+| *juures* | at, near; at someone's place | *arsti juures* | at the doctor's |
+| *ääres* | by the edge of | *järve ääres* | by the lake |
+| *sees* | inside | *koti sees* | inside the bag |
+| *keskel* | in the middle of | *linna keskel* | in the middle of the town |
+| *kohal* | above | *järve kohal* | above the lake |
+| *vahel* | between | *Tartu ja Pärnu vahel* | between Tartu and Pärnu |
+| *ümber* | around | *maja ümber* | around the house |
+| *pärast* | because of; after (time) | *töö pärast* / *tunni pärast* | because of work / in an hour |
+| *eest* | for | *kingituse eest* | for the gift |
+| *poolt / vastu* | for / against | *plaani poolt* / *plaani vastu* | for / against the plan |
 
 Good to know:
 
@@ -43,37 +43,37 @@ These come before the noun. Several take the genitive, though not all of them do
 
 | Word | Meaning | Case | Example | English |
 |---|---|---|---|---|
-| üle | across, over | genitive | *üle silla* | across the bridge |
-| läbi | through | genitive | *läbi metsa* | through the forest |
-| enne | before | partitive | *enne tööd* | before work |
+| *üle* | across, over | genitive | *üle silla* | across the bridge |
+| *läbi* | through | genitive | *läbi metsa* | through the forest |
+| *enne* | before | partitive | *enne tööd* | before work |
 
 The same word can act as a postposition with a different meaning:
 
 | Word | As a preposition | As a postposition |
 |---|---|---|
-| üle | *üle silla* "across the bridge" | *hinna üle* "about the price": *Nad vaidlevad hinna üle.* "They are arguing about the price." |
-| läbi | *läbi metsa* "through the forest" | *vea läbi* "because of a mistake" |
+| *üle* | *üle silla* "across the bridge" | *hinna üle* "about the price": *Nad vaidlevad hinna üle.* "They are arguing about the price." |
+| *läbi* | *läbi metsa* "through the forest" | *vea läbi* "because of a mistake" |
 
 ## Useful phrases
 
 | Estonian | English |
 |---|---|
-| Kus on apteek? | Where is the pharmacy? |
-| Otse edasi. | Straight ahead. |
-| Pöörake paremale. | Turn right. (polite) |
-| Pöörake vasakule. | Turn left. (polite) |
-| Ei ole kaugel. | It isn't far. |
-| Aitäh abi eest! | Thanks for the help! |
+| *Kus on apteek?* | Where is the pharmacy? |
+| *Otse edasi.* | Straight ahead. |
+| *Pöörake paremale.* | Turn right. (polite) |
+| *Pöörake vasakule.* | Turn left. (polite) |
+| *Ei ole kaugel.* | It isn't far. |
+| *Aitäh abi eest!* | Thanks for the help! |
 
 ## Exercises
 
 **A. Put the word in brackets into the genitive.**
 
-1. Me oleme (järv) ääres.
-2. Ema on (arst) juures.
+1. *Me oleme (järv) ääres.*
+2. *Ema on (arst) juures.*
 3. Auto on (maja) taga.
 4. Ta ootab (kino) ees.
-5. Kass on (voodi) all.
+5. *Kass on (voodi) all.*
 
 **B. Translate into Estonian.**
 
@@ -99,11 +99,11 @@ The same word can act as a postposition with a different meaning:
 **B.**
 
 1. puu all
-2. apteegi kõrval
+2. *apteegi kõrval*
 3. poe taga
-4. Tartu ja Pärnu vahel
-5. töö pärast
-6. tunni pärast
+4. *Tartu ja Pärnu vahel*
+5. *töö pärast*
+6. *tunni pärast*
 
 **C.** 1. üle · 2. üle · 3. läbi · 4. läbi
 

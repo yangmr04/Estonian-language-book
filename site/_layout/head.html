@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{fill title}}</title>
+  <script>
+    try { document.documentElement.dataset.font = localStorage.getItem("reading-font") || "atkinson"; }
+    catch (e) { document.documentElement.dataset.font = "atkinson"; }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Lexend:wght@400;600&display=swap">
   <link rel="stylesheet" href="/css/site.css">
   <script src="/libs/search.js" defer></script>
 </head>
@@ -12,6 +19,14 @@
   <a class="brand" href="/">Estonian Study Notebook</a>
   <a class="header-link" href="/sections/">Sections</a>
   <a class="header-link" href="/numbers/">Numbers</a>
+  <label class="font-picker">Font
+    <select id="font-select" aria-label="Reading font">
+      <option value="atkinson">Atkinson</option>
+      <option value="lexend">Lexend</option>
+      <option value="opendyslexic">OpenDyslexic</option>
+      <option value="serif">Serif (original)</option>
+    </select>
+  </label>
   <div class="search">
     <input id="search-input" type="search" placeholder="Search words, topics or § 66" aria-label="Search the notebook" autocomplete="off">
     <div id="search-results" class="search-results" hidden></div>

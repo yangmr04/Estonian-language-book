@@ -60,12 +60,12 @@ The verb still needs *ei*, even when *mitte keegi* "nobody" is the subject.
 
 | Estonian | English |
 |---|---|
-| Väga meeldiv! | Pleased to meet you! |
-| Ma olen ameeriklane. | I'm American. |
-| Ma olen väsinud. | I'm tired. |
-| Ma olen näljane. | I'm hungry. |
-| Kõik on korras. | Everything is fine. |
-| Mitte midagi. | Nothing at all. |
+| *Väga meeldiv!* | Pleased to meet you! |
+| *Ma olen ameeriklane.* | I'm American. |
+| *Ma olen väsinud.* | I'm tired. |
+| *Ma olen näljane.* | I'm hungry. |
+| *Kõik on korras.* | Everything is fine. |
+| *Mitte midagi.* | Nothing at all. |
 
 ## Exercises
 
@@ -74,7 +74,7 @@ The verb still needs *ei*, even when *mitte keegi* "nobody" is the subject.
 1. ___ see mees on? — Ta on arst.
 2. ___ see on? — See on õun.
 3. ___ see supp on? — See on külm.
-4. ___ helistab? — Ema helistab.
+4. *___ helistab? — Ema helistab.*
 
 **B. Give the correct form of *olema*.**
 
@@ -99,9 +99,9 @@ The verb still needs *ei*, even when *mitte keegi* "nobody" is the subject.
 
 **C.**
 
-1. Me ei söö mitte midagi.
-2. Mitte keegi ei helista.
-3. Ta ei joo mitte kunagi kohvi.
+1. *Me ei söö mitte midagi.*
+2. *Mitte keegi ei helista.*
+3. *Ta ei joo mitte kunagi kohvi.*
 4. Auto on kiire.
 
 </details>

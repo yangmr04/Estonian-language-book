@@ -13,36 +13,36 @@
 
 | Form | Source | Example |
 |---|---|---|
-| Nominative plural | genitive singular + *-d* | silla → sillad |
-| Genitive plural | usually partitive singular (Lesson 29) | silda → sildade |
-| Other plural cases | genitive plural + case ending | sildade → sildadega |
-| Partitive plural | Lesson 31 | |
+| Nominative plural | genitive singular + *-d* | *silla → sillad* |
+| Genitive plural | usually partitive singular (Lesson 29) | *silda → sildade* |
+| Other plural cases | genitive plural + case ending | *sildade → sildadega* |
+| Partitive plural | Lesson 31 |  |
 
 ## A full paradigm (§ 244–246)
 
 | Case | Singular | Plural |
 |---|---|---|
-| Nominative | sild | sillad |
-| Genitive | silla | sildade |
-| Partitive | silda | (Lesson 31) |
-| Illative | sillasse | sildadesse |
-| Inessive | sillas | sildades |
-| Elative | sillast | sildadest |
-| Allative | sillale | sildadele |
-| Adessive | sillal | sildadel |
-| Ablative | sillalt | sildadelt |
-| Translative | sillaks | sildadeks |
-| Terminative | sillani | sildadeni |
-| Essive | sillana | sildadena |
-| Comitative | sillaga | sildadega |
-| Abessive | sillata | sildadeta |
+| Nominative | *sild* | *sillad* |
+| Genitive | *silla* | *sildade* |
+| Partitive | *silda* | (Lesson 31) |
+| Illative | *sillasse* | *sildadesse* |
+| Inessive | *sillas* | *sildades* |
+| Elative | *sillast* | *sildadest* |
+| Allative | *sillale* | *sildadele* |
+| Adessive | *sillal* | *sildadel* |
+| Ablative | *sillalt* | *sildadelt* |
+| Translative | *sillaks* | *sildadeks* |
+| Terminative | *sillani* | *sildadeni* |
+| Essive | *sillana* | *sildadena* |
+| Comitative | *sillaga* | *sildadega* |
+| Abessive | *sillata* | *sildadeta* |
 
 The singular runs on the genitive stem (*silla-*). The plural runs on the partitive stem (*silda-*). A typical plural form has three parts:
 
 | Partitive stem | Plural marker | Case ending | Result |
 |---|---|---|---|
-| silda | -de | -ga | sildadega |
-| õpikut → õpiku | -te | -s | õpikutes |
+| *silda* | *-de* | *-ga* | *sildadega* |
+| *õpikut → õpiku* | *-te* | *-s* | *õpikutes* |
 
 Words with the special genitive plurals from Lesson 29 keep those stems.
 
@@ -50,11 +50,11 @@ Words with the special genitive plurals from Lesson 29 keep those stems.
 
 | Nominative sg. | Genitive sg. | Partitive sg. | Nominative pl. | Genitive pl. | Comitative pl. |
 |---|---|---|---|---|---|
-| laps | lapse | last | lapsed | laste | lastega |
-| naine | naise | naist | naised | naiste | naistega |
-| ratas | ratta | ratast | rattad | rataste | ratastega |
-| mägi | mäe | mäge | mäed | mägede | mägedega |
-| vesi | vee | vett | veed | vete | vetega |
+| *laps* | *lapse* | *last* | *lapsed* | *laste* | *lastega* |
+| *naine* | *naise* | *naist* | *naised* | *naiste* | *naistega* |
+| *ratas* | *ratta* | *ratast* | *rattad* | *rataste* | *ratastega* |
+| *mägi* | *mäe* | *mäge* | *mäed* | *mägede* | *mägedega* |
+| *vesi* | *vee* | *vett* | *veed* | *vete* | *vetega* |
 
 The short illative exists only in the singular (*sillasse* or *silda*, *vette*). The plural uses the long form.
 
@@ -70,10 +70,10 @@ With *-ga* and *-ta*, usually only the last noun takes the ending. The others st
 
 | Word | English | Note |
 |---|---|---|
-| püksid, prillid, käärid | trousers, glasses, scissors | plural in both languages |
-| juuksed | hair | singular in English |
-| pulmad, matused | wedding, funeral | singular in English |
-| teadmised | knowledge | singular in English |
+| *püksid, prillid, käärid* | trousers, glasses, scissors | plural in both languages |
+| *juuksed* | hair | singular in English |
+| *pulmad, matused* | wedding, funeral | singular in English |
+| *teadmised* | knowledge | singular in English |
 
 *Tal on pikad juuksed.* "She has long hair." *Pulmad on juunis.* "The wedding is in June." *Raha* "money", however, stays singular.
 
@@ -87,12 +87,12 @@ When each person has one of something, Estonian often uses the singular, where E
 
 | Estonian | English |
 |---|---|
-| Kus mu prillid on? | Where are my glasses? |
-| Pane mantel selga! | Put your coat on! |
-| Võta kingad ära! | Take off your shoes! |
-| Need püksid on liiga suured. | These trousers are too big. |
-| Pulmad on suvel. | The wedding is in summer. |
-| Kõik lapsed on kodus. | All the children are at home. |
+| *Kus mu prillid on?* | Where are my glasses? |
+| *Pane mantel selga!* | Put your coat on! |
+| *Võta kingad ära!* | Take off your shoes! |
+| *Need püksid on liiga suured.* | These trousers are too big. |
+| *Pulmad on suvel.* | The wedding is in summer. |
+| *Kõik lapsed on kodus.* | All the children are at home. |
 
 ## Exercises
 
@@ -100,7 +100,7 @@ When each person has one of something, Estonian often uses the singular, where E
 
 1. laps, comitative
 2. naine, allative
-3. mägi, inessive
+3. *mägi, inessive*
 4. vesi, elative
 5. ratas, comitative
 6. sild, adessive
@@ -126,16 +126,16 @@ When each person has one of something, Estonian often uses the singular, where E
 
 **B.**
 
-1. Ma räägin lastega.
-2. Me elame linnades.
-3. Kass on naiste juures.
-4. Ta tuli mägedelt.
+1. *Ma räägin lastega.*
+2. *Me elame linnades.*
+3. *Kass on naiste juures.*
+4. *Ta tuli mägedelt.*
 
 **C.**
 
-1. Me elame suurtes linnades.
-2. Ma läksin poiste ja tüdrukutega.
+1. *Me elame suurtes linnades.*
+2. *Ma läksin poiste ja tüdrukutega.*
 3. Tema juuksed on pikad.
-4. Kus mu prillid on?
+4. *Kus mu prillid on?*
 
 </details>

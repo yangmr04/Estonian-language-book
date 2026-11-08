@@ -16,17 +16,17 @@ Take the stem of the *-ma* infinitive and add *-v*.
 
 | Infinitive | Participle | Example |
 |---|---|---|
-| kõndima | kõndiv | *kõndiv mees* "a walking man" |
-| naeratama | naeratav | *naeratav laps* "a smiling child" |
-| sõitma | sõitev | *sõitev auto* "a moving car" |
-| tõusma | tõusev | *tõusev päike* "the rising sun" |
+| *kõndima* | *kõndiv* | *kõndiv mees* "a walking man" |
+| *naeratama* | *naeratav* | *naeratav laps* "a smiling child" |
+| *sõitma* | *sõitev* | *sõitev auto* "a moving car" |
+| *tõusma* | *tõusev* | *tõusev päike* "the rising sun" |
 
 It declines like an adjective, and the genitive always ends in *-a*.
 
 | Stem type | Nom. | Gen. | Part. | Ill. |
 |---|---|---|---|---|
-| Vowel stem | naeratav | naeratava | naeratavat | naeratavasse |
-| Consonant stem | sõitev | sõitva | sõitvat | sõitvasse |
+| Vowel stem | *naeratav* | *naeratava* | *naeratavat* | *naeratavasse* |
+| Consonant stem | *sõitev* | *sõitva* | *sõitvat* | *sõitvasse* |
 
 Consonant stems have an *e* only in the nominative singular. After a short vowel, the final consonant doubles there: *võtma* → *võttev* but plural *võtvad*; *jätma* → *jättev* but plural *jätvad*.
 
@@ -36,9 +36,9 @@ This form often matches English "-able":
 
 | Participle | Meaning |
 |---|---|
-| joodav | drinkable |
-| kuuldav | audible |
-| kantav | wearable |
+| *joodav* | drinkable |
+| *kuuldav* | audible |
+| *kantav* | wearable |
 
 ## Participles instead of clauses (§ 322–323)
 
@@ -73,10 +73,10 @@ Add *-ja* to the stem of the *-ma* infinitive.
 
 | Verb | Noun | Meaning |
 |---|---|---|
-| ehitama | ehitaja | builder |
-| aitama | aitaja | helper |
-| tõlkima | tõlkija | translator |
-| sõitma | sõitja | driver, rider |
+| *ehitama* | *ehitaja* | builder |
+| *aitama* | *aitaja* | helper |
+| *tõlkima* | *tõlkija* | translator |
+| *sõitma* | *sõitja* | driver, rider |
 
 - Its forms are *-ja*, *-ja*, *-jat*, *-jaid*.
 - A stem ending in *-e* changes it to *i*: *minema* → *minija*, *tulema* → *tulija*, *pesema* → *pesija*.
@@ -90,9 +90,9 @@ Add *-mine* to the same stem.
 
 | Verb | Noun | Example |
 |---|---|---|
-| ujuma | ujumine | *Ujumine on tervislik.* "Swimming is healthy." |
-| koristama | koristamine | *Koristamine võtab aega.* "Cleaning takes time." |
-| kohtuma | kohtumine | *Homme on kohtumine.* "There's a meeting tomorrow." |
+| *ujuma* | *ujumine* | *Ujumine on tervislik.* "Swimming is healthy." |
+| *koristama* | *koristamine* | *Koristamine võtab aega.* "Cleaning takes time." |
+| *kohtuma* | *kohtumine* | *Homme on kohtumine.* "There's a meeting tomorrow." |
 
 Its forms are *-mine*, *-mise*, *-mist*, *-misi*.
 
@@ -100,38 +100,38 @@ Its forms are *-mine*, *-mise*, *-mist*, *-misi*.
 
 | Form | *kirjutama* |
 |---|---|
-| Simple past | kirjutasin |
-| *-v* participle | kirjutav |
-| Oblique | kirjutavat |
-| Doer | kirjutaja |
-| Action noun | kirjutamine |
+| Simple past | *kirjutasin* |
+| *-v* participle | *kirjutav* |
+| Oblique | *kirjutavat* |
+| Doer | *kirjutaja* |
+| Action noun | *kirjutamine* |
 
 ## Useful phrases
 
 | Estonian | English |
 |---|---|
-| Nägemiseni! | See you! |
-| Kohtumiseni! | Until we meet! |
-| Jõudu tööle! | Good luck with your work! |
-| Head õppimist! | Enjoy your studies! |
-| Head reisimist! | Happy travels! |
-| Olevat nii. | So they say. |
+| *Nägemiseni!* | See you! |
+| *Kohtumiseni!* | Until we meet! |
+| *Jõudu tööle!* | Good luck with your work! |
+| *Head õppimist!* | Enjoy your studies! |
+| *Head reisimist!* | Happy travels! |
+| *Olevat nii.* | So they say. |
 
 ## Exercises
 
 **A. Give the nominative and genitive of the *-v* participle.**
 
-1. kõndima
-2. tõusma
-3. kandma
-4. naeratama
+1. *kõndima*
+2. *tõusma*
+3. *kandma*
+4. *naeratama*
 
 **B. Change to the oblique mood, as if you only heard it.**
 
-1. Ta elab Narvas.
+1. *Ta elab Narvas.*
 2. Nad ei tule.
-3. Ta sõitis ära.
-4. Hinnad on kõrged.
+3. *Ta sõitis ära.*
+4. *Hinnad on kõrged.*
 
 **C. Form the word requested and translate the sentence.**
 
@@ -147,16 +147,16 @@ Its forms are *-mine*, *-mise*, *-mist*, *-misi*.
 
 **B.**
 
-1. Ta elavat Narvas.
+1. *Ta elavat Narvas.*
 2. Nad ei tulevat.
-3. Ta olevat ära sõitnud.
-4. Hinnad olevat kõrged.
+3. *Ta olevat ära sõitnud.*
+4. *Hinnad olevat kõrged.*
 
 **C.**
 
 1. õpetaja ("My sister is a teacher.")
 2. Ujumine ("Swimming is great.")
-3. Ma näen bussi tulevat.
-4. Pood olevat suletud.
+3. *Ma näen bussi tulevat.*
+4. *Pood olevat suletud.*
 
 </details>

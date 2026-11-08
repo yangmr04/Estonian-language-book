@@ -13,12 +13,12 @@
 
 | Person | Long form | Short form | English |
 |---|---|---|---|
-| 1st sg. | mina | ma | I |
-| 2nd sg. | sina | sa | you (one person) |
-| 3rd sg. | tema | ta | he, she |
-| 1st pl. | meie | me | we |
-| 2nd pl. | teie | te | you (several people) |
-| 3rd pl. | nemad | nad | they |
+| 1st sg. | *mina* | *ma* | I |
+| 2nd sg. | *sina* | *sa* | you (one person) |
+| 3rd sg. | *tema* | *ta* | he, she |
+| 1st pl. | *meie* | *me* | we |
+| 2nd pl. | *teie* | *te* | you (several people) |
+| 3rd pl. | *nemad* | *nad* | they |
 
 - The short form is the everyday default.
 - Use the long form for emphasis or contrast: *Mina jään, aga sina lähed.* "**I** am staying, but **you** are going."
@@ -30,12 +30,12 @@ Verbs change for person and time. Remove the *-n* from the "I" form to find the 
 
 | Person | Ending | *elama* "to live" | *ootama* "to wait" |
 |---|---|---|---|
-| ma | -n | elan | ootan |
-| sa | -d | elad | ootad |
-| ta | -b | elab | ootab |
-| me | -me | elame | ootame |
-| te | -te | elate | ootate |
-| nad | -vad | elavad | ootavad |
+| *ma* | *-n* | *elan* | *ootan* |
+| *sa* | *-d* | *elad* | *ootad* |
+| *ta* | *-b* | *elab* | *ootab* |
+| *me* | *-me* | *elame* | *ootame* |
+| *te* | *-te* | *elate* | *ootate* |
+| *nad* | *-vad* | *elavad* | *ootavad* |
 
 The ending shows the person, so the pronoun can be dropped when the meaning is clear: *Elan Tartus.* "I live in Tartu."
 
@@ -43,12 +43,12 @@ The ending shows the person, so the pronoun can be dropped when the meaning is c
 
 | Person | *olema* |
 |---|---|
-| ma | olen |
-| sa | oled |
-| ta | **on** |
-| me | oleme |
-| te | olete |
-| nad | **on** |
+| *ma* | *olen* |
+| *sa* | *oled* |
+| *ta* | **on** |
+| *me* | *oleme* |
+| *te* | *olete* |
+| *nad* | **on** |
 
 The two third-person forms are the same, and neither takes the usual *-b* or *-vad*.
 
@@ -64,27 +64,27 @@ There is no separate future tense. Use the present, and add a time word when nee
 
 | Estonian | English |
 |---|---|
-| Tere! | Hello! |
-| Tere hommikust! | Good morning! |
-| Head aega! | Goodbye! |
-| Aitäh! / Tänan! | Thank you! |
-| Palun! | Please! / You're welcome! |
+| *Tere!* | Hello! |
+| *Tere hommikust!* | Good morning! |
+| *Head aega!* | Goodbye! |
+| *Aitäh! / Tänan!* | Thank you! |
+| *Palun!* | Please! / You're welcome! |
 
 ## Exercises
 
 **A. Add the correct ending to the stem.**
 
-1. ma oota___
+1. *ma oota___*
 2. nad ela___
-3. te oota___
-4. ta ela___
-5. sa oota___
+3. *te oota___*
+4. *ta ela___*
+5. *sa oota___*
 
 **B. Give the correct form of *olema*.**
 
-1. Me ___ kodus.
+1. *Me ___ kodus.*
 2. Nad ___ kodus.
-3. Sa ___ õpetaja.
+3. *Sa ___ õpetaja.*
 
 **C. Translate into Estonian.**
 
@@ -101,8 +101,8 @@ There is no separate future tense. Use the present, and add a time word when nee
 
 **C.**
 
-1. Me elame Tartus.
-2. Homme sa ootad.
-3. Kas te olete õpetaja?
+1. *Me elame Tartus.*
+2. *Homme sa ootad.*
+3. *Kas te olete õpetaja?*
 
 </details>

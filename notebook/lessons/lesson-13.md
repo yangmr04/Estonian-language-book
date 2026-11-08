@@ -13,29 +13,29 @@
 
 | Number | Genitive | Ordinal | Genitive of ordinal |
 |---|---|---|---|
-| 1 üks | ühe | **esimene** | esimese |
-| 2 kaks | kahe | **teine** | teise |
-| 3 kolm | kolme | **kolmas** | kolmanda |
-| 4 neli | nelja | neljas | neljanda |
-| 5 viis | viie | viies | viienda |
-| 6 kuus | kuue | kuues | kuuenda |
-| 7 seitse | seitsme | seitsmes | seitsmenda |
-| 8 kaheksa | kaheksa | kaheksas | kaheksanda |
-| 9 üheksa | üheksa | üheksas | üheksanda |
-| 10 kümme | kümne | kümnes | kümnenda |
-| 100 sada | saja | sajas | sajanda |
-| 1000 tuhat | tuhande | tuhandes | tuhandenda |
+| 1 üks | *ühe* | **esimene** | *esimese* |
+| 2 kaks | *kahe* | **teine** | *teise* |
+| 3 kolm | *kolme* | **kolmas** | *kolmanda* |
+| 4 neli | *nelja* | *neljas* | *neljanda* |
+| 5 viis | *viie* | *viies* | *viienda* |
+| 6 kuus | *kuue* | *kuues* | *kuuenda* |
+| 7 seitse | *seitsme* | *seitsmes* | *seitsmenda* |
+| 8 kaheksa | *kaheksa* | *kaheksas* | *kaheksanda* |
+| 9 üheksa | *üheksa* | *üheksas* | *üheksanda* |
+| 10 kümme | *kümne* | *kümnes* | *kümnenda* |
+| 100 sada | *saja* | *sajas* | *sajanda* |
+| 1000 tuhat | *tuhande* | *tuhandes* | *tuhandenda* |
 
 In a longer ordinal, the final part takes the ordinal ending and every part before it is in the genitive.
 
 | Figure | Ordinal |
 |---|---|
-| 11. | üheteistkümnes |
-| 16. | kuueteistkümnes |
-| 20. | kahekümnes |
-| 34. | kolmekümne neljas |
-| 240. | kahesaja neljakümnes |
-| 1618. | tuhande kuuesaja kaheksateistkümnes |
+| 11. | *üheteistkümnes* |
+| 16. | *kuueteistkümnes* |
+| 20. | *kahekümnes* |
+| 34. | *kolmekümne neljas* |
+| 240. | *kahesaja neljakümnes* |
+| 1618. | *tuhande kuuesaja kaheksateistkümnes* |
 
 The ordinals of 11–19 are built on the long form *-teistkümmend*.
 
@@ -47,10 +47,10 @@ Add *-ndik* to the genitive of the cardinal number. "A half" is simply *pool*.
 
 | Fraction | Word |
 |---|---|
-| 1/3 | (üks) kolmandik |
-| 1/6 | (üks) kuuendik |
-| 1/8 | (üks) kaheksandik |
-| 1/1000 | (üks) tuhandik |
+| 1/3 | *(üks) kolmandik* |
+| 1/6 | *(üks) kuuendik* |
+| 1/8 | *(üks) kaheksandik* |
+| 1/1000 | *(üks) tuhandik* |
 
 With a number above one, use the partitive *-ndikku*: *kaks seitsmendikku* "two sevenths", *viis kuuendikku* "five sixths".
 
@@ -67,12 +67,12 @@ Add *-l* to the genitive to say when something happens. The English preposition 
 
 | Word | Genitive | Adessive | English |
 |---|---|---|---|
-| lõuna | lõuna | lõunal | at noon |
-| sügis | sügise | sügisel | in autumn |
-| talv | talve | talvel | in winter |
-| esmaspäev | esmaspäeva | esmaspäeval | on Monday |
-| reede | reede | reedel | on Friday |
-| nädal | nädala | nädalal | in the week |
+| *lõuna* | *lõuna* | *lõunal* | at noon |
+| *sügis* | *sügise* | *sügisel* | in autumn |
+| *talv* | *talve* | *talvel* | in winter |
+| *esmaspäev* | *esmaspäeva* | *esmaspäeval* | on Monday |
+| *reede* | *reede* | *reedel* | on Friday |
+| *nädal* | *nädala* | *nädalal* | in the week |
 
 In a two-word time phrase, the first word stays in the genitive: *reede õhtul* "on Friday evening".
 
@@ -92,12 +92,12 @@ In the adessive, both the ordinal and the month take *-l*.
 
 | Estonian | English |
 |---|---|
-| Mis kuupäev täna on? | What is the date today? |
-| Täna on esimene mai. | Today is the first of May. |
-| Millal su sünnipäev on? | When is your birthday? |
-| Mis kell on? | What time is it? |
-| Näeme esmaspäeval! | See you on Monday! |
-| Head nädalavahetust! | Have a good weekend! |
+| *Mis kuupäev täna on?* | What is the date today? |
+| *Täna on esimene mai.* | Today is the first of May. |
+| *Millal su sünnipäev on?* | When is your birthday? |
+| *Mis kell on?* | What time is it? |
+| *Näeme esmaspäeval!* | See you on Monday! |
+| *Head nädalavahetust!* | Have a good weekend! |
 
 ## Exercises
 
@@ -132,18 +132,18 @@ In the adessive, both the ordinal and the month take *-l*.
 
 **B.**
 
-1. viienda maja uks
-2. kolmanda korruse aken
-3. esimese päeva õhtu
-4. teise tunni lõpp
-5. kaheteistkümnenda nädala esmaspäev
+1. *viienda maja uks*
+2. *kolmanda korruse aken*
+3. *esimese päeva õhtu*
+4. *teise tunni lõpp*
+5. *kaheteistkümnenda nädala esmaspäev*
 
 **C.**
 
-1. Täna on kuues mai.
-2. Ma tulen üheksandal juunil.
-3. Sügisel on külm.
-4. kolm kümnendikku
-5. reede õhtul
+1. *Täna on kuues mai.*
+2. *Ma tulen üheksandal juunil.*
+3. *Sügisel on külm.*
+4. *kolm kümnendikku*
+5. *reede õhtul*
 
 </details>

@@ -15,52 +15,52 @@ In this lesson, `'` before a word marks third-degree (overlong) pronunciation.
 
 | Strong | Weak | Noun | Verb |
 |---|---|---|---|
-| kk | k | tükk, tüki, tükki | |
-| pp | p | sepp, sepa, seppa | hüppama, hüpata |
-| tt | t | rätt, räti, rätti | |
-| ss | s | kirss, kirsi, kirssi | |
-| k | g | park, pargi, parki | lõikama, lõigata |
-| p | b | kaup, kauba, kaupa | taipama, taibata |
-| t | d | paat, paadi, paati | ootama, oodata |
+| kk | k | *tükk, tüki, tükki* |  |
+| pp | p | *sepp, sepa, seppa* | *hüppama, hüpata* |
+| tt | t | *rätt, räti, rätti* |  |
+| ss | s | *kirss, kirsi, kirssi* |  |
+| k | g | *park, pargi, parki* | *lõikama, lõigata* |
+| p | b | *kaup, kauba, kaupa* | *taipama, taibata* |
+| t | d | *paat, paadi, paati* | *ootama, oodata* |
 
 Some length changes do not show in spelling. The same letters represent different degrees:
 
 | Type | Weak (genitive) | Strong (partitive) |
 |---|---|---|
-| Long vowel | maali | 'maali |
-| Diphthong | laeva | 'laeva |
-| Long consonant | kanna | 'kanna |
-| Consonant cluster | sõrme | 'sõrme |
+| Long vowel | *maali* | *'maali* |
+| Diphthong | *laeva* | *'laeva* |
+| Long consonant | *kanna* | *'kanna* |
+| Consonant cluster | *sõrme* | *'sõrme* |
 
 ## Quality changes and lost consonants (§ 371–373)
 
 | Change | Examples |
 |---|---|
-| b → v | kurb, kurva; halb, halva |
-| d → j | pada, paja; rada, raja |
-| g → j | märg, märja |
-| mb → mm | kumb, kumma; tõmbama, tõmmata |
-| d disappears | raud, raua |
-| ld → ll | kuld, kulla |
-| nd → nn | rand, ranna |
-| rd → rr | kord, korra |
-| g disappears | nägu, näo |
-| lg → l | jalg, jala |
-| rg → r | turg, turu |
-| s or t disappears | uus, uue |
-| rs → rr | vars, varre |
-| ks → h | kaks, kahe |
-| sk → s | kuusk, kuuse |
-| hk → h | õhk, õhu |
-| ht → h | koht, koha |
+| b → v | *kurb, kurva; halb, halva* |
+| d → j | *pada, paja; rada, raja* |
+| g → j | *märg, märja* |
+| mb → mm | *kumb, kumma; tõmbama, tõmmata* |
+| d disappears | *raud, raua* |
+| ld → ll | *kuld, kulla* |
+| nd → nn | *rand, ranna* |
+| rd → rr | *kord, korra* |
+| g disappears | *nägu, näo* |
+| lg → l | *jalg, jala* |
+| rg → r | *turg, turu* |
+| s or t disappears | *uus, uue* |
+| rs → rr | *vars, varre* |
+| ks → h | *kaks, kahe* |
+| sk → s | *kuusk, kuuse* |
+| hk → h | *õhk, õhu* |
+| ht → h | *koht, koha* |
 
 After a lost consonant, the vowel may change too:
 
 | Change | Examples |
 |---|---|
-| i → e | siga, sea; pidu, peo |
-| u → o | nuga, noa; sugu, soo; kudama, koon |
-| ü → ö | süsi, söe |
+| i → e | *siga, sea; pidu, peo* |
+| u → o | *nuga, noa; sugu, soo; kudama, koon* |
+| ü → ö | *süsi, söe* |
 
 *Aeg* has a special pattern: *aeg, aja, aega*.
 
@@ -76,9 +76,9 @@ After a lost consonant, the vowel may change too:
 
 | Nom. sg. | Gen. sg. | Part. sg. | Gen. pl. | Part. pl. |
 |---|---|---|---|---|
-| rand | ranna | randa | randade | randu |
-| kuusk | kuuse | kuuske | kuuskede | kuuski |
-| rikas | rikka | rikast | rikaste | rikkaid |
+| *rand* | *ranna* | *randa* | *randade* | *randu* |
+| *kuusk* | *kuuse* | *kuuske* | *kuuskede* | *kuuski* |
+| *rikas* | *rikka* | *rikast* | *rikaste* | *rikkaid* |
 
 A few words have a weak nominative and a strong partitive, such as *sõber, sõbra, sõpra*.
 
@@ -92,10 +92,10 @@ The present tense and the *-da* infinitive have opposite grades. The *-ma* infin
 
 | Family | *ootama* | *õppima* |
 |---|---|---|
-| Present: strong for *ootama*, weak for *õppima* | ootan, ei oota, ootaksin, oota! | õpin, ei õpi, õpiksin, õpi! |
-| *-da*: weak for *ootama*, strong for *õppima* | oodata, oodates, oodanud, oodake | õppida, õppides, õppinud, õppige |
-| *-ma*: strong | ootama, ootasin, ootav, ootaja, ootamine | õppima, õppisin, õppiv, õppija, õppimine |
-| *-tud*: weak | oodatud, oodatakse, oodati, oodatagu | õpitud, õpitakse, õpiti, õpitagu |
+| Present: strong for *ootama*, weak for *õppima* | *ootan, ei oota, ootaksin, oota!* | *õpin, ei õpi, õpiksin, õpi!* |
+| *-da*: weak for *ootama*, strong for *õppima* | *oodata, oodates, oodanud, oodake* | *õppida, õppides, õppinud, õppige* |
+| *-ma*: strong | *ootama, ootasin, ootav, ootaja, ootamine* | *õppima, õppisin, õppiv, õppija, õppimine* |
+| *-tud*: weak | *oodatud, oodatakse, oodati, oodatagu* | *õpitud, õpitakse, õpiti, õpitagu* |
 
 Verbs with *d, k, l, n, r* or *s* just before *-ma* reverse the *-tud* pattern. The participle is strong and the present is weak: *kuulma, kuuldud, kuulen*; *andma, antud, annan*; *naerma, naerdud, naeran*.
 
@@ -105,9 +105,9 @@ This older plural is mainly found in writing and fixed expressions. You must kno
 
 | Partitive plural | Formation | Examples |
 |---|---|---|
-| ends in *-id* | drop *-d*, add case ending | tähtsaid → tähtsais; mantleid → mantleisse |
-| ends in a vowel | add case ending, with weak grade | jalgu → jalul; kõrvu → kõrvus |
-| ends in *-si* | add case ending, same form | käsi → käsil; inimesi → inimesil |
+| ends in *-id* | drop *-d*, add case ending | *tähtsaid → tähtsais; mantleid → mantleisse* |
+| *ends in a vowel* | add case ending, with weak grade | *jalgu → jalul; kõrvu → kõrvus* |
+| ends in *-si* | add case ending, same form | *käsi → käsil; inimesi → inimesil* |
 
 Limits:
 
@@ -117,14 +117,14 @@ Limits:
 
 | Case | *nädal*, *-i* plural | *nädal*, *-de/-te* plural | *mets*, *-i* plural | *mets*, *-de/-te* plural |
 |---|---|---|---|---|
-| Part. | nädalaid | nädalaid | metsi | metsi |
-| Ill. | nädalaisse | nädalatesse | metsisse | metsadesse |
-| Iness. | nädalais | nädalates | metsis | metsades |
-| Elat. | nädalaist | nädalatest | metsist | metsadest |
-| All. | nädalaile | nädalatele | metsile | metsadele |
-| Adess. | nädalail | nädalatel | metsil | metsadel |
-| Abl. | nädalailt | nädalatelt | metsilt | metsadelt |
-| Transl. | nädalaiks | nädalateks | metsiks | metsadeks |
+| Part. | *nädalaid* | *nädalaid* | *metsi* | *metsi* |
+| Ill. | *nädalaisse* | *nädalatesse* | *metsisse* | *metsadesse* |
+| Iness. | *nädalais* | *nädalates* | *metsis* | *metsades* |
+| Elat. | *nädalaist* | *nädalatest* | *metsist* | *metsadest* |
+| All. | *nädalaile* | *nädalatele* | *metsile* | *metsadele* |
+| Adess. | *nädalail* | *nädalatel* | *metsil* | *metsadel* |
+| Abl. | *nädalailt* | *nädalatelt* | *metsilt* | *metsadelt* |
+| Transl. | *nädalaiks* | *nädalateks* | *metsiks* | *metsadeks* |
 
 In use: *tähtsais küsimusis* = *tähtsates küsimustes* "in important questions"; *suuril teil* = *suurtel teedel* "on big roads".
 
@@ -132,12 +132,12 @@ In use: *tähtsais küsimusis* = *tähtsates küsimustes* "in important question
 
 | Estonian | English |
 |---|---|
-| Kuidas käsi käib? | How are things? |
-| Pea püsti! | Chin up! |
-| Silmad lahti! | Keep your eyes open! |
-| Käed külge! | Let's get to work! |
-| Jõudu! | Good luck! |
-| Aega on. | There's time. |
+| *Kuidas käsi käib?* | How are things? |
+| *Pea püsti!* | Chin up! |
+| *Silmad lahti!* | Keep your eyes open! |
+| *Käed külge!* | Let's get to work! |
+| *Jõudu!* | Good luck! |
+| *Aega on.* | There's time. |
 
 ## Exercises
 
@@ -145,31 +145,31 @@ In use: *tähtsais küsimusis* = *tähtsates küsimustes* "in important question
 
 1. pank
 2. rand
-3. õhk
-4. nägu
-5. siga
-6. kaks
-7. kurb
-8. kuld
+3. *õhk*
+4. *nägu*
+5. *siga*
+6. *kaks*
+7. *kurb*
+8. *kuld*
 
 **B. Give the "I" form of the present tense.**
 
-1. lõigata
-2. taibata
-3. oodata
-4. õppida
-5. tõmmata
-6. kududa
+1. *lõigata*
+2. *taibata*
+3. *oodata*
+4. *õppida*
+5. *tõmmata*
+6. *kududa*
 
 **C. Give the *-i* plural form, or write "none".**
 
-1. metsadest
-2. nädalatel
-3. silmadele
-4. võõrastes
-5. küsimustest
-6. emadel
-7. nädalatega
+1. *metsadest*
+2. *nädalatel*
+3. *silmadele*
+4. *võõrastes*
+5. *küsimustest*
+6. *emadel*
+7. *nädalatega*
 
 <details>
 <summary>Show answers</summary>

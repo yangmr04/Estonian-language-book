@@ -14,11 +14,11 @@ Dictionaries and word lists give the *-ma* form, the *-da* form and the "I" form
 
 | *-ma* | *-da* | Present | English |
 |---|---|---|---|
-| magama | magada | magan | to sleep |
-| kandma | kanda | kannan | to carry |
-| hüppama | hüpata | hüppan | to jump |
-| kuulma | kuulda | kuulen | to hear |
-| jooma | juua | joon | to drink |
+| *magama* | *magada* | *magan* | to sleep |
+| *kandma* | *kanda* | *kannan* | to carry |
+| *hüppama* | *hüpata* | *hüppan* | to jump |
+| *kuulma* | *kuulda* | *kuulen* | to hear |
+| *jooma* | *juua* | *joon* | to drink |
 
 The present stem cannot be reliably worked out from the infinitive, so memorize the set. *Minema* "to go" is the extreme case: its present is *lähen*.
 
@@ -28,11 +28,11 @@ The *-ma* stem feeds the past tense (Lesson 23). The *-da* stem feeds the *-nud*
 
 | Comes after | Common words | Example |
 |---|---|---|
-| Motion or going to do something | minema, tulema, jooksma, istuma, panema | *Me läheme ujuma.* "We're going swimming." |
-| | | *Pane vesi keema!* "Put the water on to boil!" |
-| Certain other verbs | hakkama, pidama, jääma, õppima, õpetama, kutsuma, sundima | *Pean vara tõusma.* "I have to get up early." |
-| | | *Ta õpetab mind ujuma.* "She is teaching me to swim." |
-| Certain adjectives and participles | valmis, nõus, harjunud, sunnitud, osav | *Olen valmis ootama.* "I am ready to wait." |
+| Motion or going to do something | *minema, tulema, jooksma, istuma, panema* | *Me läheme ujuma.* "We're going swimming." |
+|  |  | *Pane vesi keema!* "Put the water on to boil!" |
+| Certain other verbs | *hakkama, pidama, jääma, õppima, õpetama, kutsuma, sundima* | *Pean vara tõusma.* "I have to get up early." |
+|  |  | *Ta õpetab mind ujuma.* "She is teaching me to swim." |
+| Certain adjectives and participles | *valmis, nõus, harjunud, sunnitud, osav* | *Olen valmis ootama.* "I am ready to wait." |
 
 ## The shape of the -da form (§ 136–137, 142)
 
@@ -40,9 +40,9 @@ The ending has three variants.
 
 | Variant | Examples |
 |---|---|
-| *-da* | ujuda, kirjutada, kuulda |
-| *-ta* | pesta, hüpata, vaadata |
-| *-a* | juua, käia, kanda |
+| *-da* | *ujuda, kirjutada, kuulda* |
+| *-ta* | *pesta, hüpata, vaadata* |
+| *-a* | *juua, käia, kanda* |
 
 If the stem already ends in *d* or *t*, only *-a* is added: *leid-a*, *kand-a*, *mõõt-a*. A short vowel + *t* doubles the *t*: *jätma → jätta*, *petma → petta*.
 
@@ -50,21 +50,21 @@ Sometimes the *-ma* and *-da* forms share a stem (*kirjutama / kirjutada*). Ofte
 
 | Change | Examples |
 |---|---|
-| *oo → uu*, *öö → üü* | jooma → juua, lööma → lüüa |
-| Stem shortens or contracts | nägema → näha, pesema → pesta |
-| Consonant doubles | panema → panna, surema → surra |
-| Consonant weakens | hüppama → hüpata |
+| *oo → uu*, *öö → üü* | *jooma → juua, lööma → lüüa* |
+| Stem shortens or contracts | *nägema → näha, pesema → pesta* |
+| Consonant doubles | *panema → panna, surema → surra* |
+| Consonant weakens | *hüppama → hüpata* |
 
 ## When to use -da (§ 138–141)
 
 | Comes after | Common words | Example |
 |---|---|---|
-| Wish, plan, ability, permission | tahtma, võima, saama, oskama, tohtima, soovima, lootma, katsuma, kavatsema, otsustama, suutma | *Kavatseme suvel reisida.* "We plan to travel in summer." |
-| Feelings | armastama, meeldima, kartma, julgema | *Ma ei julge küsida.* "I don't dare ask." |
-| Impersonal expressions | on aeg, on vaja, on raske, on kasulik, tuleb, saab, tohib, võib | *On aeg magada.* "It's time to sleep." |
-| *et* "in order to" | et | *Õpin keelt, et Eestis töötada.* "I'm learning the language in order to work in Estonia." |
-| As subject, or describing a noun | | *Ujuda on tervislik.* "Swimming is healthy." |
-| | | *Mul on soov puhata.* "I wish to rest." |
+| Wish, plan, ability, permission | *tahtma, võima, saama, oskama, tohtima, soovima, lootma, katsuma, kavatsema, otsustama, suutma* | *Kavatseme suvel reisida.* "We plan to travel in summer." |
+| Feelings | *armastama, meeldima, kartma, julgema* | *Ma ei julge küsida.* "I don't dare ask." |
+| Impersonal expressions | *on aeg, on vaja, on raske, on kasulik, tuleb, saab, tohib, võib* | *On aeg magada.* "It's time to sleep." |
+| *et* "in order to" | *et* | *Õpin keelt, et Eestis töötada.* "I'm learning the language in order to work in Estonia." |
+| As subject, or describing a noun |  | *Ujuda on tervislik.* "Swimming is healthy." |
+|  |  | *Mul on soov puhata.* "I wish to rest." |
 
 Three exceptions to remember:
 
@@ -76,34 +76,34 @@ Three exceptions to remember:
 
 | Estonian | English |
 |---|---|
-| Mul on vaja minna. | I need to go. |
-| Ma ei saa tulla. | I can't come. |
-| Kas ma võin aidata? | May I help? |
-| Mis sa tahad teha? | What do you want to do? |
-| Mulle meeldib reisida. | I like to travel. |
-| Hakkame peale! | Let's get started! |
+| *Mul on vaja minna.* | I need to go. |
+| *Ma ei saa tulla.* | I can't come. |
+| *Kas ma võin aidata?* | May I help? |
+| *Mis sa tahad teha?* | What do you want to do? |
+| *Mulle meeldib reisida.* | I like to travel. |
+| *Hakkame peale!* | Let's get started! |
 
 ## Exercises
 
 **A. Choose the *-ma* or *-da* infinitive.**
 
-1. Ma tahan ___ (ujuma).
-2. Ta peab homme vara ___ (tõusma).
-3. Me läheme poodi leiba ___ (ostma).
-4. Kas sa oskad ___ (laulma)?
-5. Mulle meeldib ___ (joonistama).
-6. Ma olen valmis ___ (ootama).
-7. On aeg ___ (minema).
-8. Nad hakkavad ___ (sööma).
+1. *Ma tahan ___ (ujuma).*
+2. *Ta peab homme vara ___ (tõusma).*
+3. *Me läheme poodi leiba ___ (ostma).*
+4. *Kas sa oskad ___ (laulma)?*
+5. *Mulle meeldib ___ (joonistama).*
+6. *Ma olen valmis ___ (ootama).*
+7. *On aeg ___ (minema).*
+8. *Nad hakkavad ___ (sööma).*
 
 **B. Give the *-da* infinitive and the "I" form.**
 
-1. kandma
-2. jooma
-3. pesema
-4. nägema
-5. panema
-6. hüppama
+1. *kandma*
+2. *jooma*
+3. *pesema*
+4. *nägema*
+5. *panema*
+6. *hüppama*
 
 **C. Translate into Estonian.**
 
@@ -121,9 +121,9 @@ Three exceptions to remember:
 
 **C.**
 
-1. Ma tahan puhata.
-2. Me peame ootama.
-3. Ta õpib ujuma.
-4. Ta töötab, et auto osta.
+1. *Ma tahan puhata.*
+2. *Me peame ootama.*
+3. *Ta õpib ujuma.*
+4. *Ta töötab, et auto osta.*
 
 </details>
