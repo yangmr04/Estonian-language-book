@@ -43,6 +43,8 @@
     if (/^nom(inative|\.|\b)/.test(label)) return "case-nom";
     if (/^gen(itive|\.|\b)/.test(label)) return "case-gen";
     if (/^part(itive|\.|\b)/.test(label)) return "case-par";
+    if (/^(illative|inessive|elative)/.test(label)) return "case-inner";
+    if (/^(allative|adessive|ablative)/.test(label)) return "case-outer";
     return "";
   }
 

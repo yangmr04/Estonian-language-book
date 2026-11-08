@@ -26,6 +26,8 @@
   --nom: #1b5fa8;
   --gen: #0b7350;
   --par: #a62c7b;
+  --inner: #776600;
+  --outer: #5b3fc4;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,6 +43,8 @@
     --nom: #82bcf5;
     --gen: #62d6a9;
     --par: #f08fcd;
+    --inner: #e6d96a;
+    --outer: #b8a6ff;
   }
 }
 
@@ -74,6 +78,9 @@ main td strong { color: var(--estonian); }
 th.case-nom, td.case-nom em, td.case-nom strong, .legend .case-nom { color: var(--nom); }
 th.case-gen, td.case-gen em, td.case-gen strong, .legend .case-gen { color: var(--gen); }
 th.case-par, td.case-par em, td.case-par strong, .legend .case-par { color: var(--par); }
+
+th.case-inner, td.case-inner em, td.case-inner strong, .legend .case-inner { color: var(--inner); }
+th.case-outer, td.case-outer em, td.case-outer strong, .legend .case-outer { color: var(--outer); }
 
 .legend span { font-weight: 600; }
 
