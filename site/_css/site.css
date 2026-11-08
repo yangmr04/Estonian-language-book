@@ -77,7 +77,16 @@ th.case-par, td.case-par em, td.case-par strong, .legend .case-par { color: var(
 
 .legend span { font-weight: 600; }
 
-.font-picker { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
+.font-picker { display: inline-flex; align-items: center; gap: 6px; margin-left: auto; color: var(--muted); }
+
+.reference-links { display: flex; flex-wrap: wrap; gap: 8px; font-family: system-ui, sans-serif; font-size: 15px; letter-spacing: 0; word-spacing: 0; }
+.reference-links a { padding: 5px 11px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; text-decoration: none; }
+.reference-links a:hover { background: var(--stripe); }
+
+.lesson-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 0 24px; font-family: system-ui, sans-serif; font-size: 15px; line-height: 1.35; letter-spacing: 0; word-spacing: 0; }
+.lesson-grid a { display: grid; grid-template-columns: 26px 1fr; padding: 7px 4px; border-bottom: 1px solid var(--line); color: var(--text); text-decoration: none; }
+.lesson-grid a:hover { background: var(--stripe); }
+.lesson-grid small { grid-column: 2; color: var(--muted); font-size: 12px; }
 .font-picker select { padding: 4px 6px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--text); font: inherit; }
 
 a { color: var(--accent); }
@@ -98,9 +107,8 @@ a { color: var(--accent); }
 }
 
 .brand { font-weight: 650; color: var(--text); text-decoration: none; }
-.header-link { text-decoration: none; }
 
-.search { position: relative; flex: 1 1 220px; max-width: 420px; margin-left: auto; }
+.search { position: relative; flex: 1 1 220px; max-width: 420px; }
 
 #search-input {
   width: 100%;
@@ -138,6 +146,7 @@ a { color: var(--accent); }
 .sidebar a { display: block; padding: 5px 8px; border-radius: 5px; color: var(--text); text-decoration: none; }
 .sidebar a:hover { background: var(--stripe); }
 .sidebar a.active { background: var(--stripe); color: var(--accent); font-weight: 650; }
+.side-label { margin: 6px 8px 4px; color: var(--muted); font-size: 12px; font-weight: 650; letter-spacing: .04em; text-transform: uppercase; }
 .side-reference { margin-bottom: 8px !important; padding-bottom: 8px !important; border-bottom: 1px solid var(--line); }
 .side-lessons > li > a { display: grid; grid-template-columns: 26px 1fr; }
 .lesson-number { color: var(--muted); font-variant-numeric: tabular-nums; }

@@ -5,11 +5,33 @@ const ROOT = dirname(@__DIR__)
 const SITE = joinpath(ROOT, "site")
 const LESSONS_SRC = joinpath(ROOT, "notebook", "lessons")
 
-fix_links(s) = replace(s,
+# slug, site path, label, home-page description
+const REFERENCES = [
+    ("alphabet", "reference/alphabet", "Alphabet and pronunciation", "letters, sounds, stress and the three lengths"),
+    ("cases", "reference/cases", "The 14 cases", "names, endings, meanings and full sample nouns"),
+    ("numbers", "numbers", "Numbers", "cardinal and ordinal, with nominative, genitive and partitive forms"),
+    ("verbs", "reference/verbs", "Verb forms", "principal forms, a full conjugation and common irregular verbs"),
+    ("nouns", "reference/nouns", "Noun patterns", "nominative, genitive and partitive by word shape"),
+    ("gradation", "reference/gradation", "Consonant gradation", "strong and weak stems"),
+    ("pronouns", "reference/pronouns", "Pronouns", "personal, demonstrative, question and reflexive pronouns by case"),
+    ("adpositions", "reference/adpositions", "Adpositions and case government", "which case follows which word"),
+    ("time", "reference/time", "Time and dates", "days, months, seasons, clock times and dates"),
+    ("questions", "reference/questions", "Question words", "who, what, where, when and more"),
+    ("terms", "reference/terms", "Grammar terms", "Estonian and English names"),
+]
+
+function reference_links(s)
+    for (slug, output, _, _) in REFERENCES
+        s = replace(s, "]($slug.md)" => "](/$output/)", "](reference/$slug.md)" => "](/$output/)")
+    end
+    return s
+end
+
+fix_links(s) = reference_links(replace(s,
     r"\]\(lessons/(lesson-\d+)\.md\)" => s"](/lessons/\1/)",
     r"\]\((lesson-\d+)\.md\)" => s"](/lessons/\1/)",
     r"\]\(\.\./lessons/(lesson-\d+)\.md\)" => s"](/lessons/\1/)",
-    "](../README.md)" => "](/)")
+    "](../README.md)" => "](/)"))
 
 # Franklin reads a run of underscores as emphasis, so fill-in blanks become entities.
 fix_blanks(s) = replace(s, r"_{2,}" => m -> "&#95;"^length(m))
@@ -110,12 +132,16 @@ function convert_lesson(path, slug, search, owners; output = "lessons/$slug")
     flush_entry!()
     push!(out, "", "~~~<nav class=\"lesson-nav\">~~~", nav, "~~~</nav>~~~", "")
     write(joinpath(SITE, output * ".md"), join(out, "\n"))
-    return (number = number, slug = slug, title = String(title))
+    sections = match(r"§ [\d–-]+", nav)
+    return (number = number, slug = slug, title = String(title), sections = sections === nothing ? "" : sections.match)
 end
 
-function write_home()
-    readme = read(joinpath(ROOT, "notebook", "README.md"), String)
-    table = fix_links(split(readme, "## Lessons")[2])
+function write_home(lessons)
+    reference = join(["<a href=\"/$(r[2])/\">$(r[3])</a>" for r in REFERENCES]) * "<a href=\"/sections/\">Section index</a>"
+    lesson_links = join(map(lessons) do lesson
+        name = replace(lesson.title, r"^Lesson \d+:\s*" => "")
+        "<a href=\"/lessons/$(lesson.slug)/\"><span class=\"lesson-number\">$(lesson.number)</span><span>$name</span><small>$(lesson.sections)</small></a>"
+    end)
     intro = """
     @def title = "Estonian Study Notebook"
 
@@ -131,11 +157,13 @@ function write_home()
 
     ## Reference
 
-    - [Numbers: cardinal and ordinal](/numbers/), with nominative, genitive and partitive forms
+    ~~~<div class="reference-links">$reference</div>~~~
 
     ## Lessons
+
+    ~~~<div class="lesson-grid">$lesson_links</div>~~~
     """
-    write(joinpath(SITE, "index.md"), intro * table)
+    write(joinpath(SITE, "index.md"), intro)
 end
 
 function write_sidebar(lessons)
@@ -145,9 +173,11 @@ function write_sidebar(lessons)
     end
     html = """
     <details id="lessons-panel" class="sidebar" open>
-      <summary>Lessons</summary>
+      <summary>Lessons and reference</summary>
       <nav aria-label="Lessons">
-        <ul class="side-reference"><li><a href="/numbers/">Numbers</a></li><li><a href="/sections/">Section index</a></li></ul>
+        <p class="side-label">Reference</p>
+        <ul class="side-reference">$(join(["<li><a href=\"/$(r[2])/\">$(r[3])</a></li>" for r in REFERENCES]))<li><a href="/sections/">Section index</a></li></ul>
+        <p class="side-label">Lessons</p>
         <ol class="side-lessons">
     $(join(items, "\n"))
         </ol>
@@ -186,8 +216,11 @@ function generate()
     lessons = map(sort(filter(endswith(".md"), readdir(LESSONS_SRC)))) do file
         convert_lesson(joinpath(LESSONS_SRC, file), replace(file, ".md" => ""), search, owners)
     end
-    convert_lesson(joinpath(ROOT, "notebook", "reference", "numbers.md"), "numbers", search, owners; output = "numbers")
-    write_home()
+    mkpath(joinpath(SITE, "reference"))
+    for (slug, output, _, _) in REFERENCES
+        convert_lesson(joinpath(ROOT, "notebook", "reference", slug * ".md"), slug, search, owners; output = output)
+    end
+    write_home(lessons)
     write_sidebar(lessons)
     write_section_index(lessons, owners)
     write_search_index(search)
