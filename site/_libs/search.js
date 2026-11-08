@@ -1,4 +1,36 @@
 (function () {
+  var panel = document.getElementById("lessons-panel");
+  if (panel) {
+    var wide = window.matchMedia("(min-width: 1100px)");
+    var fitPanel = function () { panel.open = wide.matches; };
+    wide.addEventListener("change", fitPanel);
+    fitPanel();
+
+    var currentPath = window.location.pathname.replace(/index\.html$/, "");
+    var active = Array.prototype.find.call(panel.querySelectorAll("a"), function (link) {
+      return link.pathname === currentPath;
+    });
+    if (active) {
+      active.classList.add("active");
+      active.setAttribute("aria-current", "page");
+      var headings = document.querySelectorAll("main h2[id]");
+      if (active.closest(".side-lessons") && headings.length) {
+        var topics = document.createElement("ul");
+        topics.className = "side-topics";
+        headings.forEach(function (heading) {
+          var item = document.createElement("li");
+          var link = document.createElement("a");
+          link.href = "#" + heading.id;
+          link.textContent = heading.textContent;
+          item.appendChild(link);
+          topics.appendChild(item);
+        });
+        active.parentNode.appendChild(topics);
+      }
+      panel.scrollTop = Math.max(0, active.offsetTop - panel.clientHeight / 3);
+    }
+  }
+
   var fontSelect = document.getElementById("font-select");
   fontSelect.value = document.documentElement.dataset.font;
   fontSelect.addEventListener("change", function () {

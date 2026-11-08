@@ -8,6 +8,7 @@ site/lessons/
 site/index.md
 site/sections.md
 site/numbers.md
+site/_layout/sidebar.html
 site/_assets/search-index.json
 
 Manifest.toml

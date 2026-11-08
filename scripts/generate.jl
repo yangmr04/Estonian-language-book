@@ -138,6 +138,25 @@ function write_home()
     write(joinpath(SITE, "index.md"), intro * table)
 end
 
+function write_sidebar(lessons)
+    items = map(lessons) do lesson
+        name = replace(lesson.title, r"^Lesson \d+:\s*" => "")
+        "<li><a href=\"/lessons/$(lesson.slug)/\"><span class=\"lesson-number\">$(lesson.number)</span> $name</a></li>"
+    end
+    html = """
+    <details id="lessons-panel" class="sidebar" open>
+      <summary>Lessons</summary>
+      <nav aria-label="Lessons">
+        <ul class="side-reference"><li><a href="/numbers/">Numbers</a></li><li><a href="/sections/">Section index</a></li></ul>
+        <ol class="side-lessons">
+    $(join(items, "\n"))
+        </ol>
+      </nav>
+    </details>
+    """
+    write(joinpath(SITE, "_layout", "sidebar.html"), html)
+end
+
 function write_section_index(lessons, owners)
     out = ["@def title = \"Section Index\"", "", "# Section Index", "",
         "Every section number, linked to the notes that cover it.", ""]
@@ -169,6 +188,7 @@ function generate()
     end
     convert_lesson(joinpath(ROOT, "notebook", "reference", "numbers.md"), "numbers", search, owners; output = "numbers")
     write_home()
+    write_sidebar(lessons)
     write_section_index(lessons, owners)
     write_search_index(search)
     missing_sections = setdiff(1:408, keys(owners))
