@@ -11,6 +11,10 @@ The lesson order, topics and section references follow the book. The explanation
 - **Stress marks** are omitted unless a lesson is specifically about them.
 - **Page numbers** are the numbers printed in the book. Add 6 to get the PDF page.
 
+## Reference
+
+- [Numbers: cardinal and ordinal](reference/numbers.md), with nominative, genitive and partitive forms
+
 ## Lessons
 
 | Lesson | Topics | Sections | Book page |

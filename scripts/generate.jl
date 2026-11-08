@@ -8,6 +8,7 @@ const LESSONS_SRC = joinpath(ROOT, "notebook", "lessons")
 fix_links(s) = replace(s,
     r"\]\(lessons/(lesson-\d+)\.md\)" => s"](/lessons/\1/)",
     r"\]\((lesson-\d+)\.md\)" => s"](/lessons/\1/)",
+    r"\]\(\.\./lessons/(lesson-\d+)\.md\)" => s"](/lessons/\1/)",
     "](../README.md)" => "](/)")
 
 # Franklin reads a run of underscores as emphasis, so fill-in blanks become entities.
@@ -55,11 +56,12 @@ function json_string(s)
     return String(take!(out))
 end
 
-function convert_lesson(path, slug, search, owners)
+function convert_lesson(path, slug, search, owners; output = "lessons/$slug")
     lines = readlines(path)
     heading = strip(replace(lines[1], r"^#\s*" => ""))
     title = replace(heading, "*" => "")
-    number = parse(Int, match(r"\d+", slug).match)
+    digits = match(r"\d+", slug)
+    number = digits === nothing ? 0 : parse(Int, digits.match)
     nav = fix_links(lines[3])
 
     out = String["@def title = $(repr(String(title)))", "", "# $heading", "", "~~~<nav class=\"lesson-nav\">~~~", nav, "~~~</nav>~~~", ""]
@@ -96,7 +98,7 @@ function convert_lesson(path, slug, search, owners)
             end
             push!(out, "~~~" * join(anchors) * "~~~", "", fix_blanks(line))
             entry = Dict("lesson" => number, "lessonTitle" => String(title),
-                "url" => "/lessons/$slug/#h-$heading_id",
+                "url" => "/$output/#h-$heading_id",
                 "title" => String(clean_heading(line)), "secs" => numbers, "text" => "")
         else
             push!(out, fix_bold_label(fix_blanks(fix_links(line))))
@@ -107,7 +109,7 @@ function convert_lesson(path, slug, search, owners)
     end
     flush_entry!()
     push!(out, "", "~~~<nav class=\"lesson-nav\">~~~", nav, "~~~</nav>~~~", "")
-    write(joinpath(SITE, "lessons", slug * ".md"), join(out, "\n"))
+    write(joinpath(SITE, output * ".md"), join(out, "\n"))
     return (number = number, slug = slug, title = String(title))
 end
 
@@ -123,7 +125,7 @@ function write_home()
 
     The lessons follow the topic order of Juhan Tuldava's *Estonian Textbook: Grammar, Exercises, Conversation* (Indiana University, 1994), and `§` numbers point to the matching sections of that book. The explanations, examples and exercises here are independently written, and this site isn't affiliated with the book or its publisher.
 
-    Use the search box to find a topic, an Estonian word or a section such as `§ 66`, or browse the [section index](/sections/). Exercise answers stay folded until you open them, and they aren't included in search.
+    Use the search box to find a topic, an Estonian word or a section such as `§ 66`, or browse the [section index](/sections/). There is also a reference page of [cardinal and ordinal numbers](/numbers/) with their case forms. Exercise answers stay folded until you open them, and they aren't included in search.
 
     ## Lessons
     """
@@ -159,6 +161,7 @@ function generate()
     lessons = map(sort(filter(endswith(".md"), readdir(LESSONS_SRC)))) do file
         convert_lesson(joinpath(LESSONS_SRC, file), replace(file, ".md" => ""), search, owners)
     end
+    convert_lesson(joinpath(ROOT, "notebook", "reference", "numbers.md"), "numbers", search, owners; output = "numbers")
     write_home()
     write_section_index(lessons, owners)
     write_search_index(search)

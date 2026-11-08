@@ -7,6 +7,7 @@ site/__site/
 site/lessons/
 site/index.md
 site/sections.md
+site/numbers.md
 site/_assets/search-index.json
 
 Manifest.toml
