@@ -57,7 +57,7 @@ Knowing these forms lets you build nearly everything else.
 
 | *-ma* infinitive | *-da* infinitive | Present (ma) | Past (ma) | *-nud* | *-tud* | English |
 |---|---|---|---|---|---|---|
-| *olema* | *olla* | *olen* (ta *on*) | *olin* | *olnud* | *oldud* | be |
+| *olema* | *olla* | *olen* (*ta on*) | *olin* | *olnud* | *oldud* | be |
 | *minema* | *minna* | *lähen* | *läksin* | *läinud* | *mindud* | go |
 | *tulema* | *tulla* | *tulen* | *tulin* | *tulnud* | *tuldud* | come |
 | *nägema* | *näha* | *näen* | *nägin* | *näinud* | *nähtud* | see |

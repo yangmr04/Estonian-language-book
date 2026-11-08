@@ -55,12 +55,12 @@ Like English "come back", these verbs are a pair of words. Only the verb takes e
 
 | Pair | Meaning |
 |---|---|
-| *tagasi tulema* (tulen tagasi) | to come back |
-| *ära minema* (lähen ära) | to go away |
-| *välja minema* (lähen välja) | to go out |
-| *maha istuma* (istun maha) | to sit down |
-| *kaasa tulema* (tulen kaasa) | to come along |
-| *aru saama* (saan aru) | to understand |
+| *tagasi tulema* (*tulen tagasi*) | to come back |
+| *ära minema* (*lähen ära*) | to go away |
+| *välja minema* (*lähen välja*) | to go out |
+| *maha istuma* (*istun maha*) | to sit down |
+| *kaasa tulema* (*tulen kaasa*) | to come along |
+| *aru saama* (*saan aru*) | to understand |
 
 In a sentence the particle usually drifts toward the end, so other words can come between it and the verb: *Ma tulen varsti tagasi.* "I'll be back soon." *Nad lähevad homme ära.* "They are leaving tomorrow."
 
@@ -79,19 +79,19 @@ In a sentence the particle usually drifts toward the end, so other words can com
 
 **A. Give the command and the negative command.**
 
-1. *ootama* (ootan)
-2. *sööma* (söön)
-3. *tantsima* (tantsin)
-4. *minema* (lähen)
-5. *tulema* (tulen)
+1. *ootama* (*ootan*)
+2. *sööma* (*söön*)
+3. *tantsima* (*tantsin*)
+4. *minema* (*lähen*)
+5. *tulema* (*tulen*)
 
 **B. Make these negative.**
 
 1. *Ma söön.*
-2. Nad tantsivad.
+2. *Nad tantsivad.*
 3. *Me ootame.*
-4. Sa magad.
-5. Ta on kodus. (give two ways)
+4. *Sa magad.*
+5. *Ta on kodus.* (give two ways)
 
 **C. Translate into Estonian.**
 
@@ -103,9 +103,9 @@ In a sentence the particle usually drifts toward the end, so other words can com
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. Oota! Ära oota! · 2. Söö! Ära söö! · 3. Tantsi! Ära tantsi! · 4. Mine! Ära mine! · 5. Tule! Ära tule!
+**A.** 1. *Oota! Ära oota!* · 2. *Söö! Ära söö!* · 3. *Tantsi! Ära tantsi!* · 4. *Mine! Ära mine!* · 5. *Tule! Ära tule!*
 
-**B.** 1. Ma ei söö. · 2. Nad ei tantsi. · 3. Me ei oota. · 4. Sa ei maga. · 5. Ta ei ole kodus. / Ta pole kodus.
+**B.** 1. *Ma ei söö.* · 2. *Nad ei tantsi.* · 3. *Me ei oota.* · 4. *Sa ei maga.* · 5. *Ta ei ole kodus. / Ta pole kodus.*
 
 **C.**
 

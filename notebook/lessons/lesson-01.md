@@ -75,7 +75,7 @@ There is no separate future tense. Use the present, and add a time word when nee
 **A. Add the correct ending to the stem.**
 
 1. *ma oota___*
-2. nad ela___
+2. *nad ela___*
 3. *te oota___*
 4. *ta ela___*
 5. *sa oota___*
@@ -83,7 +83,7 @@ There is no separate future tense. Use the present, and add a time word when nee
 **B. Give the correct form of *olema*.**
 
 1. *Me ___ kodus.*
-2. Nad ___ kodus.
+2. *Nad ___ kodus.*
 3. *Sa ___ õpetaja.*
 
 **C. Translate into Estonian.**
@@ -95,9 +95,9 @@ There is no separate future tense. Use the present, and add a time word when nee
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. ootan · 2. elavad · 3. ootate · 4. elab · 5. ootad
+**A.** 1. *ootan* · 2. *elavad* · 3. *ootate* · 4. *elab* · 5. *ootad*
 
-**B.** 1. oleme · 2. on · 3. oled
+**B.** 1. *oleme* · 2. *on* · 3. *oled*
 
 **C.**
 

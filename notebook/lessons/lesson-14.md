@@ -27,7 +27,7 @@
 
 A shorter illative exists for words with a long genitive in *-se*, where that syllable can drop (§ 76):
 
-| Nominative | Genitive | Full illative | Shortened |
+| Nominative | Genitive | Full illative | Shortened illative |
 |---|---|---|---|
 | *inimene* | *inimese* | *inimesesse* | *inimesse* |
 | *hobune* | *hobuse* | *hobusesse* | *hobusse* |
@@ -86,18 +86,18 @@ The adjective repeats the case ending of the noun.
 
 **A. Give the illative, inessive and elative (long forms).**
 
-1. *kool (gen. kooli)*
-2. aed (gen. aia)
-3. *Tartu (gen. Tartu)*
+1. *kool* (gen. *kooli*)
+2. *aed* (gen. *aia*)
+3. *Tartu* (gen. *Tartu*)
 
 **B. Put the word in brackets into the correct case.**
 
 1. *Ma lähen ___ (kohvik).*
 2. *Raamat on ___ (kott).*
-3. Laps tuleb ___ (aed).
+3. *Laps tuleb ___ (aed).*
 4. *Me elame ___ (Tallinn).*
-5. *Õpetaja räägib ___ (film, gen. filmi).*
-6. *Kruus on ___ (klaas, gen. klaasi).*
+5. *Õpetaja räägib ___* (*film*, gen. *filmi*).
+6. *Kruus on ___* (*klaas*, gen. *klaasi*).
 
 **C. Translate into Estonian.**
 
@@ -115,7 +115,7 @@ The adjective repeats the case ending of the noun.
 2. *aiasse · aias · aiast*
 3. *Tartusse · Tartus · Tartust*
 
-**B.** 1. kohvikusse · 2. kotis · 3. aiast · 4. Tallinnas · 5. filmist · 6. klaasist
+**B.** 1. *kohvikusse* · 2. *kotis* · 3. *aiast* · 4. *Tallinnas* · 5. *filmist* · 6. *klaasist*
 
 **C.**
 

@@ -164,16 +164,16 @@ Two other forms complete the set: the passive infinitive *kutsutama* and the par
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. kirjutatakse · 2. ostetakse · 3. saadakse · 4. pannakse · 5. juuakse · 6. tehakse
+**A.** 1. *kirjutatakse* · 2. *ostetakse* · 3. *saadakse* · 4. *pannakse* · 5. *juuakse* · 6. *tehakse*
 
-**B.** 1. ei õpita, õpiti · 2. ei tooda, toodi · 3. ei minda, mindi · 4. ei anta, anti
+**B.** 1. *ei õpita, õpiti* · 2. *ei tooda, toodi* · 3. *ei minda, mindi* · 4. *ei anta, anti*
 
 **C.**
 
 1. *Siin müüakse leiba.*
 2. *Aken avati.*
-3. Ust ei ole suletud.
-4. pestud auto
+3. *Ust ei ole suletud.*
+4. *pestud auto*
 5. *Öeldakse, et homme sajab.*
 
 </details>

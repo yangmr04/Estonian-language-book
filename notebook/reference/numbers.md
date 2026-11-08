@@ -152,8 +152,8 @@ Earlier parts stay in the genitive, and only the last part is an ordinal that ch
 
 | Number word | Case of the number | Case of the noun | Example |
 |---|---|---|---|
-| *üks* | nominative | nominative singular | üks raamat "one book" |
-| Above one | nominative | **partitive singular** | kolm raamatut "three books" |
-| Any cardinal | genitive | genitive singular | kolme raamatu "of three books" |
-| Any cardinal | partitive | partitive singular | Ma loen kolme raamatut. "I am reading three books." |
+| *üks* | nominative | nominative singular | *üks raamat* "one book" |
+| Above one | nominative | **partitive singular** | *kolm raamatut* "three books" |
+| Any cardinal | genitive | genitive singular | *kolme raamatu* "of three books" |
+| Any cardinal | partitive | partitive singular | *Ma loen kolme raamatut.* "I am reading three books." |
 | Any ordinal | agrees with the noun | same case as the number | *kolmas maja, kolmanda maja, kolmandat maja* |

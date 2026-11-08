@@ -75,8 +75,8 @@ Some verb + noun phrases keep the partitive even when the action is complete.
 
 | Pronoun | Total, command | Total, statement | Partial |
 |---|---|---|---|
-| tema / ta | tema / ta | tema / ta (genitive) | teda |
-| nemad / nad | nemad / nad | nemad / nad | neid |
+| *tema / ta* | *tema / ta* | *tema / ta* (genitive) | *teda* |
+| *nemad / nad* | *nemad / nad* | *nemad / nad* | *neid* |
 
 *Kutsu ta sisse!* "Invite him in!" *Ma ei kutsunud teda.* "I didn't invite him."
 
@@ -106,12 +106,12 @@ In statements, *mina* and *sina* can also be genitive (*minu/mu*, *sinu/su*). *M
 5. *Ta otsib ___ (võti).*
 6. *Ta leidis ___ (võti).*
 7. *Ma lugesin ___ (artikkel) läbi.*
-8. Me ootame ___ (buss).
+8. *Me ootame ___ (buss).*
 
 **B. Use the pronoun as an object.**
 
 1. *Kutsu ___ (tema) sisse!*
-2. Ma ei näinud ___ (tema).
+2. *Ma ei näinud ___ (tema).*
 3. *Ta kutsus ___ (meie) külla.*
 4. *Ma kutsusin ___ (nemad) külla.*
 5. *Ära sega ___ (mina)!*
@@ -127,9 +127,9 @@ In statements, *mina* and *sina* can also be genitive (*minu/mu*, *sinu/su*). *M
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. pileti · 2. piletit · 3. ajaleht · 4. ajalehte · 5. võtit · 6. võtme · 7. artikli · 8. bussi
+**A.** 1. *pileti* · 2. *piletit* · 3. *ajaleht* · 4. *ajalehte* · 5. *võtit* · 6. *võtme* · 7. *artikli* · 8. *bussi*
 
-**B.** 1. ta / tema · 2. teda · 3. meid · 4. nad / nemad · 5. mind
+**B.** 1. *ta / tema* · 2. *teda* · 3. *meid* · 4. *nad / nemad* · 5. *mind*
 
 **C.**
 

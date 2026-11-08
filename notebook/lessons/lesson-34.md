@@ -60,8 +60,8 @@ For the negative, put *ärgu* before the verb: *Ärgu ta helistagu!* "He'd bette
 |---|---|---|
 | *sina* | *võta!* | *ära võta!* |
 | *tema* | *võtku! / las võtab!* | *ärgu võtku!* |
-| meie (formal) | *võtkem!* | *ärgem võtkem!* |
-| meie (everyday) | *võtame!* | *ärme võtame!* |
+| *meie* (formal) | *võtkem!* | *ärgem võtkem!* |
+| *meie* (everyday) | *võtame!* | *ärme võtame!* |
 | *teie* | *võtke!* | *ärge võtke!* |
 | *nemad* | *võtku! / las võtavad!* | *ärgu võtku!* |
 
@@ -120,14 +120,14 @@ For the negative, put *ärgu* before the verb: *Ärgu ta helistagu!* "He'd bette
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. ostke · 2. kuulake · 3. lugege · 4. minge · 5. hoidke · 6. jooge · 7. peske · 8. võtke
+**A.** 1. *ostke* · 2. *kuulake* · 3. *lugege* · 4. *minge* · 5. *hoidke* · 6. *jooge* · 7. *peske* · 8. *võtke*
 
-**B.** 1. Ärge tulge! · 2. Ärgem laulgem! · 3. Ärgu tehku! · 4. Ärme ostame! · 5. Ära oota!
+**B.** 1. *Ärge tulge!* · 2. *Ärgem laulgem!* · 3. *Ärgu tehku!* · 4. *Ärme ostame!* · 5. *Ära oota!*
 
 **C.**
 
 1. *Lähme koju!*
-2. *Las ta ootab. (or: Oodaku!)*
+2. *Las ta ootab.* (or: *Oodaku!*)
 3. *Rääkige palun aeglaselt.*
 4. *Ärge sulgege akent!*
 5. *Ärme vaidleme!*

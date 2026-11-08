@@ -113,12 +113,12 @@ The genitive singular is the base for all singular cases except the nominative a
 1. allative
 2. comitative
 3. terminative
-4. *essive*
+4. essive
 5. translative
 
 **C. Translate into Estonian.**
 
-1. *From Tallinn to Tartu.*
+1. From Tallinn to Tartu.
 2. I study from morning until noon.
 3. Until the end of this week.
 4. She became famous as a young singer.
@@ -126,9 +126,9 @@ The genitive singular is the base for all singular cases except the nominative a
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. reedeni · 2. autojuhina · 3. Narvani · 4. Noorena · 5. õhtuni
+**A.** 1. *reedeni* · 2. *autojuhina* · 3. *Narvani* · 4. *Noorena* · 5. *õhtuni*
 
-**B.** 1. sõbrale · 2. sõbraga · 3. sõbrani · 4. sõbrana · 5. sõbraks
+**B.** 1. *sõbrale* · 2. *sõbraga* · 3. *sõbrani* · 4. *sõbrana* · 5. *sõbraks*
 
 **C.**
 

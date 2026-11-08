@@ -13,7 +13,7 @@
 
 **Ending in *-de* or *-te***
 
-| Nominative | Genitive | Long | Short | English |
+| Nominative | Genitive | Long illative | Short illative | English |
 |---|---|---|---|---|
 | *noor* | *noore* | *nooresse* | *noorde* | young |
 | *tuul* | *tuule* | *tuulesse* | *tuulde* | wind |
@@ -24,7 +24,7 @@
 
 **Ending in a vowel.** The middle of the word is pronounced extra long, and the spelling often shows a strong consonant or a double one.
 
-| Nominative | Genitive | Long | Short | English |
+| Nominative | Genitive | Long illative | Short illative | English |
 |---|---|---|---|---|
 | *park* | *pargi* | *pargisse* | *parki* | park |
 | *mets* | *metsa* | *metsasse* | *metsa* | forest |
@@ -49,31 +49,32 @@ Where a short form exists, it is often the everyday choice: *Ma lähen koju.* An
 
 ## Place names (§ 89)
 
-| Pattern | Examples |
+| Pattern | Illative examples |
 |---|---|
 | Usually short | *Soome, Rootsi, Taani, Lätti, Leetu, Pariisi, Berliini, Riiga* |
 | Either form | *Tallinna(sse), Tartu(sse), Helsingi(sse), Londoni(sse)* |
 | Long only | *Norrasse, Itaaliasse, Hispaaniasse, Poolasse, Ameerikasse, Kanadasse* |
-| Names in *-maa*: allative *-le* | *Inglismaale, Prantsusmaale, Saksamaale, Iirimaale* |
+
+Names in *-maa* use the allative *-le* instead: *Inglismaale, Prantsusmaale, Saksamaale, Iirimaale*.
 
 ## Wearing and placing (§ 90)
 
 The body part goes in the illative for putting on, the inessive for wearing, and the elative for taking off.
 
-| Item | Put on | Have on | Take off |
+| Item | Put on (illative) | Have on (inessive) | Take off (elative) |
 |---|---|---|---|
-| kübar "hat" | *pähe* | *peas* | *peast* |
-| kampsun "sweater" | *selga* | *seljas* | *seljast* |
-| lips "necktie" | *kaela* | *kaelas* | *kaelast* |
-| kõrvarõngas "earring" | *kõrva* | *kõrvas* | *kõrvast* |
-| kindad "gloves" | *kätte* | *käes* | *käest* |
-| sokid "socks" | *jalga* | *jalas* | *jalast* |
+| *kübar* "hat" | *pähe* | *peas* | *peast* |
+| *kampsun* "sweater" | *selga* | *seljas* | *seljast* |
+| *lips* "necktie" | *kaela* | *kaelas* | *kaelast* |
+| *kõrvarõngas* "earring" | *kõrva* | *kõrvas* | *kõrvast* |
+| *kindad* "gloves" | *kätte* | *käes* | *käest* |
+| *sokid* "socks" | *jalga* | *jalas* | *jalast* |
 
 *Pane kampsun selga!* "Put your sweater on!" · *Kübar on peas.* "The hat is on." · *Võta lips kaelast!* "Take off your tie!"
 
 The same three-way pattern appears with a few other places:
 
-| Where | Into | In | Out of |
+| Where | Into (illative) | In (inessive) | Out of (elative) |
 |---|---|---|---|
 | at the table | *Palun lauda!* | *Pere on lauas.* | *Ta tõuseb lauast.* |
 | the ground | *istu maha* | *Võti on maas.* | *Tõsta kott maast!* |
@@ -109,9 +110,9 @@ The endings go on the genitive form. The plural is shortened before the ending.
 
 **A. Give the short illative.**
 
-1. park
-2. kapp
-3. aed
+1. *park*
+2. *kapp*
+3. *aed*
 4. *kodu*
 5. *mägi*
 6. *tuul*
@@ -120,7 +121,7 @@ The endings go on the genitive form. The plural is shortened before the ending.
 **B. Put the word in brackets into the correct case.**
 
 1. *Pane sokid ___ (jalg).*
-2. Kübar on ___ (pea).
+2. *Kübar on ___ (pea).*
 3. *Võta lips ___ (kael).*
 4. *Pane kampsun ___ (selg).*
 5. *Kindad on ___ (käsi).*
@@ -136,9 +137,9 @@ The endings go on the genitive form. The plural is shortened before the ending.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. parki · 2. kappi · 3. aeda · 4. koju · 5. mäkke · 6. tuulde · 7. lumme
+**A.** 1. *parki* · 2. *kappi* · 3. *aeda* · 4. *koju* · 5. *mäkke* · 6. *tuulde* · 7. *lumme*
 
-**B.** 1. jalga · 2. peas · 3. kaelast · 4. selga · 5. käes
+**B.** 1. *jalga* · 2. *peas* · 3. *kaelast* · 4. *selga* · 5. *käes*
 
 **C.**
 
@@ -146,6 +147,6 @@ The endings go on the genitive form. The plural is shortened before the ending.
 2. *Me sõidame Itaaliasse.*
 3. *Ma lähen koju.*
 4. *Nad räägivad meist.*
-5. Kas sa saad minust aru?
+5. *Kas sa saad minust aru?*
 
 </details>

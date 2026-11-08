@@ -25,11 +25,11 @@ Add *-teist* to the numbers 1–9. It works like English "-teen", but it also co
 
 | Pattern | Examples |
 |---|---|
-| number + *kümmend* | 20 kakskümmend · 40 nelikümmend · 60 kuuskümmend · 90 üheksakümmend |
-| tens, then units as a separate word | 34 kolmkümmend neli · 46 nelikümmend kuus · 65 kuuskümmend viis |
-| number + *sada* | 100 sada · 200 kakssada · 600 kuussada · 800 kaheksasada |
-| *tuhat*, written apart | 1 000 (üks) tuhat · 2 000 kaks tuhat · 40 000 nelikümmend tuhat |
-| *miljon*, *miljard* | 1 000 000 (üks) miljon · 3 000 000 kolm miljonit · 2 000 000 000 kaks miljardit |
+| number + *kümmend* | 20 *kakskümmend* · 40 *nelikümmend* · 60 *kuuskümmend* · 90 *üheksakümmend* |
+| tens, then units as a separate word | 34 *kolmkümmend neli* · 46 *nelikümmend kuus* · 65 *kuuskümmend viis* |
+| number + *sada* | 100 *sada* · 200 *kakssada* · 600 *kuussada* · 800 *kaheksasada* |
+| *tuhat*, written apart | 1 000 *(üks) tuhat* · 2 000 *kaks tuhat* · 40 000 *nelikümmend tuhat* |
+| *miljon*, *miljard* | 1 000 000 *(üks) miljon* · 3 000 000 *kolm miljonit* · 2 000 000 000 *kaks miljardit* |
 
 After a number above one, *miljon* and *miljard* add *-it*, while *tuhat* does not change.
 
@@ -47,10 +47,10 @@ Spelling in practice (§ 65):
 
 | Before the noun | Case of the noun | Example |
 |---|---|---|
-| *üks* | nominative singular | üks päev "one day" |
-| 2 and higher | partitive singular | kaks päeva "two days" |
-| a compound ending in 1 | partitive singular | kakskümmend üks päeva "21 days" |
-| *pool* "half" | partitive singular | pool kilot "half a kilo" |
+| *üks* | nominative singular | *üks päev* "one day" |
+| 2 and higher | partitive singular | *kaks päeva* "two days" |
+| a compound ending in 1 | partitive singular | *kakskümmend üks päeva* "21 days" |
+| *pool* "half" | partitive singular | *pool kilot* "half a kilo" |
 | *veerand* "quarter" | partitive singular | *veerand kilot* |
 | *kolmveerand* "three quarters" | partitive singular | *kolmveerand kilot* |
 | *poolteist* "one and a half" | partitive singular | *poolteist kilot* |
@@ -102,8 +102,8 @@ The partitive is taught fully in Lesson 27. For now, learn it with each noun:
 2. *viis ___ (päev)*
 3. *kaks ___ (euro)*
 4. *üks ___ (raamat)*
-5. paar ___ (raamat)
-6. mitu ___ (euro)
+5. *paar ___ (raamat)*
+6. *mitu ___ (euro)*
 
 **C. Translate into Estonian.**
 
@@ -126,14 +126,14 @@ The partitive is taught fully in Lesson 27. For now, learn it with each noun:
 5. *tuhat kakssada viis*
 6. *kaks tuhat kuussada*
 
-**B.** 1. päev · 2. päeva · 3. eurot · 4. raamat · 5. raamatut · 6. eurot
+**B.** 1. *päev* · 2. *päeva* · 3. *eurot* · 4. *raamat* · 5. *raamatut* · 6. *eurot*
 
 **C.**
 
 1. *kolmkümmend viis õpilast*
 2. *üks nädal*
-3. Mitu päeva?
-4. pool kilot
+3. *Mitu päeva?*
+4. *pool kilot*
 5. *kaksteist koera*
 6. *Kohv maksab kolm eurot.*
 

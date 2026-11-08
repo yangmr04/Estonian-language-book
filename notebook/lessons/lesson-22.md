@@ -15,8 +15,8 @@ Work link by link. Each verb decides only the form of the next one.
 
 | Sentence | Links | English |
 |---|---|---|
-| *Tahan õppida ujuma.* | tahan → *-da*, õppida → *-ma* | I want to learn to swim. |
-| *Me peame proovima aidata.* | peame → *-ma*, proovima → *-da* | We must try to help. |
+| *Tahan õppida ujuma.* | *tahan* → *-da*, *õppida* → *-ma* | I want to learn to swim. |
+| *Me peame proovima aidata.* | *peame* → *-ma*, *proovima* → *-da* | We must try to help. |
 
 Word order can shift without changing these links: *Me peame aidata proovima.*
 
@@ -105,9 +105,9 @@ The gerund comes from an old inessive of the *-da* infinitive. No other case of 
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. mängimas · 2. ujumast · 3. magama · 4. maksmata · 5. tegemata · 6. leidmaks
+**A.** 1. *mängimas* · 2. *ujumast* · 3. *magama* · 4. *maksmata* · 5. *tegemata* · 6. *leidmaks*
 
-**B.** 1. kuulates · 2. naerdes · 3. vaadates · 4. minnes · 5. ujudes
+**B.** 1. *kuulates* · 2. *naerdes* · 3. *vaadates* · 4. *minnes* · 5. *ujudes*
 
 **C.**
 

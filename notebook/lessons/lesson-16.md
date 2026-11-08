@@ -88,10 +88,10 @@ As with the inner cases, the adjective repeats the ending:
 
 **B. Give the short pronoun form.**
 
-1. Anna raamat ___ (mina, to).
-2. Küsi ___ (tema, from).
-3. Ma helistan ___ (sina, to).
-4. Kass on ___ (nemad, at/on).
+1. *Anna raamat ___* (*mina*, to).
+2. *Küsi ___* (*tema*, from).
+3. *Ma helistan ___* (*sina*, to).
+4. *Kass on ___* (*nemad*, at/on).
 
 **C. Translate into Estonian.**
 
@@ -103,13 +103,13 @@ As with the inner cases, the adjective repeats the ending:
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. põrandale · 2. riiulil · 3. diivanilt · 4. saarele · 5. Tiidule · 6. õpetajalt
+**A.** 1. *põrandale* · 2. *riiulil* · 3. *diivanilt* · 4. *saarele* · 5. *Tiidule* · 6. *õpetajalt*
 
-**B.** 1. mulle · 2. talt · 3. sulle · 4. neil
+**B.** 1. *mulle* · 2. *talt* · 3. *sulle* · 4. *neil*
 
 **C.**
 
-1. Lapsed on rannal.
+1. *Lapsed on rannal.*
 2. *Istu diivanile!*
 3. *Ma helistan neile.*
 4. *Homme tuleme teile.*

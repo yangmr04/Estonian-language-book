@@ -71,8 +71,8 @@ The same word can act as a postposition with a different meaning:
 
 1. *Me oleme (järv) ääres.*
 2. *Ema on (arst) juures.*
-3. Auto on (maja) taga.
-4. Ta ootab (kino) ees.
+3. *Auto on (maja) taga.*
+4. *Ta ootab (kino) ees.*
 5. *Kass on (voodi) all.*
 
 **B. Translate into Estonian.**
@@ -86,25 +86,25 @@ The same word can act as a postposition with a different meaning:
 
 **C. Fill in *üle* or *läbi*, placing it before or after as the sense requires.**
 
-1. Ma lähen ___ silla. (I am going across the bridge.)
-2. Nad vaidlevad hinna ___. (They are arguing about the price.)
-3. Tee läheb ___ metsa. (The road goes through the forest.)
-4. vea ___ (because of a mistake)
+1. *Ma lähen ___ silla.* (I am going across the bridge.)
+2. *Nad vaidlevad hinna ___.* (They are arguing about the price.)
+3. *Tee läheb ___ metsa.* (The road goes through the forest.)
+4. *vea ___* (because of a mistake)
 
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. järve · 2. arsti · 3. maja · 4. kino · 5. voodi
+**A.** 1. *järve* · 2. *arsti* · 3. *maja* · 4. *kino* · 5. *voodi*
 
 **B.**
 
-1. puu all
+1. *puu all*
 2. *apteegi kõrval*
-3. poe taga
+3. *poe taga*
 4. *Tartu ja Pärnu vahel*
 5. *töö pärast*
 6. *tunni pärast*
 
-**C.** 1. üle · 2. üle · 3. läbi · 4. läbi
+**C.** 1. *üle* · 2. *üle* · 3. *läbi* · 4. *läbi*
 
 </details>

@@ -19,9 +19,9 @@ The ablative of an adjective is a common way to say "in this manner":
 
 | Adjective | Genitive | Adverb |
 |---|---|---|
-| *rõõmus* | *rõõmsa* | rõõmsalt "cheerfully" |
-| *vaikne* | *vaikse* | vaikselt "quietly" |
-| *lihtne* | *lihtsa* | lihtsalt "simply" |
+| *rõõmus* | *rõõmsa* | *rõõmsalt* "cheerfully" |
+| *vaikne* | *vaikse* | *vaikselt* "quietly" |
+| *lihtne* | *lihtsa* | *lihtsalt* "simply" |
 
 Place adverbs have three directions:
 
@@ -46,13 +46,13 @@ An old case survives in a few fixed words that answer "how?": *paljajalu* "baref
 
 | Suffix | Meaning | Examples |
 |---|---|---|
-| *-sti* | manner | kenasti, soojasti, hästi "well" |
-| *-ti* | repeated time, manner | reedeti "on Fridays", sügiseti "in autumn", teisiti "otherwise" |
-| *-li* | position | selili "on one's back", külili "on one's side" |
-| *-ldi* | manner | eraldi "separately" |
-| *-kesi* | how many together | kahekesi "the two together", kolmekesi "the three together" |
-| *-vel, -il* | a state | ärkvel "awake", ärevil "agitated" |
-| *-haaval, -viisi, -moodi* | compounds | tükkhaaval "piece by piece", hulgaviisi "in large numbers", teistmoodi "differently" |
+| *-sti* | manner | *kenasti*, *soojasti*, *hästi* "well" |
+| *-ti* | repeated time, manner | *reedeti* "on Fridays", *sügiseti* "in autumn", *teisiti* "otherwise" |
+| *-li* | position | *selili* "on one's back", *külili* "on one's side" |
+| *-ldi* | manner | *eraldi* "separately" |
+| *-kesi* | how many together | *kahekesi* "the two together", *kolmekesi* "the three together" |
+| *-vel, -il* | a state | *ärkvel* "awake", *ärevil* "agitated" |
+| *-haaval, -viisi, -moodi* | compounds | *tükkhaaval* "piece by piece", *hulgaviisi* "in large numbers", *teistmoodi* "differently" |
 
 *-sti* and *-lt* often mean the same, but not always:
 
@@ -117,19 +117,19 @@ A particle usually follows the verb and often goes at the end of the clause: *Ma
 
 **A. Give the adverb and its comparative.**
 
-1. rõõmus (use *-lt*)
-2. kiire (use *-sti*)
-3. vaikne (use *-lt*)
+1. *rõõmus* (use *-lt*)
+2. *kiire* (use *-sti*)
+3. *vaikne* (use *-lt*)
 4. *hea*
 5. *halb*
 
 **B. Fill in the right word of the set.**
 
-1. Tule ___! (here, movement)
-2. Ma elan ___. (there, location)
-3. ___ sa tuled? (where from)
-4. Ta on ___. (at home)
-5. Mine ___! (outside, movement)
+1. *Tule ___!* (here, movement)
+2. *Ma elan ___.* (there, location)
+3. *___ sa tuled?* (where from)
+4. *Ta on ___.* (at home)
+5. *Mine ___!* (outside, movement)
 
 **C. Translate into Estonian.**
 
@@ -141,9 +141,9 @@ A particle usually follows the verb and often goes at the end of the clause: *Ma
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. rõõmsalt, rõõmsamalt · 2. kiiresti, kiiremini · 3. vaikselt, vaiksemalt · 4. hästi, paremini · 5. halvasti, halvemini
+**A.** 1. *rõõmsalt, rõõmsamalt* · 2. *kiiresti, kiiremini* · 3. *vaikselt, vaiksemalt* · 4. *hästi, paremini* · 5. *halvasti, halvemini*
 
-**B.** 1. siia · 2. seal · 3. Kust · 4. kodus · 5. välja
+**B.** 1. *siia* · 2. *seal* · 3. *Kust* · 4. *kodus* · 5. *välja*
 
 **C.**
 

@@ -61,10 +61,10 @@ Look at the vowel at the end of the partitive singular, then swap it.
 
 | Part. sg. ends in | Part. pl. ends in | Examples |
 |---|---|---|
-| *-i* or *-u* | **-e** | kappi → **kappe**, tundi → **tunde**, turgu → **turge** |
-| *-e* | **-i** | tamme → **tammi**, kaske → **kaski** |
-| *-a*, after *e o u ä ö ü* | **-i** | kella → **kelli**, kohta → **kohti**, kurba → **kurbi** |
-| *-a*, after *a i õ*, *ei*, *äi* | **-u** | panka → **panku**, linna → **linnu**, õuna → **õunu**, leiba → **leibu** |
+| *-i* or *-u* | **-e** | *kappi* → **kappe**, *tundi* → **tunde**, *turgu* → **turge** |
+| *-e* | **-i** | *tamme* → **tammi**, *kaske* → **kaski** |
+| *-a*, after *e o u ä ö ü* | **-i** | *kella* → **kelli**, *kohta* → **kohti**, *kurba* → **kurbi** |
+| *-a*, after *a i õ*, *ei*, *äi* | **-u** | *panka* → **panku**, *linna* → **linnu**, *õuna* → **õunu**, *leiba* → **leibu** |
 
 Other diphthongs follow their first vowel, so *laeva* gives **laevu**.
 
@@ -94,10 +94,10 @@ Some words accept both a vowel form and a *-sid* form:
 
 | Word | Vowel form | *-sid* form |
 |---|---|---|
-| kala "fish" | *kalu* | *kalasid* |
-| sõna "word" | *sõnu* | *sõnasid* |
-| rida "row" | *ridu* | *ridasid* |
-| lipp "flag" | *lippe* | *lippusid* |
+| *kala* "fish" | *kalu* | *kalasid* |
+| *sõna* "word" | *sõnu* | *sõnasid* |
+| *rida* "row" | *ridu* | *ridasid* |
+| *lipp* "flag" | *lippe* | *lippusid* |
 
 ## All the cases at a glance (§ 266)
 
@@ -150,7 +150,7 @@ A partitive singular can look exactly like a short illative, so use the sentence
 3. *Pargis on vähe ___ (pink).*
 4. *Ostsin kolm ___ (pirn).*
 5. *Aias kasvab palju ___ (roos).*
-6. Ta on meie linna ___ (tuntum arst). ("one of the best-known doctors")
+6. *Ta on meie linna ___ (tuntum arst).* ("one of the best-known doctors")
 
 **C. Translate into Estonian.**
 
@@ -162,9 +162,9 @@ A partitive singular can look exactly like a short illative, so use the sentence
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. laudu · 2. poode · 3. kuuski · 4. vanu · 5. hobuseid · 6. sõnaraamatuid · 7. kurke · 8. musti
+**A.** 1. *laudu* · 2. *poode* · 3. *kuuski* · 4. *vanu* · 5. *hobuseid* · 6. *sõnaraamatuid* · 7. *kurke* · 8. *musti*
 
-**B.** 1. kliente · 2. õde · 3. pinke · 4. pirni · 5. roose · 6. tuntumaid arste
+**B.** 1. *kliente* · 2. *õde* · 3. *pinke* · 4. *pirni* · 5. *roose* · 6. *tuntumaid arste*
 
 **C.**
 

@@ -57,8 +57,8 @@ The genitive adds one of four vowels.
 
 | Pattern | Examples |
 |---|---|
-| Consonant-final names usually take -i | *Pariis, Pariisi*; *Brown, Browni* |
-| Some names in -s take -e | *Texas, Texase*; *Las Vegas, Las Vegase* |
+| Consonant-final names usually take *-i* | *Pariis, Pariisi*; *Brown, Browni* |
+| Some names in *-s* take *-e* | *Texas, Texase*; *Las Vegas, Las Vegase* |
 
 ## Words ending in a vowel (§ 40)
 
@@ -68,7 +68,7 @@ A word's context tells you the case: *Müüja ootab.* "The salesperson is waitin
 
 Not all of them stay the same. Some change the final vowel, as in *lumi, lume* "snow" and *tuli, tule* "fire". Others change in the stem (see Lesson 8).
 
-## Words in -ne (§ 41)
+## Words in *-ne* (§ 41)
 
 Most of these swap *-ne* for *-se*.
 
@@ -97,7 +97,7 @@ A few two-syllable words in *-ne* stay unchanged: *aine* "substance", *kaine* "s
 
 **A. Give the genitive singular.**
 
-1. kino
+1. *kino*
 2. *punane*
 3. *õhtu*
 4. *soomlane*
@@ -126,18 +126,18 @@ A few two-syllable words in *-ne* stay unchanged: *aine* "substance", *kaine* "s
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. kino · 2. punase · 3. õhtu · 4. soomlase · 5. sinise · 6. järve
+**A.** 1. *kino* · 2. *punase* · 3. *õhtu* · 4. *soomlase* · 5. *sinise* · 6. *järve*
 
 **B.**
 
 1. *kassi nimi*
-2. õpetaja auto
+2. *õpetaja auto*
 3. *vana arsti koer*
 4. *punase auto uks*
 5. *härra Browni auto*
 6. *Pariisi tänav*
 7. *õpilase õpetaja auto*
 
-**C.** 1. bussis · 2. bussiga · 3. pudelita · 4. pudelid · 5. järves · 6. arstiga
+**C.** 1. *bussis* · 2. *bussiga* · 3. *pudelita* · 4. *pudelid* · 5. *järves* · 6. *arstiga*
 
 </details>

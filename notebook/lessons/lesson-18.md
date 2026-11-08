@@ -95,10 +95,10 @@ The elative or ablative is used where English often has "in", "at", "by" or "thr
 
 **B. Choose the correct form.**
 
-1. Kohver ei mahu (*autos / autosse*).
-2. Ma unustasin koti (*bussis / bussi*).
-3. Ma ostan õunu (*turul / turult*).
-4. Auto sõidab (*väravas / väravast*) sisse.
+1. *Kohver ei mahu* (*autos / autosse*).
+2. *Ma unustasin koti* (*bussis / bussi*).
+3. *Ma ostan õunu* (*turul / turult*).
+4. *Auto sõidab* (*väravas / väravast*) *sisse.*
 
 **C. Translate into Estonian.**
 
@@ -110,9 +110,9 @@ The elative or ablative is used where English often has "in", "at", "by" or "thr
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. autosse · 2. poest · 3. vihikusse · 4. käest · 5. raamatust · 6. apteegis
+**A.** 1. *autosse* · 2. *poest* · 3. *vihikusse* · 4. *käest* · 5. *raamatust* · 6. *apteegis*
 
-**B.** 1. autosse · 2. bussi · 3. turult · 4. väravast
+**B.** 1. *autosse* · 2. *bussi* · 3. *turult* · 4. *väravast*
 
 **C.**
 

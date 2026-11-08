@@ -15,13 +15,13 @@ In this lesson, `'` before a word marks third-degree (overlong) pronunciation.
 
 | Strong | Weak | Noun | Verb |
 |---|---|---|---|
-| kk | k | *tükk, tüki, tükki* |  |
-| pp | p | *sepp, sepa, seppa* | *hüppama, hüpata* |
-| tt | t | *rätt, räti, rätti* |  |
-| ss | s | *kirss, kirsi, kirssi* |  |
-| k | g | *park, pargi, parki* | *lõikama, lõigata* |
-| p | b | *kaup, kauba, kaupa* | *taipama, taibata* |
-| t | d | *paat, paadi, paati* | *ootama, oodata* |
+| *kk* | *k* | *tükk, tüki, tükki* |  |
+| *pp* | *p* | *sepp, sepa, seppa* | *hüppama, hüpata* |
+| *tt* | *t* | *rätt, räti, rätti* |  |
+| *ss* | *s* | *kirss, kirsi, kirssi* |  |
+| *k* | *g* | *park, pargi, parki* | *lõikama, lõigata* |
+| *p* | *b* | *kaup, kauba, kaupa* | *taipama, taibata* |
+| *t* | *d* | *paat, paadi, paati* | *ootama, oodata* |
 
 Some length changes do not show in spelling. The same letters represent different degrees:
 
@@ -36,31 +36,31 @@ Some length changes do not show in spelling. The same letters represent differen
 
 | Change | Examples |
 |---|---|
-| b → v | *kurb, kurva; halb, halva* |
-| d → j | *pada, paja; rada, raja* |
-| g → j | *märg, märja* |
-| mb → mm | *kumb, kumma; tõmbama, tõmmata* |
-| d disappears | *raud, raua* |
-| ld → ll | *kuld, kulla* |
-| nd → nn | *rand, ranna* |
-| rd → rr | *kord, korra* |
-| g disappears | *nägu, näo* |
-| lg → l | *jalg, jala* |
-| rg → r | *turg, turu* |
-| s or t disappears | *uus, uue* |
-| rs → rr | *vars, varre* |
-| ks → h | *kaks, kahe* |
-| sk → s | *kuusk, kuuse* |
-| hk → h | *õhk, õhu* |
-| ht → h | *koht, koha* |
+| *b → v* | *kurb, kurva; halb, halva* |
+| *d → j* | *pada, paja; rada, raja* |
+| *g → j* | *märg, märja* |
+| *mb → mm* | *kumb, kumma; tõmbama, tõmmata* |
+| *d* disappears | *raud, raua* |
+| *ld → ll* | *kuld, kulla* |
+| *nd → nn* | *rand, ranna* |
+| *rd → rr* | *kord, korra* |
+| *g* disappears | *nägu, näo* |
+| *lg → l* | *jalg, jala* |
+| *rg → r* | *turg, turu* |
+| *s* or *t* disappears | *uus, uue* |
+| *rs → rr* | *vars, varre* |
+| *ks → h* | *kaks, kahe* |
+| *sk → s* | *kuusk, kuuse* |
+| *hk → h* | *õhk, õhu* |
+| *ht → h* | *koht, koha* |
 
 After a lost consonant, the vowel may change too:
 
 | Change | Examples |
 |---|---|
-| i → e | *siga, sea; pidu, peo* |
-| u → o | *nuga, noa; sugu, soo; kudama, koon* |
-| ü → ö | *süsi, söe* |
+| *i → e* | *siga, sea; pidu, peo* |
+| *u → o* | *nuga, noa; sugu, soo; kudama, koon* |
+| *ü → ö* | *süsi, söe* |
 
 *Aeg* has a special pattern: *aeg, aja, aega*.
 
@@ -106,7 +106,7 @@ This older plural is mainly found in writing and fixed expressions. You must kno
 | Partitive plural | Formation | Examples |
 |---|---|---|
 | ends in *-id* | drop *-d*, add case ending | *tähtsaid → tähtsais; mantleid → mantleisse* |
-| *ends in a vowel* | add case ending, with weak grade | *jalgu → jalul; kõrvu → kõrvus* |
+| ends in a vowel | add case ending, with weak grade | *jalgu → jalul; kõrvu → kõrvus* |
 | ends in *-si* | add case ending, same form | *käsi → käsil; inimesi → inimesil* |
 
 Limits:
@@ -143,8 +143,8 @@ In use: *tähtsais küsimusis* = *tähtsates küsimustes* "in important question
 
 **A. Give the genitive singular.**
 
-1. pank
-2. rand
+1. *pank*
+2. *rand*
 3. *õhk*
 4. *nägu*
 5. *siga*
@@ -174,10 +174,10 @@ In use: *tähtsais küsimusis* = *tähtsates küsimustes* "in important question
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. panga · 2. ranna · 3. õhu · 4. näo · 5. sea · 6. kahe · 7. kurva · 8. kulla
+**A.** 1. *panga* · 2. *ranna* · 3. *õhu* · 4. *näo* · 5. *sea* · 6. *kahe* · 7. *kurva* · 8. *kulla*
 
-**B.** 1. lõikan · 2. taipan · 3. ootan · 4. õpin · 5. tõmban · 6. koon
+**B.** 1. *lõikan* · 2. *taipan* · 3. *ootan* · 4. *õpin* · 5. *tõmban* · 6. *koon*
 
-**C.** 1. metsist · 2. nädalail · 3. silmile · 4. võõrais · 5. küsimusist · 6. none (*emasid*) · 7. none (*-ga* is not used)
+**C.** 1. *metsist* · 2. *nädalail* · 3. *silmile* · 4. *võõrais* · 5. *küsimusist* · 6. none (*emasid*) · 7. none (*-ga* is not used)
 
 </details>

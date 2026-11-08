@@ -57,12 +57,12 @@ Present of *olema* + *-nud*. In set sayings and poetry, *olema* can be left out.
 
 | Person | Affirmative | Negative |
 |---|---|---|
-| *ma* | *olen kirjutanud* | ei ole / pole kirjutanud |
-| *sa* | *oled kirjutanud* | ei ole / pole kirjutanud |
-| *ta* | *on kirjutanud* | ei ole / pole kirjutanud |
-| *me* | *oleme kirjutanud* | ei ole / pole kirjutanud |
-| *te* | *olete kirjutanud* | ei ole / pole kirjutanud |
-| *nad* | *on kirjutanud* | ei ole / pole kirjutanud |
+| *ma* | *olen kirjutanud* | *ei ole / pole kirjutanud* |
+| *sa* | *oled kirjutanud* | *ei ole / pole kirjutanud* |
+| *ta* | *on kirjutanud* | *ei ole / pole kirjutanud* |
+| *me* | *oleme kirjutanud* | *ei ole / pole kirjutanud* |
+| *te* | *olete kirjutanud* | *ei ole / pole kirjutanud* |
+| *nad* | *on kirjutanud* | *ei ole / pole kirjutanud* |
 
 *Kas sa oled Riias käinud?* "Have you been to Riga?"
 
@@ -115,7 +115,7 @@ The *kui* can be dropped by putting the verb first: *Oleksin ma sellest kuulnud,
 3. *teha*
 4. *juua*
 5. *leida*
-6. panna
+6. *panna*
 
 **C. Translate into Estonian.**
 
@@ -127,13 +127,13 @@ The *kui* can be dropped by putting the verb first: *Oleksin ma sellest kuulnud,
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. Ma ei ujunud. · 2. Ta ei ostnud leiba. · 3. Nad ei läinud koju. · 4. Me ei näinud filmi. · 5. Sa ei söönud.
+**A.** 1. *Ma ei ujunud.* · 2. *Ta ei ostnud leiba.* · 3. *Nad ei läinud koju.* · 4. *Me ei näinud filmi.* · 5. *Sa ei söönud.*
 
-**B.** 1. kuulanud · 2. tulnud · 3. teinud · 4. joonud · 5. leidnud · 6. pannud
+**B.** 1. *kuulanud* · 2. *tulnud* · 3. *teinud* · 4. *joonud* · 5. *leidnud* · 6. *pannud*
 
 **C.**
 
-1. Me ei ole maganud. (or: Me pole maganud.)
+1. *Me ei ole maganud.* (or: *Me pole maganud.*)
 2. *Ta oli juba läinud.*
 3. *Ma oleksin tulnud.*
 4. *Kas sa oled seda kirja lugenud?*

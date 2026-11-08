@@ -40,9 +40,9 @@
 
 Some words also have a short form in *-e*. It is mostly found in set phrases and written language.
 
-| Regular | Short |
+| Regular genitive plural | Short genitive plural |
 |---|---|
-| *jalgade* | jalge (*jalge vahel* "between the legs") |
+| *jalgade* | *jalge* (*jalge vahel* "between the legs") |
 | *silmade* | *silme* |
 | *õnnelikkude* | *õnnelike* |
 | *aednikkude* | *aednike* |
@@ -86,22 +86,22 @@ Both also add emphasis or certainty to statements.
 
 **A. Give the genitive plural.**
 
-1. rong
+1. *rong*
 2. *puu*
 3. *õpik*
 4. *naine*
 5. *kael*
-6. auto
+6. *auto*
 7. *meri*
 8. *võti*
-9. hind
+9. *hind*
 
 **B. Use *eks* or *ega*.**
 
-1. ___ sa tule homme? (You expect yes.)
-2. ___ sa väsinud ole? (You expect no.)
-3. ___ see lihtne ei ole. (Certainly not easy.)
-4. ___ ma proovin. (A modest promise.)
+1. *___ sa tule homme?* (You expect yes.)
+2. *___ sa väsinud ole?* (You expect no.)
+3. *___ see lihtne ei ole.* (Certainly not easy.)
+4. *___ ma proovin.* (A modest promise.)
 
 **C. Translate into Estonian.**
 
@@ -113,15 +113,15 @@ Both also add emphasis or certainty to statements.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. rongide · 2. puude · 3. õpikute · 4. naiste · 5. kaelte · 6. autode · 7. merede · 8. võtmete · 9. hindade
+**A.** 1. *rongide* · 2. *puude* · 3. *õpikute* · 4. *naiste* · 5. *kaelte* · 6. *autode* · 7. *merede* · 8. *võtmete* · 9. *hindade*
 
-**B.** 1. Eks · 2. Ega · 3. Ega · 4. Eks
+**B.** 1. *Eks* · 2. *Ega* · 3. *Ega* · 4. *Eks*
 
 **C.**
 
 1. *laste mänguasjad*
-2. õpilaste nimed
+2. *õpilaste nimed*
 3. *Mul ei ole aega ega raha.*
-4. *Ega sul kiire ole? (or: Ega sul kiire ei ole?)*
+4. *Ega sul kiire ole?* (or: *Ega sul kiire ei ole?*)
 
 </details>

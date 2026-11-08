@@ -126,7 +126,7 @@ A partial subject contrasts with a whole one: *Kas piima on?* asks about any amo
 6. *vesi*
 7. *lumi*
 8. *mägi*
-9. rada
+9. *rada*
 10. *uus*
 
 **B. Put the word in the partitive.**
@@ -134,8 +134,8 @@ A partial subject contrasts with a whole one: *Kas piima on?* asks about any amo
 1. *kaks ___ (õun)*
 2. *palju ___ (töö)*
 3. *pärast ___ (kontsert)*
-4. tass ___ (tee)
-5. Mitu ___ (tund) sa ootasid?
+4. *tass ___ (tee)*
+5. *Mitu ___ (tund) sa ootasid?*
 6. *Kapis on ___ (suhkur).*
 
 **C. Translate into Estonian.**
@@ -149,15 +149,15 @@ A partial subject contrasts with a whole one: *Kas piima on?* asks about any amo
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. puud · 2. õpikut · 3. hobust · 4. hammast · 5. kurku · 6. vett · 7. lund · 8. mäge · 9. rada · 10. uut
+**A.** 1. *puud* · 2. *õpikut* · 3. *hobust* · 4. *hammast* · 5. *kurku* · 6. *vett* · 7. *lund* · 8. *mäge* · 9. *rada* · 10. *uut*
 
-**B.** 1. õuna · 2. tööd · 3. kontserti · 4. teed · 5. tundi · 6. suhkrut
+**B.** 1. *õuna* · 2. *tööd* · 3. *kontserti* · 4. *teed* · 5. *tundi* · 6. *suhkrut*
 
 **C.**
 
 1. *Mul on kolm uut raamatut.*
-2. Tass teed, palun.
-3. Kas piima on?
+2. *Tass teed, palun.*
+3. *Kas piima on?*
 4. *Mu auto on sinist värvi.*
 5. *Ta kõnnib mööda jõge.*
 

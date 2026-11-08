@@ -13,13 +13,13 @@
 
 | Suffix | Meaning | Examples |
 |---|---|---|
-| *-ja* | doer | ehitaja "builder", kasvataja "educator" |
-| *-ur* | occupation or habit | juuksur "hairdresser", kaevur "miner", metsur "logger" |
-| *-nik* | occupation or lasting role | aednik "gardener", talunik "farmer", omanik "owner" |
-| *-ik* | person of a type | noorik "young wife" |
-| *-lane* | origin, group, or role | tallinlane "person from Tallinn", saarlane "person from Saaremaa", sakslane "German" |
-| *-line* | someone in a role | teeline "traveler", külaline "guest" |
-| -nna, -tar | female counterpart | sakslanna "German woman", näitlejanna or näitlejatar "actress" |
+| *-ja* | doer | *ehitaja* "builder", *kasvataja* "educator" |
+| *-ur* | occupation or habit | *juuksur* "hairdresser", *kaevur* "miner", *metsur* "logger" |
+| *-nik* | occupation or lasting role | *aednik* "gardener", *talunik* "farmer", *omanik* "owner" |
+| *-ik* | person of a type | *noorik* "young wife" |
+| *-lane* | origin, group, or role | *tallinlane* "person from Tallinn", *saarlane* "person from Saaremaa", *sakslane* "German" |
+| *-line* | someone in a role | *teeline* "traveler", *külaline* "guest" |
+| *-nna*, *-tar* | female counterpart | *sakslanna* "German woman", *näitlejanna* or *näitlejatar* "actress" |
 
 Some of these suffixes also name things: *-ur* in *tõstur* "lift truck", and *-nik* in *süsinik* "carbon".
 
@@ -27,29 +27,29 @@ Some of these suffixes also name things: *-ur* in *tõstur* "lift truck", and *-
 
 | Suffix | Meaning | Examples |
 |---|---|---|
-| *-mine* | the action in general | jalutamine "walking" |
-| *-us* | action or result | küsimus "question", soovitus "recommendation", parandus "correction" |
-| *-is* | result | joonis "drawing", kirjutis "piece of writing" |
-| *-e* | action or result | kutse "invitation", tahe "will", hüüe "shout" |
-| *-ng* | action or result | murrang "breakthrough", saadang "shipment" |
-| *-k* | action | tulek "coming", minek "going", rünnak "attack" |
+| *-mine* | the action in general | *jalutamine* "walking" |
+| *-us* | action or result | *küsimus* "question", *soovitus* "recommendation", *parandus* "correction" |
+| *-is* | result | *joonis* "drawing", *kirjutis* "piece of writing" |
+| *-e* | action or result | *kutse* "invitation", *tahe* "will", *hüüe* "shout" |
+| *-ng* | action or result | *murrang* "breakthrough", *saadang* "shipment" |
+| *-k* | action | *tulek* "coming", *minek* "going", *rünnak* "attack" |
 
 ## Abstract ideas (§ 387)
 
 | Suffix | Added to | Examples |
 |---|---|---|
-| *-us* | adjective | headus "goodness", kurbus "sadness", soojus "warmth", kiirus "speed" |
-| *-dus* | adjective | tumedus "darkness", heledus "brightness" |
+| *-us* | adjective | *headus* "goodness", *kurbus* "sadness", *soojus* "warmth", *kiirus* "speed" |
+| *-dus* | adjective | *tumedus* "darkness", *heledus* "brightness" |
 
 ## Places, groups and domains (§ 388)
 
 | Suffix | Meaning | Examples |
 |---|---|---|
-| *-la* | place | ujula "swimming pool", pesula "laundry" |
-| *-stik* | a set or system | taimestik "flora", loomastik "fauna" |
-| *-kond* | group or area | perekond "family", maakond "county", sõpruskond "circle of friends" |
-| *-ndus* | field of activity | aiandus "gardening", kalandus "fishing industry", ajakirjandus "journalism" |
-| *-ik* | grove | tammik "oak grove", haavik "aspen grove" |
+| *-la* | place | *ujula* "swimming pool", *pesula* "laundry" |
+| *-stik* | a set or system | *taimestik* "flora", *loomastik* "fauna" |
+| *-kond* | group or area | *perekond* "family", *maakond* "county", *sõpruskond* "circle of friends" |
+| *-ndus* | field of activity | *aiandus* "gardening", *kalandus* "fishing industry", *ajakirjandus* "journalism" |
+| *-ik* | grove | *tammik* "oak grove", *haavik* "aspen grove" |
 
 ## Diminutives (§ 389)
 
@@ -59,12 +59,12 @@ Some of these suffixes also name things: *-ur* in *tõstur* "lift truck", and *-
 
 | Suffix | Meaning | Examples |
 |---|---|---|
-| *-ne* | having, of a time or kind | pilvene "cloudy", vihmane "rainy", hommikune "morning (adj.)", viieaastane "five-year-old" |
-| *-line* | having a quality | päikeseline "sunny", mitmekeeleline "multilingual", pikajuukseline "long-haired" |
-| *-lik* | like, suited to | sõbralik "friendly", lapselik "childish", ohtlik "dangerous", tervislik "healthy" |
-| *-kas* | having a lot of, or somewhat | jõukas "wealthy", kõhukas "pot-bellied", kollakas "yellowish", rohekas "greenish" |
-| *-tu* | without | kodutu "homeless", töötu "unemployed", lootusetu "hopeless", maitsetu "tasteless" |
-| *-matu* | cannot be, not done | väsimatu "tireless", loendamatu "countless" |
+| *-ne* | having, of a time or kind | *pilvene* "cloudy", *vihmane* "rainy", *hommikune* "morning (adj.)", *viieaastane* "five-year-old" |
+| *-line* | having a quality | *päikeseline* "sunny", *mitmekeeleline* "multilingual", *pikajuukseline* "long-haired" |
+| *-lik* | like, suited to | *sõbralik* "friendly", *lapselik* "childish", *ohtlik* "dangerous", *tervislik* "healthy" |
+| *-kas* | having a lot of, or somewhat | *jõukas* "wealthy", *kõhukas* "pot-bellied", *kollakas* "yellowish", *rohekas* "greenish" |
+| *-tu* | without | *kodutu* "homeless", *töötu* "unemployed", *lootusetu* "hopeless", *maitsetu* "tasteless" |
+| *-matu* | cannot be, not done | *väsimatu* "tireless", *loendamatu* "countless" |
 
 *-tu* does not always mean "without": *kahvatu* simply means "pale".
 
@@ -72,11 +72,11 @@ Some of these suffixes also name things: *-ur* in *tõstur* "lift truck", and *-
 
 | Type | Pattern | Examples |
 |---|---|---|
-| Causative: make something happen | *-ta-/-da-* | kasvama → kasvatama "grow → raise"; sulama → sulatama "melt → melt something"; lõppema → lõpetama "end → finish something" |
-| Other causatives | *-sta-*, *-t-* | rahunema → rahustama "calm down → calm someone"; jooma → jootma "drink → give to drink" |
-| Reflexive: action on oneself | *-u-* | peitma → peituma "hide something → hide oneself"; riietama → riietuma "dress someone → get dressed"; sulgema → sulguma "close something → close by itself" |
-| Change of state: become | *-ne-* | soe → soojenema "get warmer"; külm → külmenema "get colder"; vana → vananema "age"; parem → paranema "improve" |
-| Sudden, one-time action | *-ata-* | köhima → köhatama "cough → give a cough"; hüüdma → hüüatama "shout → exclaim" |
+| Causative: make something happen | *-ta-/-da-* | *kasvama → kasvatama* "grow → raise"; *sulama → sulatama* "melt → melt something"; *lõppema → lõpetama* "end → finish something" |
+| Other causatives | *-sta-*, *-t-* | *rahunema → rahustama* "calm down → calm someone"; *jooma → jootma* "drink → give to drink" |
+| Reflexive: action on oneself | *-u-* | *peitma → peituma* "hide something → hide oneself"; *riietama → riietuma* "dress someone → get dressed"; *sulgema → sulguma* "close something → close by itself" |
+| Change of state: become | *-ne-* | *soe → soojenema* "get warmer"; *külm → külmenema* "get colder"; *vana → vananema* "age"; *parem → paranema* "improve" |
+| Sudden, one-time action | *-ata-* | *köhima → köhatama* "cough → give a cough"; *hüüdma → hüüatama* "shout → exclaim" |
 
 ## The prefix *eba-* (§ 397)
 
@@ -84,11 +84,11 @@ Some of these suffixes also name things: *-ur* in *tõstur* "lift truck", and *-
 
 | Word | Opposite |
 |---|---|
-| mugav "comfortable" | *ebamugav* |
-| viisakas "polite" | *ebaviisakas* |
-| tavaline "usual" | *ebatavaline* |
-| õige "correct" | *ebaõige* |
-| õnn "luck" | *ebaõnn* |
+| *mugav* "comfortable" | *ebamugav* |
+| *viisakas* "polite" | *ebaviisakas* |
+| *tavaline* "usual" | *ebatavaline* |
+| *õige* "correct" | *ebaõige* |
+| *õnn* "luck" | *ebaõnn* |
 
 ## Useful phrases
 
@@ -131,15 +131,15 @@ Some of these suffixes also name things: *-ur* in *tõstur* "lift truck", and *-
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. ehitaja · 2. tammik · 3. pesula · 4. sõbralik · 5. maitsetu · 6. kollakas · 7. õpetama
+**A.** 1. *ehitaja* · 2. *tammik* · 3. *pesula* · 4. *sõbralik* · 5. *maitsetu* · 6. *kollakas* · 7. *õpetama*
 
-**B.** 1. sulab · 2. sulatab · 3. sulgub · 4. sulges · 5. soojeneb
+**B.** 1. *sulab* · 2. *sulatab* · 3. *sulgub* · 4. *sulges* · 5. *soojeneb*
 
 **C.**
 
-1. ebamugav tool
+1. *ebamugav tool*
 2. *ebatavaline lugu*
 3. *kodutu koer*
-4. viieaastane laps
+4. *viieaastane laps*
 
 </details>

@@ -83,14 +83,14 @@
 
 | Case or phrase | Adjective | Example |
 |---|---|---|
-| Allative | kasulik "useful" | *See on tervisele kasulik.* |
-| Allative + *eest* | tänulik "grateful" | *Olen sulle abi eest tänulik.* |
-| Elative | huvitatud "interested", teadlik "aware", väsinud "tired" | *Ta on muusikast huvitatud.* |
-| Illative | armunud "in love" | *Ta on naabrisse armunud.* |
-| Inessive | kindel "sure" | *Ma olen selles kindel.* |
-| Comitative | sarnane "similar" | *Poeg on isaga sarnane.* |
-| *mille üle?* | uhke "proud" | *Ta on oma töö üle uhke.* |
-| Allative or *kelle peale?* | pahane "annoyed" | *Ära ole minu peale pahane!* |
+| Allative | *kasulik* "useful" | *See on tervisele kasulik.* |
+| Allative + *eest* | *tänulik* "grateful" | *Olen sulle abi eest tänulik.* |
+| Elative | *huvitatud* "interested", *teadlik* "aware", *väsinud* "tired" | *Ta on muusikast huvitatud.* |
+| Illative | *armunud* "in love" | *Ta on naabrisse armunud.* |
+| Inessive | *kindel* "sure" | *Ma olen selles kindel.* |
+| Comitative | *sarnane* "similar" | *Poeg on isaga sarnane.* |
+| *mille üle?* | *uhke* "proud" | *Ta on oma töö üle uhke.* |
+| Allative or *kelle peale?* | *pahane* "annoyed" | *Ära ole minu peale pahane!* |
 
 ## Conjunctions (§ 406–407)
 
@@ -124,26 +124,26 @@ Current practice writes most of these without periods.
 
 | Abbreviation | Full form | Meaning |
 |---|---|---|
-| jne | *ja nii edasi* | and so on |
-| jt | *ja teised* | and others |
-| jms | *ja muud seesugust* | and the like |
-| nt | *näiteks* | for example |
-| st | *see tähendab* | that means |
-| nn | *niinimetatud* | so-called |
-| hr | *härra* | Mr. |
-| pr | *proua* | Mrs. |
-| prl | *preili* | Miss |
-| dr | *doktor* | Dr. |
-| nr | *number* | number |
-| lk | *lehekülg* | page |
-| vt | *vaata* | see |
-| vrd | *võrdle* | compare |
-| tel | *telefon* | telephone |
-| tn | *tänav* | street |
-| kl | *kell* | o'clock |
-| a | *aastal* | in the year |
-| e.Kr. | *enne Kristust* | BC |
-| p.Kr. | *pärast Kristust* | AD |
+| *jne* | *ja nii edasi* | and so on |
+| *jt* | *ja teised* | and others |
+| *jms* | *ja muud seesugust* | and the like |
+| *nt* | *näiteks* | for example |
+| *st* | *see tähendab* | that means |
+| *nn* | *niinimetatud* | so-called |
+| *hr* | *härra* | Mr. |
+| *pr* | *proua* | Mrs. |
+| *prl* | *preili* | Miss |
+| *dr* | *doktor* | Dr. |
+| *nr* | *number* | number |
+| *lk* | *lehekülg* | page |
+| *vt* | *vaata* | see |
+| *vrd* | *võrdle* | compare |
+| *tel* | *telefon* | telephone |
+| *tn* | *tänav* | street |
+| *kl* | *kell* | o'clock |
+| *a* | *aastal* | in the year |
+| *e.Kr.* | *enne Kristust* | BC |
+| *p.Kr.* | *pärast Kristust* | AD |
 
 Measurement symbols such as *m*, *kg* and *l* never take periods.
 
@@ -167,24 +167,24 @@ Measurement symbols such as *m*, *kg* and *l* never take periods.
 1. *enne ___ (kontsert)*
 2. *ilma ___ (piim)*
 3. *kuni ___ (reede)*
-4. ___ jaoks (laps)
+4. *___ jaoks (laps)*
 5. *üle ___ (tänav)*
-6. mööda ___ (tee)
-7. ___ alla (laud)
+6. *mööda ___ (tee)*
+7. *___ alla (laud)*
 
 **B. Put the words in brackets into the correct form.**
 
-1. Ma armusin ___ (see linn).
+1. *Ma armusin ___ (see linn).*
 2. *Ta sõltub ___ (vanemad).*
 3. *Helista ___ (ema)!*
 4. *Olen harjunud ___ (külm).*
 5. *Ta kardab ___ (koer).*
-6. Ta sai ___ (arst).
+6. *Ta sai ___ (arst).*
 
 **C. Fill in *et*, *kas*, *kui*, *kuigi* or *sest*.**
 
-1. Ma ei tea, ___ ta tuleb. (whether)
-2. Ta on noorem ___ mina.
+1. *Ma ei tea, ___ ta tuleb.* (whether)
+2. *Ta on noorem ___ mina.*
 3. *Jäin koju, ___ olin haige.*
 4. *___ sadas, läksime välja.*
 5. *Ta ütles, ___ on väsinud.*
@@ -192,10 +192,10 @@ Measurement symbols such as *m*, *kg* and *l* never take periods.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. kontserti · 2. piimata · 3. reedeni · 4. lapse · 5. tänava · 6. teed · 7. laua
+**A.** 1. *kontserti* · 2. *piimata* · 3. *reedeni* · 4. *lapse* · 5. *tänava* · 6. *teed* · 7. *laua*
 
-**B.** 1. sellesse linna · 2. vanematest · 3. emale · 4. külmaga · 5. koera · 6. arstiks
+**B.** 1. *sellesse linna* · 2. *vanematest* · 3. *emale* · 4. *külmaga* · 5. *koera* · 6. *arstiks*
 
-**C.** 1. kas · 2. kui · 3. sest · 4. Kuigi · 5. et
+**C.** 1. *kas* · 2. *kui* · 3. *sest* · 4. *Kuigi* · 5. *et*
 
 </details>

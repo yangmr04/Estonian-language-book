@@ -121,21 +121,21 @@ The phrase stays singular throughout.
 
 **A. Put the phrase into the case given.**
 
-1. *väike linn (inessive)*
-2. uus maja (comitative)
-3. must koer (allative plural)
-4. hea sõber (comitative plural)
-5. see laps (abessive)
-6. *noor naine (terminative)*
+1. *väike linn* (inessive)
+2. *uus maja* (comitative)
+3. *must koer* (allative plural)
+4. *hea sõber* (comitative plural)
+5. *see laps* (abessive)
+6. *noor naine* (terminative)
 
 **B. Put the words in brackets into the correct form.**
 
 1. *Ostsin ___ (kolm, pilet).*
 2. *Ostsin ___ (üks, pilet).*
 3. *Ta otsib ___ (kaks, võti).*
-4. Me elame ___ (kaks, tuba). ("in")
-5. Tulin ___ (kolm, sõber). ("with")
-6. Väljakul oli ___ (tuhat, inimene). ("thousands of")
+4. *Me elame ___ (kaks, tuba).* ("in")
+5. *Tulin ___ (kolm, sõber).* ("with")
+6. *Väljakul oli ___ (tuhat, inimene).* ("thousands of")
 
 **C. Translate into Estonian.**
 
@@ -146,9 +146,9 @@ The phrase stays singular throughout.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. väikeses linnas · 2. uue majaga · 3. mustadele koertele · 4. heade sõpradega · 5. selle lapseta · 6. noore naiseni
+**A.** 1. *väikeses linnas* · 2. *uue majaga* · 3. *mustadele koertele* · 4. *heade sõpradega* · 5. *selle lapseta* · 6. *noore naiseni*
 
-**B.** 1. kolm piletit · 2. ühe pileti · 3. kahte võtit · 4. kahes toas · 5. kolme sõbraga · 6. tuhandeid inimesi
+**B.** 1. *kolm piletit* · 2. *ühe pileti* · 3. *kahte võtit* · 4. *kahes toas* · 5. *kolme sõbraga* · 6. *tuhandeid inimesi*
 
 **C.**
 

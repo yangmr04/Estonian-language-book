@@ -129,33 +129,33 @@ Its forms are *-mine*, *-mise*, *-mist*, *-misi*.
 **B. Change to the oblique mood, as if you only heard it.**
 
 1. *Ta elab Narvas.*
-2. Nad ei tule.
+2. *Nad ei tule.*
 3. *Ta sõitis ära.*
 4. *Hinnad on kõrged.*
 
 **C. Form the word requested and translate the sentence.**
 
-1. *õpetama*, doer: Mu õde on ___.
-2. *ujuma*, action noun: ___ on tore.
+1. *õpetama*, doer: *Mu õde on ___.*
+2. *ujuma*, action noun: *___ on tore.*
 3. Shorten: *Ma näen, et buss tuleb.*
 4. Translate: "They say the shop is closed."
 
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. kõndiv, kõndiva · 2. tõusev, tõusva · 3. kandev, kandva · 4. naeratav, naeratava
+**A.** 1. *kõndiv, kõndiva* · 2. *tõusev, tõusva* · 3. *kandev, kandva* · 4. *naeratav, naeratava*
 
 **B.**
 
 1. *Ta elavat Narvas.*
-2. Nad ei tulevat.
+2. *Nad ei tulevat.*
 3. *Ta olevat ära sõitnud.*
 4. *Hinnad olevat kõrged.*
 
 **C.**
 
-1. õpetaja ("My sister is a teacher.")
-2. Ujumine ("Swimming is great.")
+1. *õpetaja* ("My sister is a teacher.")
+2. *Ujumine* ("Swimming is great.")
 3. *Ma näen bussi tulevat.*
 4. *Pood olevat suletud.*
 

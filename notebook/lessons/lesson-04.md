@@ -37,11 +37,11 @@ Unlike English, the verb matches the pronoun, while *see* "this, it" stays as it
 
 | Estonian | English |
 |---|---|
-| See **olen** mina. | It's me. |
-| See **oled** sina. | It's you. |
-| See **on** tema. | It's him/her. |
-| See **oleme** meie. | It's us. |
-| See **olete** teie. | It's you. (plural or polite) |
+| *See* **olen** *mina.* | It's me. |
+| *See* **oled** *sina.* | It's you. |
+| *See* **on** *tema.* | It's him/her. |
+| *See* **oleme** *meie.* | It's us. |
+| *See* **olete** *teie.* | It's you. (plural or polite) |
 
 ## Double negation (§ 23)
 
@@ -71,17 +71,17 @@ The verb still needs *ei*, even when *mitte keegi* "nobody" is the subject.
 
 **A. Fill in *kes*, *mis* or *milline*.**
 
-1. ___ see mees on? — Ta on arst.
-2. ___ see on? — See on õun.
-3. ___ see supp on? — See on külm.
+1. *___ see mees on? — Ta on arst.*
+2. *___ see on? — See on õun.*
+3. *___ see supp on? — See on külm.*
 4. *___ helistab? — Ema helistab.*
 
 **B. Give the correct form of *olema*.**
 
-1. See ___ mina.
-2. See ___ sina.
-3. See ___ meie.
-4. See ___ teie.
+1. *See ___ mina.*
+2. *See ___ sina.*
+3. *See ___ meie.*
+4. *See ___ teie.*
 
 **C. Translate into Estonian.**
 
@@ -93,15 +93,15 @@ The verb still needs *ei*, even when *mitte keegi* "nobody" is the subject.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. Kes · 2. Mis · 3. Milline (or Missugune) · 4. Kes
+**A.** 1. *Kes* · 2. *Mis* · 3. *Milline* (or *Missugune*) · 4. *Kes*
 
-**B.** 1. olen · 2. oled · 3. oleme · 4. olete
+**B.** 1. *olen* · 2. *oled* · 3. *oleme* · 4. *olete*
 
 **C.**
 
 1. *Me ei söö mitte midagi.*
 2. *Mitte keegi ei helista.*
 3. *Ta ei joo mitte kunagi kohvi.*
-4. Auto on kiire.
+4. *Auto on kiire.*
 
 </details>

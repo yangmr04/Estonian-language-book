@@ -95,15 +95,15 @@ Repeat the verb in the form that fits the person answering. *Küll* adds "indeed
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. Kas koer magab? · 2. Kas sa töötad täna? · 3. Kas nad elavad Pärnus? · 4. Kas õpetaja sööb?
+**A.** 1. *Kas koer magab?* · 2. *Kas sa töötad täna?* · 3. *Kas nad elavad Pärnus?* · 4. *Kas õpetaja sööb?*
 
-**B.** 1. Kus · 2. Mis · 3. Kes · 4. Millal
+**B.** 1. *Kus* · 2. *Mis* · 3. *Kes* · 4. *Millal*
 
 **C.**
 
 1. *Täna on koer kodus.*
 2. *Ema sõidab homme Tartusse.*
-3. Kas sa tuled? / Tuled sa?
+3. *Kas sa tuled? / Tuled sa?*
 4. *Tulen küll.*
 
 </details>

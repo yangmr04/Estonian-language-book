@@ -98,19 +98,19 @@ When each person has one of something, Estonian often uses the singular, where E
 
 **A. Give the plural form.**
 
-1. laps, comitative
-2. naine, allative
-3. *mägi, inessive*
-4. vesi, elative
-5. ratas, comitative
-6. sild, adessive
+1. *laps*, comitative
+2. *naine*, allative
+3. *mägi*, inessive
+4. *vesi*, elative
+5. *ratas*, comitative
+6. *sild*, adessive
 
 **B. Make the bold word plural.**
 
-1. Ma räägin **lapsega**.
-2. Me elame **linnas**.
-3. Kass on **naise** juures.
-4. Ta tuli **mäelt**.
+1. *Ma räägin* **lapsega**.
+2. *Me elame* **linnas**.
+3. *Kass on* **naise** *juures.*
+4. *Ta tuli* **mäelt**.
 
 **C. Translate into Estonian.**
 
@@ -122,7 +122,7 @@ When each person has one of something, Estonian often uses the singular, where E
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. lastega · 2. naistele · 3. mägedes · 4. vetest · 5. ratastega · 6. sildadel
+**A.** 1. *lastega* · 2. *naistele* · 3. *mägedes* · 4. *vetest* · 5. *ratastega* · 6. *sildadel*
 
 **B.**
 
@@ -135,7 +135,7 @@ When each person has one of something, Estonian often uses the singular, where E
 
 1. *Me elame suurtes linnades.*
 2. *Ma läksin poiste ja tüdrukutega.*
-3. Tema juuksed on pikad.
+3. *Tema juuksed on pikad.*
 4. *Kus mu prillid on?*
 
 </details>

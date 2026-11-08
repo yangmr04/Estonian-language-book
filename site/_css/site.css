@@ -82,6 +82,13 @@ th.case-par, td.case-par em, td.case-par strong, .legend .case-par { color: var(
 th.case-inner, td.case-inner em, td.case-inner strong, .legend .case-inner { color: var(--inner); }
 th.case-outer, td.case-outer em, td.case-outer strong, .legend .case-outer { color: var(--outer); }
 
+td.est-word { color: var(--estonian); font-weight: 600; }
+td.est-word.case-nom { color: var(--nom); }
+td.est-word.case-gen { color: var(--gen); }
+td.est-word.case-par { color: var(--par); }
+td.est-word.case-inner { color: var(--inner); }
+td.est-word.case-outer { color: var(--outer); }
+
 .legend span { font-weight: 600; }
 
 .font-picker { display: inline-flex; align-items: center; gap: 6px; margin-left: auto; color: var(--muted); }

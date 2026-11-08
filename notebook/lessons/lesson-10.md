@@ -76,11 +76,11 @@ Example: *kassikese kauss* "the kitty's bowl".
 
 **A. Form the diminutive in *-ke*.**
 
-1. *koer (gen. koera)*
-2. kala (gen. kala)
-3. lind (gen. linnu)
-4. tuba (gen. toa)
-5. maja (gen. maja)
+1. *koer* (gen. *koera*)
+2. *kala* (gen. *kala*)
+3. *lind* (gen. *linnu*)
+4. *tuba* (gen. *toa*)
+5. *maja* (gen. *maja*)
 
 **B. Give the genitive.**
 
@@ -101,14 +101,14 @@ Example: *kassikese kauss* "the kitty's bowl".
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. koerake · 2. kalake · 3. linnuke · 4. toake · 5. majake
+**A.** 1. *koerake* · 2. *kalake* · 3. *linnuke* · 4. *toake* · 5. *majake*
 
-**B.** 1. kassikese · 2. väikese · 3. päikese · 4. linnukese · 5. kalakese
+**B.** 1. *kassikese* · 2. *väikese* · 3. *päikese* · 4. *linnukese* · 5. *kalakese*
 
 **C.**
 
 1. *mu kallis kassike*
-2. Maga, linnuke!
+2. *Maga, linnuke!*
 3. *kassikese kauss*
 4. *väikese maja kõrval*
 5. *Kallike, tule koju!*

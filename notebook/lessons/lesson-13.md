@@ -13,18 +13,18 @@
 
 | Number | Genitive | Ordinal | Genitive of ordinal |
 |---|---|---|---|
-| 1 üks | *ühe* | **esimene** | *esimese* |
-| 2 kaks | *kahe* | **teine** | *teise* |
-| 3 kolm | *kolme* | **kolmas** | *kolmanda* |
-| 4 neli | *nelja* | *neljas* | *neljanda* |
-| 5 viis | *viie* | *viies* | *viienda* |
-| 6 kuus | *kuue* | *kuues* | *kuuenda* |
-| 7 seitse | *seitsme* | *seitsmes* | *seitsmenda* |
-| 8 kaheksa | *kaheksa* | *kaheksas* | *kaheksanda* |
-| 9 üheksa | *üheksa* | *üheksas* | *üheksanda* |
-| 10 kümme | *kümne* | *kümnes* | *kümnenda* |
-| 100 sada | *saja* | *sajas* | *sajanda* |
-| 1000 tuhat | *tuhande* | *tuhandes* | *tuhandenda* |
+| 1 *üks* | *ühe* | **esimene** | *esimese* |
+| 2 *kaks* | *kahe* | **teine** | *teise* |
+| 3 *kolm* | *kolme* | **kolmas** | *kolmanda* |
+| 4 *neli* | *nelja* | *neljas* | *neljanda* |
+| 5 *viis* | *viie* | *viies* | *viienda* |
+| 6 *kuus* | *kuue* | *kuues* | *kuuenda* |
+| 7 *seitse* | *seitsme* | *seitsmes* | *seitsmenda* |
+| 8 *kaheksa* | *kaheksa* | *kaheksas* | *kaheksanda* |
+| 9 *üheksa* | *üheksa* | *üheksas* | *üheksanda* |
+| 10 *kümme* | *kümne* | *kümnes* | *kümnenda* |
+| 100 *sada* | *saja* | *sajas* | *sajanda* |
+| 1000 *tuhat* | *tuhande* | *tuhandes* | *tuhandenda* |
 
 In a longer ordinal, the final part takes the ordinal ending and every part before it is in the genitive.
 
@@ -82,9 +82,9 @@ The whole date changes case according to its role in the sentence.
 
 | Case | Use | Example |
 |---|---|---|
-| Nominative | stating the date | Täna on kaheteistkümnes mai. "Today is 12 May." |
-| Genitive | modifying a noun | kaheteistkümnenda mai õhtu "the evening of 12 May" |
-| Adessive | saying when | Ma sõidan ära kaheteistkümnendal mail. "I'm leaving on 12 May." |
+| Nominative | stating the date | *Täna on kaheteistkümnes mai.* "Today is 12 May." |
+| Genitive | modifying a noun | *kaheteistkümnenda mai õhtu* "the evening of 12 May" |
+| Adessive | saying when | *Ma sõidan ära kaheteistkümnendal mail.* "I'm leaving on 12 May." |
 
 In the adessive, both the ordinal and the month take *-l*.
 
@@ -128,7 +128,7 @@ In the adessive, both the ordinal and the month take *-l*.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. neljas · 2. seitsmes · 3. kümnes · 4. kuueteistkümnes · 5. kahekümne kolmas
+**A.** 1. *neljas* · 2. *seitsmes* · 3. *kümnes* · 4. *kuueteistkümnes* · 5. *kahekümne kolmas*
 
 **B.**
 

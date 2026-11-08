@@ -29,12 +29,12 @@ The noun goes into the genitive and the postposition expresses the direction.
 
 | Case form | Postposition form | English |
 |---|---|---|
-| kotisse | *koti sisse* | into the bag |
-| kotis | *koti sees* | in the bag |
-| kotist | *koti seest* | out of the bag |
-| riiulile | *riiuli peale* | onto the shelf |
-| riiulil | *riiuli peal* | on the shelf |
-| riiulilt | *riiuli pealt* | off the shelf |
+| *kotisse* | *koti sisse* | into the bag |
+| *kotis* | *koti sees* | in the bag |
+| *kotist* | *koti seest* | out of the bag |
+| *riiulile* | *riiuli peale* | onto the shelf |
+| *riiulil* | *riiuli peal* | on the shelf |
+| *riiulilt* | *riiuli pealt* | off the shelf |
 
 - *Võti on koti sees.* "The key is inside the bag."
 - *Ma mõtlen puhkuse peale.* "I'm thinking about my vacation."
@@ -70,12 +70,12 @@ Several postpositions are frozen case forms of nouns, often body parts or physic
 
 | Noun | Postposition | Example |
 |---|---|---|
-| pea "head" | *peal* | laua peal "on the table" |
-| juur "root" | *juures* | maja juures "by the house" |
-| äär "edge" | *ääres* | jõe ääres "by the river" |
-| kõrv "ear" | *kõrval* | ukse kõrval "beside the door" |
-| ots "end, tip" | *otsas* | Kass on katuse otsas. "The cat is up on the roof." |
-| käsi "hand" | *käes* | päikese käes "in the sun" |
+| *pea* "head" | *peal* | *laua peal* "on the table" |
+| *juur* "root" | *juures* | *maja juures* "by the house" |
+| *äär* "edge" | *ääres* | *jõe ääres* "by the river" |
+| *kõrv* "ear" | *kõrval* | *ukse kõrval* "beside the door" |
+| *ots* "end, tip" | *otsas* | *Kass on katuse otsas.* "The cat is up on the roof." |
+| *käsi* "hand" | *käes* | *päikese käes* "in the sun" |
 
 ## Useful phrases
 
@@ -100,12 +100,12 @@ Several postpositions are frozen case forms of nouns, often body parts or physic
 
 **B. Fill in the postposition.**
 
-1. Koer jookseb auto ___. (to behind)
-2. Koer on auto ___. (behind)
-3. Koer tuleb auto ___ välja. (from behind)
-4. *Ma lähen arsti ___. (to)*
-5. *Raamat on laua ___. (under)*
-6. *Istu minu ___! (to beside)*
+1. *Koer jookseb auto ___.* (to behind)
+2. *Koer on auto ___.* (behind)
+3. *Koer tuleb auto ___ välja.* (from behind)
+4. *Ma lähen arsti ___.* (to)
+5. *Raamat on laua ___.* (under)
+6. *Istu minu ___!* (to beside)
 
 **C. Rewrite with a postposition.**
 
@@ -120,10 +120,10 @@ Several postpositions are frozen case forms of nouns, often body parts or physic
 
 1. *Mul on kass.*
 2. *Maril on õde.*
-3. Kas sul on auto?
+3. *Kas sul on auto?*
 4. *Tiidul ei ole autot.*
 
-**B.** 1. taha · 2. taga · 3. tagant · 4. juurde · 5. all · 6. kõrvale
+**B.** 1. *taha* · 2. *taga* · 3. *tagant* · 4. *juurde* · 5. *all* · 6. *kõrvale*
 
 **C.**
 

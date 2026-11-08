@@ -81,9 +81,9 @@ Two groups use this pattern:
 
 | Group | Verbs | Change |
 |---|---|---|
-| Two-syllable stems in *-e-* | *olema, tulema, tegema, nägema, panema, pesema, surema* | *-e-* is replaced: olin, tulin, tegin, nägin |
-| Long vowel stems | *saama, jääma* | long vowel shortens: sain, jäin |
-|  | *jooma, sööma, tooma, lööma, looma* | *oo/öö* becomes *õ*: jõin, sõin, tõin, lõin, lõin |
+| Two-syllable stems in *-e-* | *olema, tulema, tegema, nägema, panema, pesema, surema* | *-e-* is replaced: *olin, tulin, tegin, nägin* |
+| Long vowel stems | *saama, jääma* | long vowel shortens: *sain, jäin* |
+|  | *jooma, sööma, tooma, lööma, looma* | *oo/öö* becomes *õ*: *jõin, sõin, tõin, lõin, lõin* |
 
 Not every long-vowel verb belongs here. *Käima*, *viima* and *müüma* use *-si-*: *käisin*, *viisin*, *müüsin*.
 
@@ -93,7 +93,7 @@ Not every long-vowel verb belongs here. *Käima*, *viima* and *müüma* use *-si
 |---|---|---|
 | *pidama* | *pidasin* | held, kept |
 | *pidama* | *pidin* | had to |
-| *laskma* | *lasksin or lasin* | let; shot (either form, either meaning) |
+| *laskma* | *lasksin* or *lasin* | let; shot (either form, either meaning) |
 
 *Pidin täna vara tõusma.* "I had to get up early today." *Me pidasime eile pidu.* "We held a party yesterday."
 
@@ -115,7 +115,7 @@ Not every long-vowel verb belongs here. *Käima*, *viima* and *müüma* use *-si
 1. *ma (ostma) ___*
 2. *ta (kuulma) ___*
 3. *me (magama) ___*
-4. nad (tulema) ___
+4. *nad (tulema) ___*
 5. *te (jooma) ___*
 6. *ta (jätma) ___*
 7. *sa (minema) ___*
@@ -138,9 +138,9 @@ Not every long-vowel verb belongs here. *Käima*, *viima* and *müüma* use *-si
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. ostsin · 2. kuulis · 3. magasime · 4. tulid · 5. jõite · 6. jättis · 7. läksid · 8. tõusis
+**A.** 1. *ostsin* · 2. *kuulis* · 3. *magasime* · 4. *tulid* · 5. *jõite* · 6. *jättis* · 7. *läksid* · 8. *tõusis*
 
-**B.** 1. tegin, tegi · 2. jäin, jäi · 3. hoidsin, hoidis · 4. käisin, käis
+**B.** 1. *tegin, tegi* · 2. *jäin, jäi* · 3. *hoidsin, hoidis* · 4. *käisin, käis*
 
 **C.**
 

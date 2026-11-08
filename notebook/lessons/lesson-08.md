@@ -32,12 +32,12 @@ The rules explain the changes after the fact, but cannot always predict them. Tr
 
 | Personal pronoun | Possessive | Short form | English |
 |---|---|---|---|
-| mina (ma) | *minu* | mu | my |
-| sina (sa) | *sinu* | su | your (sg.) |
-| tema (ta) | *tema* | *ta* | his, her |
-| meie (me) | *meie* | *me* | our |
-| teie (te) | *teie* | *te* | your (pl., polite) |
-| nemad (nad) | *nende* | none | their |
+| *mina (ma)* | *minu* | *mu* | my |
+| *sina (sa)* | *sinu* | *su* | your (sg.) |
+| *tema (ta)* | *tema* | *ta* | his, her |
+| *meie (me)* | *meie* | *me* | our |
+| *teie (te)* | *teie* | *te* | your (pl., polite) |
+| *nemad (nad)* | *nende* | none | their |
 
 The possessive stays the same whatever follows:
 
@@ -80,10 +80,10 @@ The last word carries the case endings, and the first word is fixed.
 
 1. *kott (-i)*
 2. *pakk (-i)*
-3. part (-i)
-4. kurk "cucumber" (-i)
+3. *part (-i)*
+4. *kurk* "cucumber" (*-i*)
 5. *kuld (-a)*
-6. tund (-i)
+6. *tund (-i)*
 
 **B. Translate into Estonian.**
 
@@ -104,22 +104,22 @@ The last word carries the case endings, and the first word is fixed.
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. koti · 2. paki · 3. pardi · 4. kurgi · 5. kulla · 6. tunni
+**A.** 1. *koti* · 2. *paki* · 3. *pardi* · 4. *kurgi* · 5. *kulla* · 6. *tunni*
 
 **B.**
 
 1. *minu (mu) kassi nimi*
-2. nende maja
+2. *nende maja*
 3. *meie naabri nuga*
 4. *sinu (su) aken*
 
 **C.**
 
-1. raud + tee, nominative
-2. *raamatu + pood, genitive*
-3. kohvi + tass, genitive
-4. väike + linn, nominative
-5. *hommiku + söök, genitive*
-6. jalg + ratas, nominative
+1. *raud + tee*, nominative
+2. *raamatu + pood*, genitive
+3. *kohvi + tass*, genitive
+4. *väike + linn*, nominative
+5. *hommiku + söök*, genitive
+6. *jalg + ratas*, nominative
 
 </details>

@@ -81,8 +81,8 @@ Some words contain it permanently, such as *keegi, miski, kunagi, isegi, ükski,
 
 | Base | Case form |
 |---|---|
-| *keegi* | kellelegi, kellegagi |
-| *miski* | millestki |
+| *keegi* | *kellelegi, kellegagi* |
+| *miski* | *millestki* |
 
 *Ma ei rääkinud kellelegi.* "I didn't tell anyone." *Ta pole kunagi Riias käinud.* "She has never been to Riga."
 
@@ -103,16 +103,16 @@ Some words contain it permanently, such as *keegi, miski, kunagi, isegi, ükski,
 
 1. *tark*
 2. *õpetaja*
-3. soe
-4. suur (+ *linn*, as a phrase)
+3. *soe*
+4. *suur* (+ *linn*, as a phrase)
 5. *nädal*
 
 **B. Add *-ki* or *-gi*.**
 
-1. laud
+1. *laud*
 2. *raamat*
 3. *koer*
-4. kala
+4. *kala*
 5. *kass*
 6. *sõber*
 
@@ -126,9 +126,9 @@ Some words contain it permanently, such as *keegi, miski, kunagi, isegi, ükski,
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. targaks · 2. õpetajaks · 3. soojaks · 4. suureks linnaks · 5. nädalaks
+**A.** 1. *targaks* · 2. *õpetajaks* · 3. *soojaks* · 4. *suureks linnaks* · 5. *nädalaks*
 
-**B.** 1. laudki · 2. raamatki · 3. koergi · 4. kalagi · 5. kasski · 6. sõbergi
+**B.** 1. *laudki* · 2. *raamatki* · 3. *koergi* · 4. *kalagi* · 5. *kasski* · 6. *sõbergi*
 
 **C.**
 

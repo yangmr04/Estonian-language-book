@@ -94,17 +94,17 @@ In a list, the ending usually goes only on the last noun, and the others stay in
 
 **A. Give the comitative and abessive.**
 
-1. *raha (gen. raha)*
-2. *kolleeg (gen. kolleegi)*
-3. *lusikas (gen. lusika)*
-4. *piim (gen. piima)*
+1. *raha* (gen. *raha*)
+2. *kolleeg* (gen. *kolleegi*)
+3. *lusikas* (gen. *lusika*)
+4. *piim* (gen. *piima*)
 
 **B. Give the correct form.**
 
-1. Ma sõidan ___ (uus auto, with).
-2. Tee ___ (suhkur, without).
-3. *Ta räägib ___ (sõbralik naaber, with).*
-4. Ära mine välja ilma ___ (soe mantel; gen. *sooja mantli*).
+1. *Ma sõidan ___* (*uus auto*, with).
+2. *Tee ___* (*suhkur*, without).
+3. *Ta räägib ___* (*sõbralik naaber*, with).
+4. *Ära mine välja ilma ___* (*soe mantel*; gen. *sooja mantli*).
 
 **C. Translate into Estonian.**
 
@@ -124,11 +124,11 @@ In a list, the ending usually goes only on the last noun, and the others stay in
 3. *lusikaga · lusikata*
 4. *piimaga · piimata*
 
-**B.** 1. uue autoga · 2. suhkruta · 3. sõbraliku naabriga · 4. sooja mantlita
+**B.** 1. *uue autoga* · 2. *suhkruta* · 3. *sõbraliku naabriga* · 4. *sooja mantlita*
 
 **C.**
 
-1. Tule meiega!
+1. *Tule meiega!*
 2. *Ma ei lähe sinuta. / Ma ei lähe ilma sinuta.*
 3. *ema ja isaga*
 4. *Ma kirjutan pastakaga.*

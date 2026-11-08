@@ -135,19 +135,19 @@ Nominative *ise* adds a different meaning, "personally": *Ma tegin selle ise.* "
 
 **A. Give the correct form.**
 
-1. Ma annan raamatu ___ (sina, allative).
-2. Kas sa tuled ___ (mina, comitative)?
-3. *___ (tema, adessive) on koer.*
-4. Me räägime ___ (nemad, elative).
-5. Ma ei näe ___ (see, partitive) lindu.
-6. ___ (kes, genitive) kott see on?
+1. *Ma annan raamatu ___ (sina*, allative).
+2. *Kas sa tuled ___ (mina*, comitative)?
+3. *___ (tema*, adessive) *on koer.*
+4. *Me räägime ___ (nemad*, elative).
+5. *Ma ei näe ___ (see*, partitive) *lindu.*
+6. *___ (kes*, genitive) *kott see on?*
 
 **B. Choose *oma*, *omad* or *tema*.**
 
-1. *Ma pesen ___ autot. (my own)*
-2. Ta helistas ___ sõbrale. (his own)
-3. *Anu tuli. Ma võtsin ___ koti. (Anu's)*
-4. See auto on minu ___.
+1. *Ma pesen ___ autot.* (my own)
+2. *Ta helistas ___ sõbrale.* (his own)
+3. *Anu tuli. Ma võtsin ___ koti.* (Anu's)
+4. *See auto on minu ___.*
 5. *Need raamatud on õpetaja ___.*
 
 **C. Translate into Estonian.**
@@ -161,14 +161,14 @@ Nominative *ise* adds a different meaning, "personally": *Ma tegin selle ise.* "
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. sulle or sinule · 2. minuga · 3. Tal or Temal · 4. nendest or neist · 5. seda · 6. Kelle
+**A.** 1. *sulle* or *sinule* · 2. *minuga* · 3. *Tal* or *Temal* · 4. *nendest* or *neist* · 5. *seda* · 6. *Kelle*
 
-**B.** 1. oma · 2. oma · 3. tema · 4. oma · 5. omad
+**B.** 1. *oma* · 2. *oma* · 3. *tema* · 4. *oma* · 5. *omad*
 
 **C.**
 
 1. *Ma ei tunne siin kedagi.*
-2. Kumba sa tahad?
+2. *Kumba sa tahad?*
 3. *Ta vaatas end peeglist.*
 4. *Mõlemad vennad elavad Pärnus.*
 5. *Naine, keda ma aitasin, on minu naaber.*

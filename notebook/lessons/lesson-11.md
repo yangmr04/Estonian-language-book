@@ -55,12 +55,12 @@ This also applies when the subject is a plural pronoun: *Me oleme rõõmsad.* "W
 
 **A. Give the nominative plural. The genitive singular is in brackets.**
 
-1. auto (auto)
+1. *auto (auto)*
 2. *õun (õuna)*
 3. *sõber (sõbra)*
 4. *uks (ukse)*
 5. *tütar (tütre)*
-6. kala (kala)
+6. *kala (kala)*
 
 **B. Rewrite in the plural.**
 
@@ -68,7 +68,7 @@ This also applies when the subject is a plural pronoun: *Me oleme rõõmsad.* "W
 2. *Õun on punane.*
 3. *Hea õpetaja räägib.*
 4. *Kõrge maja on uus.*
-5. Puhas tuba on soe.
+5. *Puhas tuba on soe.*
 
 **C. Translate into Estonian.**
 
@@ -79,7 +79,7 @@ This also applies when the subject is a plural pronoun: *Me oleme rõõmsad.* "W
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. autod · 2. õunad · 3. sõbrad · 4. uksed · 5. tütred · 6. kalad
+**A.** 1. *autod* · 2. *õunad* · 3. *sõbrad* · 4. *uksed* · 5. *tütred* · 6. *kalad*
 
 **B.**
 

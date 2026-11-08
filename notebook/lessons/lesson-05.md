@@ -100,15 +100,15 @@ Watch out for the look-alikes *kaks* "2" and *kaheksa* "8", and *üks* "1" and *
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. Osta leib! · 2. Sule aken! · 3. Too võti! · 4. Kustuta tuli!
+**A.** 1. *Osta leib!* · 2. *Sule aken!* · 3. *Too võti!* · 4. *Kustuta tuli!*
 
-**B.** 1. kolm · 2. seitse · 3. üheksa · 4. viis · 5. kümme · 6. kaheksa
+**B.** 1. *kolm* · 2. *seitse* · 3. *üheksa* · 4. *viis* · 5. *kümme* · 6. *kaheksa*
 
 **C.**
 
 1. *Täna on külm.*
 2. *Sajab lund.*
-3. Kahju, et sa ei tule.
+3. *Kahju, et sa ei tule.*
 4. *Väljas on pime.*
 
 </details>

@@ -115,9 +115,9 @@ Three exceptions to remember:
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. ujuda · 2. tõusma · 3. ostma · 4. laulda · 5. joonistada · 6. ootama · 7. minna · 8. sööma
+**A.** 1. *ujuda* · 2. *tõusma* · 3. *ostma* · 4. *laulda* · 5. *joonistada* · 6. *ootama* · 7. *minna* · 8. *sööma*
 
-**B.** 1. kanda, kannan · 2. juua, joon · 3. pesta, pesen · 4. näha, näen · 5. panna, panen · 6. hüpata, hüppan
+**B.** 1. *kanda, kannan* · 2. *juua, joon* · 3. *pesta, pesen* · 4. *näha, näen* · 5. *panna, panen* · 6. *hüpata, hüppan*
 
 **C.**
 

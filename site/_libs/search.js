@@ -48,11 +48,19 @@
     return "";
   }
 
+  // A column header such as "Short illative" or "Weak (genitive)" names exactly one case.
+  function namedCaseClass(text) {
+    var label = text.toLowerCase();
+    if (/^with\b/.test(label)) return "";
+    var found = label.match(/nominative|genitive|partitive|illative|inessive|elative|allative|adessive|ablative/g) || [];
+    return found.length === 1 ? caseClass(found[0]) : "";
+  }
+
   document.querySelectorAll("main table").forEach(function (table) {
     var rows = Array.prototype.slice.call(table.rows);
     if (!rows.length) return;
     var columns = Array.prototype.map.call(rows[0].cells, function (cell) {
-      var name = caseClass(cell.textContent);
+      var name = caseClass(cell.textContent) || namedCaseClass(cell.textContent);
       if (name) cell.classList.add(name);
       return name;
     });
@@ -63,6 +71,12 @@
       Array.prototype.forEach.call(row.cells, function (cell, index) {
         var name = columns[index] || rowCase;
         if (name) cell.classList.add(name);
+        // A single word with a bold ending, such as kand**is**, is Estonian as a whole.
+        var bold = cell.querySelector("strong");
+        var word = cell.textContent.trim();
+        if (bold && !cell.querySelector("em") && /^\S+$/.test(word) && word !== bold.textContent.trim()) {
+          cell.classList.add("est-word");
+        }
       });
     });
   });

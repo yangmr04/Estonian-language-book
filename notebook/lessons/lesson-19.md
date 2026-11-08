@@ -82,10 +82,10 @@ The genitive always ends in *-a*:
 
 | Nominative | Genitive | Example |
 |---|---|---|
-| *kõrgem* | *kõrgema* | kõrgema mäe tipp "the peak of the higher mountain" |
-| *odavam* | *odavama* | odavama pileti hind "the price of the cheaper ticket" |
-| *kõige noorem* | *kõige noorema* | kõige noorema poisi koer "the youngest boy's dog" |
-| *parim* | *parima* | parima sõbra nimi "the best friend's name" |
+| *kõrgem* | *kõrgema* | *kõrgema mäe tipp* "the peak of the higher mountain" |
+| *odavam* | *odavama* | *odavama pileti hind* "the price of the cheaper ticket" |
+| *kõige noorem* | *kõige noorema* | *kõige noorema poisi koer* "the youngest boy's dog" |
+| *parim* | *parima* | *parima sõbra nimi* "the best friend's name" |
 
 ## Useful phrases
 
@@ -103,7 +103,7 @@ The genitive always ends in *-a*:
 **A. Give the comparative.**
 
 1. *kõrge*
-2. lai
+2. *lai*
 3. *odav*
 4. *kuiv*
 5. *puhas*
@@ -113,9 +113,9 @@ The genitive always ends in *-a*:
 
 **B. Rewrite using the elative.**
 
-1. Rong on kiirem kui buss.
-2. Tee on kuumem kui piim.
-3. Mari on noorem kui Tiit.
+1. *Rong on kiirem kui buss.*
+2. *Tee on kuumem kui piim.*
+3. *Mari on noorem kui Tiit.*
 
 **C. Translate into Estonian.**
 
@@ -127,7 +127,7 @@ The genitive always ends in *-a*:
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. kõrgem · 2. laiem · 3. odavam · 4. kuivem · 5. puhtam · 6. väiksem (vähem) · 7. lühem · 8. parem
+**A.** 1. *kõrgem* · 2. *laiem* · 3. *odavam* · 4. *kuivem* · 5. *puhtam* · 6. *väiksem (vähem)* · 7. *lühem* · 8. *parem*
 
 **B.**
 

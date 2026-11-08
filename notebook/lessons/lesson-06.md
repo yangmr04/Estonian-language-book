@@ -82,36 +82,36 @@ The stem can look very different, so memorise each new verb as a pair.
 
 **A. Give the conditional of the verb.**
 
-1. ma *sõitma*
-2. te *ostma*
-3. nad *tulema* (tulen)
-4. ta *elama*
-5. me *sööma* (söön)
-6. sa *olema* (olen)
+1. *ma sõitma*
+2. *te ostma*
+3. *nad tulema* (*tulen*)
+4. *ta elama*
+5. *me sööma* (*söön*)
+6. *sa olema* (*olen*)
 
 **B. Make these negative.**
 
 1. *Ma ostaksin.*
-2. Nad tuleksid.
+2. *Nad tuleksid.*
 3. *Me sõidaksime.*
 
 **C. For each dictionary entry, give the present stem, the singular command and the *ma* conditional.**
 
-1. *hoidma*, hoian "to hold, keep"
-2. *õppima*, õpin "to study"
-3. *andma*, annan "to give"
+1. *hoidma*, *hoian* "to hold, keep"
+2. *õppima*, *õpin* "to study"
+3. *andma*, *annan* "to give"
 
 <details>
 <summary>Show answers</summary>
 
-**A.** 1. sõidaksin · 2. ostaksite · 3. tuleksid · 4. elaks · 5. sööksime · 6. oleksid
+**A.** 1. *sõidaksin* · 2. *ostaksite* · 3. *tuleksid* · 4. *elaks* · 5. *sööksime* · 6. *oleksid*
 
-**B.** 1. Ma ei ostaks. · 2. Nad ei tuleks. · 3. Me ei sõidaks.
+**B.** 1. *Ma ei ostaks.* · 2. *Nad ei tuleks.* · 3. *Me ei sõidaks.*
 
 **C.**
 
 1. *hoia-, hoia!, hoiaksin*
 2. *õpi-, õpi!, õpiksin*
-3. anna-, anna!, annaksin
+3. *anna-, anna!, annaksin*
 
 </details>
